@@ -25,17 +25,14 @@ let cursor = 0;
 
 async function check(source) {
   const options = {
-    method: "HEAD",
+    method: "GET",
     redirect: "follow",
-    signal: AbortSignal.timeout(15000),
+    signal: AbortSignal.timeout(30000),
     headers: { "user-agent": "Australian-Visa-Activity-Atlas-Link-Check/1.0" }
   };
   try {
-    let response = await fetch(source.url, options);
-    if ([403, 405].includes(response.status)) {
-      response = await fetch(source.url, { ...options, method: "GET", headers: { ...options.headers, range: "bytes=0-512" } });
-      await response.body?.cancel();
-    }
+    const response = await fetch(source.url, options);
+    await response.body?.cancel();
     return { ...source, status: response.status, finalUrl: response.url, ok: response.status < 400 || [401, 403].includes(response.status) };
   } catch (error) {
     return { ...source, status: "ERROR", finalUrl: source.url, ok: false, error: error.message };

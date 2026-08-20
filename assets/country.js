@@ -10,6 +10,8 @@
   const escapeHtml = helpers.escapeHtml;
   const claimMeta = helpers.claimMeta;
   const claimAttributes = helpers.claimAttributes;
+  const recordMeta = helpers.recordMeta;
+  const recordAttributes = helpers.recordAttributes;
 
   document.title = `${country.name} pathways | Australian Visa & Activity Atlas`;
   document.querySelectorAll("[data-country-name]").forEach(function (node) { node.textContent = country.name; });
@@ -36,6 +38,26 @@
       <p ${claimAttributes(country, "conferenceFit.detail")}>${escapeHtml(country.conferenceFit.detail)}${claimMeta(country, "conferenceFit.detail", "Opportunity")}</p>
       <p ${claimAttributes(country, "conferenceFit.themes")}><strong>Useful themes:</strong> ${escapeHtml(country.conferenceFit.themes.join(", "))}.${claimMeta(country, "conferenceFit.themes", "Themes")}</p>
       <p class="notice notice-info"><strong>Separate question:</strong> A conference being conducted in English does not decide what visa or work permission a speaker needs.</p>`;
+  }
+
+  const opportunitySection = document.querySelector("[data-country-opportunities-section]");
+  const opportunityList = document.querySelector("[data-country-opportunities]");
+  const liveOpportunities = (country.opportunities || []).filter(helpers.opportunityOpen).sort(function (left, right) {
+    return left.deadlineISO.localeCompare(right.deadlineISO);
+  });
+  if (opportunitySection && opportunityList && liveOpportunities.length) {
+    opportunitySection.hidden = false;
+    opportunityList.innerHTML = liveOpportunities.map(function (item) {
+      return `
+        <article class="card" ${recordAttributes(item)}>
+          <p class="eyebrow">${escapeHtml(item.type)}</p>
+          <h3>${escapeHtml(item.title)}</h3>
+          <p><strong>Open until ${escapeHtml(item.deadline)}.</strong> ${escapeHtml(item.compensation || "")}</p>
+          <p>${escapeHtml(item.detail)}</p>
+          <a href="${escapeHtml(item.url)}">View the official call →</a>
+          ${recordMeta(item, "Opportunity")}
+        </article>`;
+    }).join("");
   }
 
   const launchCard = document.querySelector("[data-launch-card]");
@@ -91,7 +113,8 @@
   const sources = document.querySelector("[data-country-sources]");
   if (sources) {
     sources.innerHTML = country.sources.map(function (source, index) {
-      const kind = /opportunity/i.test(source.supports) ? "Opportunity signal" : "Route evidence";
+      const sourceMarker = [source.type, source.authority, source.supports].filter(Boolean).join(" ");
+      const kind = source.kind === "opportunity" || /organi[sz]er|conference[- ]signal|opportunity|open (?:speaker |lightning-talk )?call|call for (?:speakers?|participation|proposals?|presentations?)/i.test(sourceMarker) ? "Opportunity signal" : "Route evidence";
       const sourceClaimId = `${country.id}.source.${index + 1}`;
       return `<li data-claim-id="${escapeHtml(sourceClaimId)}" data-claim-checked="${escapeHtml(source.checked)}"><span class="chip">${kind}</span><a href="${escapeHtml(source.url)}">${escapeHtml(source.title)}</a><span class="source-meta">${escapeHtml(source.authority)} · checked ${escapeHtml(source.checked)} · supports: ${escapeHtml(source.supports)}</span></li>`;
     }).join("");

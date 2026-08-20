@@ -7,6 +7,7 @@ const toolDirectory = path.dirname(fileURLToPath(import.meta.url));
 const repoDirectory = path.resolve(toolDirectory, "..");
 const failures = [];
 const claimIds = new Set();
+const allowedPathwayStatuses = new Set(["low", "conditional", "specialist", "confirm", "not-fit"]);
 let claimCount = 0;
 
 function fail(message) { failures.push(message); }
@@ -65,10 +66,16 @@ const preparation = sandbox.window.PREPARE_DATA;
 if (!atlas || !Array.isArray(atlas.countries)) fail("assets/data.js: ATLAS_DATA missing");
 if (!Array.isArray(world) || world.length !== 201) fail(`assets/world-baseline.js: expected 201 records, found ${world?.length}`);
 
-const expectedCountries = ["thailand", "vietnam", "china", "philippines", "india"];
-for (const id of expectedCountries) {
-  const country = atlas.countries.find((item) => item.id === id);
-  if (!country) { fail(`assets/data.js: missing ${id}`); continue; }
+const requiredCountries = [
+  "thailand", "vietnam", "china", "philippines", "india", "new-zealand",
+  "singapore", "united-states", "canada", "united-kingdom", "ireland"
+];
+for (const id of requiredCountries) {
+  if (!atlas.countries.find((item) => item.id === id)) fail(`assets/data.js: missing ${id}`);
+}
+for (const country of atlas.countries) {
+  const id = country.id;
+  if (!id) { fail("assets/data.js: country id missing"); continue; }
   if (!validCheckedDate(country.reviewed)) fail(`${id}: invalid country review date`);
   for (const key of ["entrySnapshot", "ageNote", "cardSummary", "summary", "steps", "cautions"]) {
     validateClaim(country.claimChecks?.[key], `${id}.${key}`);
@@ -81,6 +88,7 @@ for (const id of expectedCountries) {
   }
   for (const activity of atlas.activities) {
     if (!country.pathways[activity.id]) fail(`${id}: missing pathway ${activity.id}`);
+    if (!allowedPathwayStatuses.has(country.pathways[activity.id]?.status)) fail(`${id}: invalid pathway status for ${activity.id}`);
     for (const key of ["status", "route", "detail", "next"]) {
       validateClaim(country.claimChecks?.pathways?.[activity.id]?.[key], `${id}.pathways.${activity.id}.${key}`);
     }
@@ -89,6 +97,14 @@ for (const id of expectedCountries) {
   for (const source of country.sources || []) {
     if (!/^https:\/\//.test(source.url)) fail(`${id}: non-HTTPS source ${source.url}`);
     if (!source.supports || !validCheckedDate(source.checked)) fail(`${id}: incomplete source metadata for ${source.title}`);
+  }
+  for (const opportunity of country.opportunities || []) {
+    validateClaim(opportunity, `${id}.opportunities.${opportunity.id || "missing-id"}`);
+    if (!opportunity.title || !opportunity.type || !opportunity.detail || !opportunity.deadline || !/^\d{4}-\d{2}-\d{2}$/.test(opportunity.deadlineISO || "")) fail(`${id}: incomplete opportunity ${opportunity.title || "untitled"}`);
+    if (!/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(?:Z|[+-]\d{2}:\d{2})$/.test(opportunity.deadlineAt || "") || Number.isNaN(Date.parse(opportunity.deadlineAt))) fail(`${id}: missing or invalid opportunity timestamp ${opportunity.deadlineAt || "missing"}`);
+    if (!/^https:\/\//.test(opportunity.url || "")) fail(`${id}: non-HTTPS opportunity source ${opportunity.url || "missing"}`);
+    const opportunitySource = country.sources?.find((source) => source.url === opportunity.url);
+    if (!opportunitySource || opportunitySource.kind !== "opportunity") fail(`${id}: opportunity source is missing explicit kind metadata for ${opportunity.title || "untitled"}`);
   }
   const page = path.join(repoDirectory, "countries", `${id}.html`);
   if (!fs.existsSync(page)) fail(`${id}: country page missing`);

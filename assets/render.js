@@ -76,6 +76,37 @@
     }).join("");
   }
 
+  function opportunityOpen(opportunity) {
+    const deadline = new Date(opportunity?.deadlineAt || `${opportunity?.deadlineISO || ""}T23:59:59`);
+    return !Number.isNaN(deadline.getTime()) && deadline >= new Date();
+  }
+
+  function renderLiveOpportunities() {
+    const section = document.querySelector("[data-live-opportunities-section]");
+    const target = document.querySelector("[data-live-opportunities]");
+    if (!section || !target) return;
+    const openings = data.countries.flatMap(function (country) {
+      return (country.opportunities || []).filter(opportunityOpen).map(function (opportunity) {
+        return { country: country, opportunity: opportunity };
+      });
+    }).sort(function (left, right) {
+      return left.opportunity.deadlineISO.localeCompare(right.opportunity.deadlineISO);
+    });
+    if (!openings.length) return;
+    section.hidden = false;
+    target.innerHTML = openings.map(function (item) {
+      return `
+        <article class="card" ${recordAttributes(item.opportunity)}>
+          <p class="eyebrow">${escapeHtml(item.country.name)} · ${escapeHtml(item.opportunity.type)}</p>
+          <h3>${escapeHtml(item.opportunity.title)}</h3>
+          <p><strong>Open until ${escapeHtml(item.opportunity.deadline)}.</strong> ${escapeHtml(item.opportunity.compensation || "")}</p>
+          <p>${escapeHtml(item.opportunity.detail)}</p>
+          <a href="${escapeHtml(item.opportunity.url)}">View the official call →</a>
+          ${recordMeta(item.opportunity, "Opportunity")}
+        </article>`;
+    }).join("");
+  }
+
   function renderHomeActivities() {
     const target = document.querySelector("[data-activity-preview]");
     if (!target) return;
@@ -162,6 +193,7 @@
   }
 
   renderHomeCountries();
+  renderLiveOpportunities();
   renderHomeActivities();
   renderAllActivities();
   renderCompare();
@@ -176,6 +208,7 @@
     recordMeta: recordMeta,
     claimAttributes: claimAttributes,
     claimMeta: claimMeta,
-    activityClaimMeta: activityClaimMeta
+    activityClaimMeta: activityClaimMeta,
+    opportunityOpen: opportunityOpen
   };
 })();

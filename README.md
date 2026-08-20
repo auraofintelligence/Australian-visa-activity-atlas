@@ -2,7 +2,7 @@
 
 A source-led guide for Australian passport holders comparing permission pathways for tourism, business meetings, speaking, book launches, teaching, remote work, entrepreneurship, trade and creative work.
 
-The atlas begins deep reviews with Thailand, Vietnam, China, the Philippines and India. It also imports the earlier all-country business-entry table as a visibly dated world baseline, so no destination disappears while its deeper activity review is queued. It builds on [Australian World Travel](https://auraofintelligence.github.io/Australian-world-travel/) by asking a more useful question:
+The atlas now has deep activity reviews for Thailand, Vietnam, China, the Philippines, India, New Zealand, Singapore, the United States, Canada, the United Kingdom and Ireland. It also imports the earlier all-country business-entry table as a visibly dated world baseline, so no destination disappears while its deeper activity review is queued. It builds on [Australian World Travel](https://auraofintelligence.github.io/Australian-world-travel/) by asking a more useful question:
 
 > Can I legally do the activity I am travelling to do?
 
@@ -57,6 +57,8 @@ claimChecks: buildClaimChecks("THA", "20 August 2026", {
 ```
 
 The validator rejects missing dates, missing claim metadata and duplicate claim IDs. The world baseline is regenerated from `tools/import-world-baseline.mjs`, where its field dates live.
+
+Open speaking calls are stored beside the relevant country with a stable opportunity ID, checked date and published closing date. Every live call has a timezone-aware `deadlineAt`: use the published time where available, or the conservative end of the organiser's local calendar date when it is not. The public site automatically stops showing expired calls, while calls without a firm deadline stay as conference signals rather than being presented as live opportunities.
 
 ## Licence
 
