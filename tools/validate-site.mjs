@@ -71,12 +71,16 @@ const requiredCountries = [
   "singapore", "united-states", "canada", "united-kingdom", "ireland",
   "germany", "italy", "spain", "uruguay", "japan", "south-korea",
   "malaysia", "indonesia", "united-arab-emirates", "saudi-arabia",
-  "qatar", "kenya", "palau"
+  "qatar", "kenya", "palau", "france", "netherlands", "belgium",
+  "switzerland", "austria", "portugal", "greece", "mexico", "brazil",
+  "argentina", "south-africa", "turkiye"
 ];
 const currentBatchCountries = new Set([
   "germany", "italy", "spain", "uruguay", "japan", "south-korea",
   "malaysia", "indonesia", "united-arab-emirates", "saudi-arabia",
-  "qatar", "kenya", "palau"
+  "qatar", "kenya", "palau", "france", "netherlands", "belgium",
+  "switzerland", "austria", "portugal", "greece", "mexico", "brazil",
+  "argentina", "south-africa", "turkiye"
 ]);
 if (atlas.countries.length !== requiredCountries.length) fail(`assets/data.js: expected ${requiredCountries.length} deep countries, found ${atlas.countries.length}`);
 const countryIds = atlas.countries.map((country) => country.id);

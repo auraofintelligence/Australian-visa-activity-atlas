@@ -7352,6 +7352,5693 @@ window.ATLAS_DATA = {
           "supports": "official 2026 Palau host preparations and controlled leaders' process"
         }
       ]
+    },
+    {
+      "code": "FRA",
+      "id": "france",
+      "name": "France",
+      "flag": "🇫🇷",
+      "region": "Western Europe",
+      "entrySnapshot": "Visa-free Schengen short stay for Australians; 90 days in any 180-day period for tourism and ordinary business visits.",
+      "ageNote": "Age 43 creates no general visitor gate. Talent, researcher, artist and founder routes depend on evidence, contract or project rather than age.",
+      "cardSummary": "A fast Schengen front door with unusually rich host-led routes for research, teaching, cultural work, talent and company creation.",
+      "summary": "France is easy to reach for a short scouting or conference trip, but the activity must be named accurately. A delegate, business visitor or invited academic is a different legal shape from a paid keynote, workshop, performance or local consulting. France-Visas maps short professional missions, occasional invited teaching, international talent, artist and creator routes; the host and the French-side contract do the unlocking.",
+      "launch": {
+        "fastestEntry": "Visa-free Schengen short stay, normally up to 90 days in any 180-day period",
+        "beforeDeparture": "Check the France-Visas assistant, Schengen day count, passport validity and any event invitation before booking.",
+        "usefulStay": "Short-stay entry is the quick key; long stays or active local work move to a French long-stay visa or residence permit.",
+        "hostUnlock": "A French organiser, university, employer or producer can classify the assignment and provide the contract, convention or work-authorisation evidence.",
+        "quickPacket": [
+          "Australian passport and Schengen day-count",
+          "Invitation with dates, venue and role",
+          "Fee, reimbursement and who pays",
+          "Insurance, accommodation and onward plan"
+        ]
+      },
+      "conferenceFit": {
+        "label": "Strong · French and international",
+        "detail": "Paris, Lyon, Toulouse, Grenoble and Lille have recurring English-friendly AI, science, climate, technology, startup, policy and creative rooms alongside French-first events. Interpretation and bilingual hosts are common enough to plan for both.",
+        "themes": [
+          "AI",
+          "research",
+          "science",
+          "startups",
+          "policy",
+          "arts",
+          "climate"
+        ]
+      },
+      "visitor": "Visa-free Schengen visitor entry",
+      "visitorDetail": "Australian ordinary passports are normally visa-exempt for short Schengen stays, subject to the 90/180 rule and border conditions.",
+      "visitorNext": "Run the official France-Visas and Schengen checks immediately before departure.",
+      "business": "Short-stay business visitor or conference delegate",
+      "businessDetail": "Meetings, negotiations, trade fairs and conference attendance can fit a short professional visit when no French employment or service delivery is performed.",
+      "businessNext": "Carry the host letter, schedule, business purpose and proof of funds; do not call a speaking engagement mere attendance.",
+      "conference": "Short-stay attendance route",
+      "conferenceDetail": "A delegate, exhibitor or visitor route is distinct from delivering paid programme content or hands-on training.",
+      "conferenceNext": "Ask the organiser whether you are attendee, panellist, speaker, trainer or performer and reclassify the route if it changes.",
+      "unpaid": "Host and consular classification; occasional invited teaching may be exempt",
+      "unpaidDetail": "France-Visas identifies occasional teaching by invited professors and short cultural/scientific events as fact-dependent exceptions; a free talk is not automatically outside work rules.",
+      "unpaidNext": "Send the exact no-fee arrangement, reimbursements, host status and dates to the host and French mission.",
+      "work": "French work authorisation with short-stay or talent route",
+      "workDetail": "Paid speaking, consulting and training are active professional services. Short assignments may use event or temporary-work formalities; longer or high-profile work can use talent passport categories.",
+      "workNext": "Have the French host determine whether an authorisation, exemption, convention or talent passport applies before advertising dates.",
+      "book": "Publisher/venue invitation plus the accurate professional or cultural route",
+      "bookDetail": "Rights meetings can be business travel; a paid reading, signing, workshop, ticketed appearance or local book sales can add work, artist or tax questions.",
+      "bookNext": "Separate author appearance, royalties, fee, merchandise and retail in the invitation.",
+      "teaching": "Invited-researcher/teacher or short professional work route",
+      "teachingDetail": "A university convention may support research or higher-education teaching; commercial training normally needs the work pathway instead.",
+      "teachingNext": "Ask the institution to issue the correct convention or work-authorisation documents.",
+      "remote": "No broad French digital-nomad visa; visitor or residence classification must be confirmed",
+      "remoteDetail": "France has talent and self-employed residence routes but no simple all-purpose remote-worker visa. Foreign remote work while visiting can raise tax, residence and activity questions.",
+      "remoteNext": "Confirm the intended duration, employer/client location and French customer activity with a French mission or adviser.",
+      "founder": "Talent passport creator/investor, entrepreneur or self-employed route",
+      "founderDetail": "France-Visas publishes creator, investor, researcher and internationally recognised talent categories with project, qualification or investment evidence.",
+      "founderNext": "Choose the exact talent or entrepreneur category and build the French project dossier before relocating.",
+      "trade": "Short professional business visit; local operation needs French business/work status",
+      "tradeDetail": "Sourcing, negotiation, trade fairs and contract discussions can be visitor activity; installing, selling directly or fulfilling locally can become work.",
+      "tradeNext": "Map who invoices, who delivers and where the service occurs.",
+      "artist": "Short cultural event classification or talent passport artist route",
+      "artistDetail": "Paid or contracted performance, literary work and artistic production have specific French categories; the talent passport cultural profession route is designed for longer engagements.",
+      "artistNext": "Have the producer specify contracts, dates, royalties, venue licence and whether the engagement is salaried or independent.",
+      "mixed": "Split the France itinerary into Schengen visit, professional delivery and any talent/residence layer",
+      "mixedDetail": "The quickest route may be visa-free entry while the activation key is a host contract, work authorisation, convention or talent passport.",
+      "mixedNext": "Give the host one schedule showing every activity, payment, audience and venue.",
+      "steps": [
+        "Run France-Visas for the exact purpose and duration.",
+        "Count the whole Schengen itinerary, not France alone.",
+        "Get the invitation or contract to name the role and payment.",
+        "Ask the host to classify any speaking, teaching, performance or local service.",
+        "Use talent, researcher, artist or creator routes for longer activity."
+      ],
+      "cautions": [
+        "Is the trip attendance, delivery or local employment?",
+        "Does the organiser pay a fee, expenses, royalties or in-kind benefit?",
+        "Which Schengen country is the main destination?",
+        "Does the project meet a talent, researcher, artist or creator threshold?",
+        "Will French customers or venues be served locally?"
+      ],
+      "sources": [
+        {
+          "title": "France-Visas: Australia",
+          "authority": "French Ministry for Europe and Foreign Affairs",
+          "url": "https://france-visas.gouv.fr/en/web/france-visas/australie",
+          "supports": "Australian application route and processing context",
+          "checked": "21 August 2026"
+        },
+        {
+          "title": "France-Visas: professional purpose",
+          "authority": "French Ministry for Europe and Foreign Affairs",
+          "url": "https://france-visas.gouv.fr/en/web/france-visas/motif-professionnel",
+          "supports": "business, self-employed and professional categories",
+          "checked": "21 August 2026"
+        },
+        {
+          "title": "France-Visas: salaried activity",
+          "authority": "French Ministry for Europe and Foreign Affairs",
+          "url": "https://www.france-visas.gouv.fr/web/france-visas/activite-salariee",
+          "supports": "short missions, events and occasional invited teaching",
+          "checked": "21 August 2026"
+        },
+        {
+          "title": "France-Visas: international talents",
+          "authority": "French Ministry for Europe and Foreign Affairs",
+          "url": "https://france-visas.gouv.fr/en/web/france-visas/talents-internationaux-et-attractivite-economique",
+          "supports": "talent, researcher, creator, investor and artist routes",
+          "checked": "21 August 2026"
+        }
+      ],
+      "reviewed": "21 August 2026",
+      "claimChecks": {
+        "entrySnapshot": {
+          "id": "FRA-ENTRY-SNAPSHOT",
+          "checked": "21 August 2026"
+        },
+        "ageNote": {
+          "id": "FRA-AGE-NOTE",
+          "checked": "21 August 2026"
+        },
+        "cardSummary": {
+          "id": "FRA-CARD-SUMMARY",
+          "checked": "21 August 2026"
+        },
+        "summary": {
+          "id": "FRA-SUMMARY",
+          "checked": "21 August 2026"
+        },
+        "launch": {
+          "fastestEntry": {
+            "id": "FRA-LAUNCH-FASTEST-ENTRY",
+            "checked": "21 August 2026"
+          },
+          "beforeDeparture": {
+            "id": "FRA-LAUNCH-BEFORE-DEPARTURE",
+            "checked": "21 August 2026"
+          },
+          "usefulStay": {
+            "id": "FRA-LAUNCH-USEFUL-STAY",
+            "checked": "21 August 2026"
+          },
+          "hostUnlock": {
+            "id": "FRA-LAUNCH-HOST-UNLOCK",
+            "checked": "21 August 2026"
+          },
+          "quickPacket": {
+            "id": "FRA-LAUNCH-QUICK-PACKET",
+            "checked": "21 August 2026"
+          }
+        },
+        "conferenceFit": {
+          "label": {
+            "id": "FRA-LANGUAGE-EVENT-LABEL",
+            "checked": "21 August 2026"
+          },
+          "detail": {
+            "id": "FRA-LANGUAGE-EVENT-DETAIL",
+            "checked": "21 August 2026"
+          },
+          "themes": {
+            "id": "FRA-LANGUAGE-EVENT-THEMES",
+            "checked": "21 August 2026"
+          }
+        },
+        "steps": {
+          "id": "FRA-ROUTE-BUILDER",
+          "checked": "21 August 2026"
+        },
+        "cautions": {
+          "id": "FRA-ROUTE-EDGES",
+          "checked": "21 August 2026"
+        },
+        "pathways": {
+          "tourism": {
+            "status": {
+              "id": "FRA-PATH-TOURISM-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "FRA-PATH-TOURISM-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "FRA-PATH-TOURISM-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "FRA-PATH-TOURISM-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "meetings": {
+            "status": {
+              "id": "FRA-PATH-MEETINGS-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "FRA-PATH-MEETINGS-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "FRA-PATH-MEETINGS-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "FRA-PATH-MEETINGS-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "conference": {
+            "status": {
+              "id": "FRA-PATH-CONFERENCE-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "FRA-PATH-CONFERENCE-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "FRA-PATH-CONFERENCE-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "FRA-PATH-CONFERENCE-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "unpaid-speaking": {
+            "status": {
+              "id": "FRA-PATH-UNPAID-SPEAKING-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "FRA-PATH-UNPAID-SPEAKING-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "FRA-PATH-UNPAID-SPEAKING-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "FRA-PATH-UNPAID-SPEAKING-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "paid-speaking": {
+            "status": {
+              "id": "FRA-PATH-PAID-SPEAKING-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "FRA-PATH-PAID-SPEAKING-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "FRA-PATH-PAID-SPEAKING-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "FRA-PATH-PAID-SPEAKING-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "book-launch": {
+            "status": {
+              "id": "FRA-PATH-BOOK-LAUNCH-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "FRA-PATH-BOOK-LAUNCH-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "FRA-PATH-BOOK-LAUNCH-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "FRA-PATH-BOOK-LAUNCH-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "ai-teaching": {
+            "status": {
+              "id": "FRA-PATH-AI-TEACHING-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "FRA-PATH-AI-TEACHING-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "FRA-PATH-AI-TEACHING-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "FRA-PATH-AI-TEACHING-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "remote-work": {
+            "status": {
+              "id": "FRA-PATH-REMOTE-WORK-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "FRA-PATH-REMOTE-WORK-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "FRA-PATH-REMOTE-WORK-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "FRA-PATH-REMOTE-WORK-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "entrepreneur": {
+            "status": {
+              "id": "FRA-PATH-ENTREPRENEUR-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "FRA-PATH-ENTREPRENEUR-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "FRA-PATH-ENTREPRENEUR-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "FRA-PATH-ENTREPRENEUR-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "trade": {
+            "status": {
+              "id": "FRA-PATH-TRADE-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "FRA-PATH-TRADE-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "FRA-PATH-TRADE-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "FRA-PATH-TRADE-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "artist": {
+            "status": {
+              "id": "FRA-PATH-ARTIST-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "FRA-PATH-ARTIST-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "FRA-PATH-ARTIST-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "FRA-PATH-ARTIST-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "mixed-mission": {
+            "status": {
+              "id": "FRA-PATH-MIXED-MISSION-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "FRA-PATH-MIXED-MISSION-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "FRA-PATH-MIXED-MISSION-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "FRA-PATH-MIXED-MISSION-NEXT",
+              "checked": "21 August 2026"
+            }
+          }
+        }
+      },
+      "pathways": {
+        "tourism": {
+          "status": "low",
+          "route": "Visa-free Schengen visitor entry",
+          "detail": "Australian ordinary passports are normally visa-exempt for short Schengen stays, subject to the 90/180 rule and border conditions.",
+          "next": "Run the official France-Visas and Schengen checks immediately before departure."
+        },
+        "meetings": {
+          "status": "low",
+          "route": "Short-stay business visitor or conference delegate",
+          "detail": "Meetings, negotiations, trade fairs and conference attendance can fit a short professional visit when no French employment or service delivery is performed.",
+          "next": "Carry the host letter, schedule, business purpose and proof of funds; do not call a speaking engagement mere attendance."
+        },
+        "conference": {
+          "status": "low",
+          "route": "Short-stay attendance route",
+          "detail": "A delegate, exhibitor or visitor route is distinct from delivering paid programme content or hands-on training.",
+          "next": "Ask the organiser whether you are attendee, panellist, speaker, trainer or performer and reclassify the route if it changes."
+        },
+        "unpaid-speaking": {
+          "status": "confirm",
+          "route": "Host and consular classification; occasional invited teaching may be exempt",
+          "detail": "France-Visas identifies occasional teaching by invited professors and short cultural/scientific events as fact-dependent exceptions; a free talk is not automatically outside work rules.",
+          "next": "Send the exact no-fee arrangement, reimbursements, host status and dates to the host and French mission."
+        },
+        "paid-speaking": {
+          "status": "conditional",
+          "route": "French work authorisation with short-stay or talent route",
+          "detail": "Paid speaking, consulting and training are active professional services. Short assignments may use event or temporary-work formalities; longer or high-profile work can use talent passport categories.",
+          "next": "Have the French host determine whether an authorisation, exemption, convention or talent passport applies before advertising dates."
+        },
+        "book-launch": {
+          "status": "conditional",
+          "route": "Publisher/venue invitation plus the accurate professional or cultural route",
+          "detail": "Rights meetings can be business travel; a paid reading, signing, workshop, ticketed appearance or local book sales can add work, artist or tax questions.",
+          "next": "Separate author appearance, royalties, fee, merchandise and retail in the invitation."
+        },
+        "ai-teaching": {
+          "status": "conditional",
+          "route": "Invited-researcher/teacher or short professional work route",
+          "detail": "A university convention may support research or higher-education teaching; commercial training normally needs the work pathway instead.",
+          "next": "Ask the institution to issue the correct convention or work-authorisation documents."
+        },
+        "remote-work": {
+          "status": "confirm",
+          "route": "No broad French digital-nomad visa; visitor or residence classification must be confirmed",
+          "detail": "France has talent and self-employed residence routes but no simple all-purpose remote-worker visa. Foreign remote work while visiting can raise tax, residence and activity questions.",
+          "next": "Confirm the intended duration, employer/client location and French customer activity with a French mission or adviser."
+        },
+        "entrepreneur": {
+          "status": "specialist",
+          "route": "Talent passport creator/investor, entrepreneur or self-employed route",
+          "detail": "France-Visas publishes creator, investor, researcher and internationally recognised talent categories with project, qualification or investment evidence.",
+          "next": "Choose the exact talent or entrepreneur category and build the French project dossier before relocating."
+        },
+        "trade": {
+          "status": "conditional",
+          "route": "Short professional business visit; local operation needs French business/work status",
+          "detail": "Sourcing, negotiation, trade fairs and contract discussions can be visitor activity; installing, selling directly or fulfilling locally can become work.",
+          "next": "Map who invoices, who delivers and where the service occurs."
+        },
+        "artist": {
+          "status": "conditional",
+          "route": "Short cultural event classification or talent passport artist route",
+          "detail": "Paid or contracted performance, literary work and artistic production have specific French categories; the talent passport cultural profession route is designed for longer engagements.",
+          "next": "Have the producer specify contracts, dates, royalties, venue licence and whether the engagement is salaried or independent."
+        },
+        "mixed-mission": {
+          "status": "conditional",
+          "route": "Split the France itinerary into Schengen visit, professional delivery and any talent/residence layer",
+          "detail": "The quickest route may be visa-free entry while the activation key is a host contract, work authorisation, convention or talent passport.",
+          "next": "Give the host one schedule showing every activity, payment, audience and venue."
+        }
+      }
+    },
+    {
+      "code": "NLD",
+      "id": "netherlands",
+      "name": "Netherlands",
+      "flag": "🇳🇱",
+      "region": "Western Europe",
+      "entrySnapshot": "Visa-free Schengen short stay for Australians; 90 days in any 180-day period.",
+      "ageNote": "No general age gate at 43; longer work, self-employment and startup routes are evidence-led.",
+      "cardSummary": "A very practical conference and business-visitor front door, with IND host routes for work, startup and self-employment but no broad digital-nomad visa.",
+      "summary": "The Netherlands is a strong English-friendly meeting and event base. Australians normally enter the Schengen area visa-free for short stays, while the IND separates visitor activity from Dutch employment, self-employment, startup and research. An invitation letter can make a sudden trip legible; it does not itself authorise paid local delivery.",
+      "launch": {
+        "fastestEntry": "Visa-free Schengen short stay, normally up to 90 days in any 180-day period",
+        "beforeDeparture": "Check NetherlandsWorldwide entry guidance, Schengen day count, host letter and accommodation.",
+        "usefulStay": "Short stay is the agile option; local work or residence needs an IND route.",
+        "hostUnlock": "A Dutch employer, recognised sponsor, university or startup facilitator can supply the documents for the matching permit.",
+        "quickPacket": [
+          "Australian passport and Schengen day-count",
+          "Dutch host invitation or event ticket",
+          "Employer/client and payment explanation",
+          "Insurance, funds and onward itinerary"
+        ]
+      },
+      "conferenceFit": {
+        "label": "Very strong · English-friendly",
+        "detail": "Amsterdam, Rotterdam, Utrecht, Eindhoven and The Hague host recurring English-heavy technology, AI, design, science, policy, climate, fintech and startup events. Local-language rooms remain important outside international circuits.",
+        "themes": [
+          "AI",
+          "data",
+          "fintech",
+          "startups",
+          "design",
+          "policy",
+          "research"
+        ]
+      },
+      "visitor": "Visa-free Schengen visitor entry",
+      "visitorDetail": "Australians are generally visa-exempt for short stays in the Netherlands under Schengen rules.",
+      "visitorNext": "Use NetherlandsWorldwide for the current border and document list.",
+      "business": "Short-stay business visitor",
+      "businessDetail": "Meetings, negotiations, congresses and trade fairs can fit business travel; the official checklist expects an invitation or business evidence.",
+      "businessNext": "Carry the invitation, event ticket and business relationship evidence.",
+      "conference": "Conference delegate/exhibitor visit",
+      "conferenceDetail": "Attending a congress is distinct from being hired to deliver the event programme or provide Dutch services.",
+      "conferenceNext": "Confirm attendee versus speaker/trainer status with the organiser.",
+      "unpaidStatus": "confirm",
+      "unpaid": "Host classification; no automatic unpaid-work exemption",
+      "unpaidDetail": "A free keynote or panel can still be treated as professional activity depending on duties, reimbursement and organiser. The short-stay checklist is not a work permit.",
+      "unpaidNext": "Ask the Dutch host or IND whether the exact unpaid role fits a visitor exception or needs work permission.",
+      "work": "Dutch work permit, TWV/single permit or recognised-sponsor route",
+      "workDetail": "Paid speaking, consulting and training for a Dutch organiser are active work; the employer or host normally leads the permission process.",
+      "workNext": "Have the Dutch engager identify the work authorisation and whether a short assignment exemption applies.",
+      "book": "Business visit for rights; host-led work or cultural permission for active launch",
+      "bookDetail": "A rights meeting can be business travel, while paid talks, signings, workshops, merchandise or local sales need activity-by-activity treatment.",
+      "bookNext": "Separate publisher meetings from public delivery and retail.",
+      "teaching": "Research/guest-teaching or work-permit route",
+      "teachingDetail": "University teaching and commercial training follow different host and employment classifications.",
+      "teachingNext": "Ask the university or training client to sponsor the exact teaching arrangement.",
+      "remoteStatus": "confirm",
+      "remote": "No broad Dutch digital-nomad visa",
+      "remoteDetail": "The Netherlands publishes work and residence permits but no simple remote-worker category for an Australian visitor; tax and local-client issues remain separate.",
+      "remoteNext": "Confirm residence, payroll and client location before treating a longer stay as remote work.",
+      "founder": "IND startup or self-employed residence permit",
+      "founderDetail": "The startup permit uses a facilitator and viable innovative plan; self-employed residence is assessed against Dutch economic interest and business evidence.",
+      "founderNext": "Choose startup versus self-employed and assemble the IND dossier with a Dutch facilitator or adviser.",
+      "trade": "Short business visit; Dutch operation needs work/business status",
+      "tradeDetail": "Negotiations, sourcing, contracts and fairs can be business travel; fulfilment, installation and local sales may not be.",
+      "tradeNext": "State where goods, services, invoices and delivery occur.",
+      "artist": "Host-led work or cultural permit",
+      "artistDetail": "A performance, exhibition, filming or paid cultural appearance is not automatically covered by visitor entry.",
+      "artistNext": "Have the promoter confirm performer, crew, fee, venue and labour formalities.",
+      "mixed": "Schengen visit plus IND/host activation for delivery",
+      "mixedDetail": "The Netherlands makes the first arrival easy, but the invitation must separate meetings from paid or active work.",
+      "mixedNext": "Send the whole schedule to the host and ask for one written classification.",
+      "steps": [
+        "Check Schengen eligibility and day count.",
+        "Get the Dutch invitation or conference ticket.",
+        "Label every appearance as attendee, speaker, trainer, performer or seller.",
+        "Ask the host about TWV/single-permit or exemption.",
+        "Use IND startup/self-employed routes for a real longer project."
+      ],
+      "cautions": [
+        "Is there Dutch remuneration or a local client?",
+        "Is a recognised sponsor involved?",
+        "Does the event invitation describe delivery or just attendance?",
+        "Will remote work continue beyond a short visit?",
+        "Are goods or books being sold locally?"
+      ],
+      "sources": [
+        {
+          "title": "Visa for the Netherlands",
+          "authority": "NetherlandsWorldwide",
+          "url": "https://www.netherlandsworldwide.nl/visa-the-netherlands",
+          "supports": "short-stay and visa-exemption entry guidance",
+          "checked": "21 August 2026"
+        },
+        {
+          "title": "Business or official visit checklist",
+          "authority": "NetherlandsWorldwide",
+          "url": "https://www.netherlandsworldwide.nl/visa-the-netherlands/checklist-schengen-visa-business-official-visit",
+          "supports": "business invitations, congresses and evidence",
+          "checked": "21 August 2026"
+        },
+        {
+          "title": "Working in the Netherlands",
+          "authority": "Immigration and Naturalisation Service (IND)",
+          "url": "https://ind.nl/en/work/working_in_the_Netherlands",
+          "supports": "work and sponsorship framework",
+          "checked": "21 August 2026"
+        },
+        {
+          "title": "Residence permit for a start-up",
+          "authority": "Immigration and Naturalisation Service (IND)",
+          "url": "https://ind.nl/en/residence-permits/work/start-up",
+          "supports": "startup founder route",
+          "checked": "21 August 2026"
+        },
+        {
+          "title": "Residence permit self-employed person",
+          "authority": "Immigration and Naturalisation Service (IND)",
+          "url": "https://ind.nl/en/residence-permits/work/self-employed-person",
+          "supports": "self-employed route",
+          "checked": "21 August 2026"
+        }
+      ],
+      "reviewed": "21 August 2026",
+      "claimChecks": {
+        "entrySnapshot": {
+          "id": "NLD-ENTRY-SNAPSHOT",
+          "checked": "21 August 2026"
+        },
+        "ageNote": {
+          "id": "NLD-AGE-NOTE",
+          "checked": "21 August 2026"
+        },
+        "cardSummary": {
+          "id": "NLD-CARD-SUMMARY",
+          "checked": "21 August 2026"
+        },
+        "summary": {
+          "id": "NLD-SUMMARY",
+          "checked": "21 August 2026"
+        },
+        "launch": {
+          "fastestEntry": {
+            "id": "NLD-LAUNCH-FASTEST-ENTRY",
+            "checked": "21 August 2026"
+          },
+          "beforeDeparture": {
+            "id": "NLD-LAUNCH-BEFORE-DEPARTURE",
+            "checked": "21 August 2026"
+          },
+          "usefulStay": {
+            "id": "NLD-LAUNCH-USEFUL-STAY",
+            "checked": "21 August 2026"
+          },
+          "hostUnlock": {
+            "id": "NLD-LAUNCH-HOST-UNLOCK",
+            "checked": "21 August 2026"
+          },
+          "quickPacket": {
+            "id": "NLD-LAUNCH-QUICK-PACKET",
+            "checked": "21 August 2026"
+          }
+        },
+        "conferenceFit": {
+          "label": {
+            "id": "NLD-LANGUAGE-EVENT-LABEL",
+            "checked": "21 August 2026"
+          },
+          "detail": {
+            "id": "NLD-LANGUAGE-EVENT-DETAIL",
+            "checked": "21 August 2026"
+          },
+          "themes": {
+            "id": "NLD-LANGUAGE-EVENT-THEMES",
+            "checked": "21 August 2026"
+          }
+        },
+        "steps": {
+          "id": "NLD-ROUTE-BUILDER",
+          "checked": "21 August 2026"
+        },
+        "cautions": {
+          "id": "NLD-ROUTE-EDGES",
+          "checked": "21 August 2026"
+        },
+        "pathways": {
+          "tourism": {
+            "status": {
+              "id": "NLD-PATH-TOURISM-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "NLD-PATH-TOURISM-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "NLD-PATH-TOURISM-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "NLD-PATH-TOURISM-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "meetings": {
+            "status": {
+              "id": "NLD-PATH-MEETINGS-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "NLD-PATH-MEETINGS-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "NLD-PATH-MEETINGS-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "NLD-PATH-MEETINGS-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "conference": {
+            "status": {
+              "id": "NLD-PATH-CONFERENCE-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "NLD-PATH-CONFERENCE-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "NLD-PATH-CONFERENCE-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "NLD-PATH-CONFERENCE-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "unpaid-speaking": {
+            "status": {
+              "id": "NLD-PATH-UNPAID-SPEAKING-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "NLD-PATH-UNPAID-SPEAKING-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "NLD-PATH-UNPAID-SPEAKING-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "NLD-PATH-UNPAID-SPEAKING-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "paid-speaking": {
+            "status": {
+              "id": "NLD-PATH-PAID-SPEAKING-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "NLD-PATH-PAID-SPEAKING-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "NLD-PATH-PAID-SPEAKING-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "NLD-PATH-PAID-SPEAKING-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "book-launch": {
+            "status": {
+              "id": "NLD-PATH-BOOK-LAUNCH-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "NLD-PATH-BOOK-LAUNCH-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "NLD-PATH-BOOK-LAUNCH-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "NLD-PATH-BOOK-LAUNCH-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "ai-teaching": {
+            "status": {
+              "id": "NLD-PATH-AI-TEACHING-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "NLD-PATH-AI-TEACHING-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "NLD-PATH-AI-TEACHING-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "NLD-PATH-AI-TEACHING-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "remote-work": {
+            "status": {
+              "id": "NLD-PATH-REMOTE-WORK-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "NLD-PATH-REMOTE-WORK-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "NLD-PATH-REMOTE-WORK-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "NLD-PATH-REMOTE-WORK-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "entrepreneur": {
+            "status": {
+              "id": "NLD-PATH-ENTREPRENEUR-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "NLD-PATH-ENTREPRENEUR-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "NLD-PATH-ENTREPRENEUR-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "NLD-PATH-ENTREPRENEUR-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "trade": {
+            "status": {
+              "id": "NLD-PATH-TRADE-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "NLD-PATH-TRADE-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "NLD-PATH-TRADE-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "NLD-PATH-TRADE-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "artist": {
+            "status": {
+              "id": "NLD-PATH-ARTIST-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "NLD-PATH-ARTIST-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "NLD-PATH-ARTIST-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "NLD-PATH-ARTIST-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "mixed-mission": {
+            "status": {
+              "id": "NLD-PATH-MIXED-MISSION-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "NLD-PATH-MIXED-MISSION-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "NLD-PATH-MIXED-MISSION-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "NLD-PATH-MIXED-MISSION-NEXT",
+              "checked": "21 August 2026"
+            }
+          }
+        }
+      },
+      "pathways": {
+        "tourism": {
+          "status": "low",
+          "route": "Visa-free Schengen visitor entry",
+          "detail": "Australians are generally visa-exempt for short stays in the Netherlands under Schengen rules.",
+          "next": "Use NetherlandsWorldwide for the current border and document list."
+        },
+        "meetings": {
+          "status": "low",
+          "route": "Short-stay business visitor",
+          "detail": "Meetings, negotiations, congresses and trade fairs can fit business travel; the official checklist expects an invitation or business evidence.",
+          "next": "Carry the invitation, event ticket and business relationship evidence."
+        },
+        "conference": {
+          "status": "low",
+          "route": "Conference delegate/exhibitor visit",
+          "detail": "Attending a congress is distinct from being hired to deliver the event programme or provide Dutch services.",
+          "next": "Confirm attendee versus speaker/trainer status with the organiser."
+        },
+        "unpaid-speaking": {
+          "status": "confirm",
+          "route": "Host classification; no automatic unpaid-work exemption",
+          "detail": "A free keynote or panel can still be treated as professional activity depending on duties, reimbursement and organiser. The short-stay checklist is not a work permit.",
+          "next": "Ask the Dutch host or IND whether the exact unpaid role fits a visitor exception or needs work permission."
+        },
+        "paid-speaking": {
+          "status": "conditional",
+          "route": "Dutch work permit, TWV/single permit or recognised-sponsor route",
+          "detail": "Paid speaking, consulting and training for a Dutch organiser are active work; the employer or host normally leads the permission process.",
+          "next": "Have the Dutch engager identify the work authorisation and whether a short assignment exemption applies."
+        },
+        "book-launch": {
+          "status": "conditional",
+          "route": "Business visit for rights; host-led work or cultural permission for active launch",
+          "detail": "A rights meeting can be business travel, while paid talks, signings, workshops, merchandise or local sales need activity-by-activity treatment.",
+          "next": "Separate publisher meetings from public delivery and retail."
+        },
+        "ai-teaching": {
+          "status": "conditional",
+          "route": "Research/guest-teaching or work-permit route",
+          "detail": "University teaching and commercial training follow different host and employment classifications.",
+          "next": "Ask the university or training client to sponsor the exact teaching arrangement."
+        },
+        "remote-work": {
+          "status": "confirm",
+          "route": "No broad Dutch digital-nomad visa",
+          "detail": "The Netherlands publishes work and residence permits but no simple remote-worker category for an Australian visitor; tax and local-client issues remain separate.",
+          "next": "Confirm residence, payroll and client location before treating a longer stay as remote work."
+        },
+        "entrepreneur": {
+          "status": "specialist",
+          "route": "IND startup or self-employed residence permit",
+          "detail": "The startup permit uses a facilitator and viable innovative plan; self-employed residence is assessed against Dutch economic interest and business evidence.",
+          "next": "Choose startup versus self-employed and assemble the IND dossier with a Dutch facilitator or adviser."
+        },
+        "trade": {
+          "status": "conditional",
+          "route": "Short business visit; Dutch operation needs work/business status",
+          "detail": "Negotiations, sourcing, contracts and fairs can be business travel; fulfilment, installation and local sales may not be.",
+          "next": "State where goods, services, invoices and delivery occur."
+        },
+        "artist": {
+          "status": "conditional",
+          "route": "Host-led work or cultural permit",
+          "detail": "A performance, exhibition, filming or paid cultural appearance is not automatically covered by visitor entry.",
+          "next": "Have the promoter confirm performer, crew, fee, venue and labour formalities."
+        },
+        "mixed-mission": {
+          "status": "conditional",
+          "route": "Schengen visit plus IND/host activation for delivery",
+          "detail": "The Netherlands makes the first arrival easy, but the invitation must separate meetings from paid or active work.",
+          "next": "Send the whole schedule to the host and ask for one written classification."
+        }
+      }
+    },
+    {
+      "code": "BEL",
+      "id": "belgium",
+      "name": "Belgium",
+      "flag": "🇧🇪",
+      "region": "Western Europe",
+      "entrySnapshot": "Visa-free Schengen short stay for Australians; 90 days in any 180-day period.",
+      "ageNote": "No general visitor age gate at 43; professional card, single permit and artist routes are role and evidence dependent.",
+      "cardSummary": "A bilingual, institution-dense Schengen base where the professional card and single permit are the clear activation keys.",
+      "summary": "Belgium is easy to reach for a short meeting, congress or cultural reconnaissance trip. The legal hinge is regional: self-employed work uses a professional card issued through the relevant region, while employee work uses a single permit and long-stay visa. Brussels, Flanders and Wallonia can therefore unlock different versions of the same invitation.",
+      "launch": {
+        "fastestEntry": "Visa-free Schengen short stay, normally up to 90 days in any 180-day period",
+        "beforeDeparture": "Check the Belgian mission, Schengen day count, invitation and whether the activity is employee or self-employed.",
+        "usefulStay": "Visitor entry handles attendance and meetings; local delivery needs the regional or federal work key.",
+        "hostUnlock": "A Belgian employer, institution, promoter or regional professional-card process activates work.",
+        "quickPacket": [
+          "Australian passport and Schengen day-count",
+          "Invitation with Belgian region and venue",
+          "Role, fee, reimbursement and contract",
+          "Insurance, funds and accommodation"
+        ]
+      },
+      "conferenceFit": {
+        "label": "Strong · multilingual and international",
+        "detail": "Brussels is a major English, French and Dutch policy, technology and association hub; Leuven, Ghent, Antwerp and Liège add research, university, startup, design and creative events.",
+        "themes": [
+          "EU policy",
+          "AI",
+          "research",
+          "health",
+          "technology",
+          "arts",
+          "trade"
+        ]
+      },
+      "visitor": "Visa-free Schengen visitor entry",
+      "visitorDetail": "Australian ordinary passports are generally visa-exempt for short Schengen stays, subject to the 90/180 rule.",
+      "visitorNext": "Confirm the main-destination rule and current border documents.",
+      "business": "Short-stay business visitor",
+      "businessDetail": "Meetings, negotiations, fairs and congress attendance can fit a business visit when no Belgian employment or active local service is performed.",
+      "businessNext": "Carry the invitation and state that the trip is attendance/negotiation unless a work route is activated.",
+      "conference": "Conference attendance or exhibition visit",
+      "conferenceDetail": "Being a delegate or exhibitor is different from delivering paid content, training or production work.",
+      "conferenceNext": "Ask the organiser for a role letter and check the Belgian region where work occurs.",
+      "unpaidStatus": "confirm",
+      "unpaid": "Host and regional classification",
+      "unpaidDetail": "A free talk can still be professional activity. Belgium's work and self-employed permissions turn on the actual role, contract and region, not just whether cash is handed over.",
+      "unpaidNext": "Send the host exact duties, expenses, benefits and audience for a written classification.",
+      "work": "Single permit for employment or professional card for self-employment",
+      "workDetail": "A Belgian employer applies for a single permit; a freelancer or independent professional normally needs a professional card from the competent region.",
+      "workNext": "Choose employee versus independent status before the host books the tour.",
+      "book": "Business visit for rights; regional work permission for launch delivery",
+      "bookDetail": "Publisher meetings may be business travel, while paid readings, workshops, signings, merchandise or local sales can need a permit and tax treatment.",
+      "bookNext": "Split rights, appearance, retail and royalties in the invitation.",
+      "teaching": "Research/academic host, single permit or professional card",
+      "teachingDetail": "A university invitation can support an academic role, while commercial training remains work or self-employed activity.",
+      "teachingNext": "Have the institution identify the federal/regional approval and language of documents.",
+      "remoteStatus": "confirm",
+      "remote": "No broad Belgian digital-nomad visa",
+      "remoteDetail": "Belgium has work and residence permits but no simple dedicated remote-worker route; foreign-work, tax and local-client questions remain.",
+      "remoteNext": "Confirm the planned stay and work footprint with the Belgian mission before using visitor entry as a base.",
+      "founder": "Regional professional card and long-stay visa",
+      "founderDetail": "A self-employed founder normally needs a professional card from Brussels, Flanders, Wallonia or the German-speaking Community, followed by the appropriate visa/residence step.",
+      "founderNext": "Pick the region and build the economic-interest dossier.",
+      "trade": "Short business visit; local fulfilment needs work/business permission",
+      "tradeDetail": "Trade meetings, sourcing and fairs can be visitor activity; local selling, installation or service delivery may trigger permits.",
+      "tradeNext": "Map the Belgian contracting entity and where the work is physically done.",
+      "artist": "Promoter-led work or cultural permission",
+      "artistDetail": "A performance, exhibition, filming or paid literary appearance should be checked with the promoter and regional authority.",
+      "artistNext": "Name venue, producer, fee, crew and dates in the host file.",
+      "mixed": "Schengen entry plus regional activation",
+      "mixedDetail": "Belgium's fastest route is often simple visitor entry followed by a regional professional-card or single-permit decision when delivery is real.",
+      "mixedNext": "Do not let a general Brussels invitation hide the region and employment status.",
+      "steps": [
+        "Check the Schengen visitor rule.",
+        "Identify the Belgian region and language of the host.",
+        "Separate meetings/attendance from delivery.",
+        "Choose single permit or professional card.",
+        "Keep publisher, artist, teacher and trade activities separately evidenced."
+      ],
+      "cautions": [
+        "Which Belgian region controls the activity?",
+        "Employee, independent, visiting academic or performer?",
+        "Are expenses or benefits being paid?",
+        "Does a short event exemption apply?",
+        "Will books, tickets or services be sold locally?"
+      ],
+      "sources": [
+        {
+          "title": "Visa for Belgium",
+          "authority": "Belgian FPS Foreign Affairs",
+          "url": "https://australia.diplomatie.belgium.be/en/travel-belgium/visa-belgium",
+          "supports": "Australian short-stay and visa application guidance",
+          "checked": "21 August 2026"
+        },
+        {
+          "title": "Single permit and work visa",
+          "authority": "Belgian Embassy in Australia",
+          "url": "https://australie.diplomatie.belgium.be/en/travel-belgium/visa-belgium/single-permit-and-work-visa",
+          "supports": "employer-led work authorisation and visa D",
+          "checked": "21 August 2026"
+        },
+        {
+          "title": "Professional card",
+          "authority": "Belgian FPS Foreign Affairs",
+          "url": "https://verenigdearabischeemiraten.diplomatie.belgium.be/en/travel-belgium/visa-belgium/professional-card",
+          "supports": "regional self-employed and freelancer route",
+          "checked": "21 August 2026"
+        },
+        {
+          "title": "Work as a third-country national",
+          "authority": "Belgian Immigration Office",
+          "url": "https://dofi.ibz.be/en/themes/third-country-nationals/work",
+          "supports": "Belgian work-permission framework",
+          "checked": "21 August 2026"
+        }
+      ],
+      "reviewed": "21 August 2026",
+      "claimChecks": {
+        "entrySnapshot": {
+          "id": "BEL-ENTRY-SNAPSHOT",
+          "checked": "21 August 2026"
+        },
+        "ageNote": {
+          "id": "BEL-AGE-NOTE",
+          "checked": "21 August 2026"
+        },
+        "cardSummary": {
+          "id": "BEL-CARD-SUMMARY",
+          "checked": "21 August 2026"
+        },
+        "summary": {
+          "id": "BEL-SUMMARY",
+          "checked": "21 August 2026"
+        },
+        "launch": {
+          "fastestEntry": {
+            "id": "BEL-LAUNCH-FASTEST-ENTRY",
+            "checked": "21 August 2026"
+          },
+          "beforeDeparture": {
+            "id": "BEL-LAUNCH-BEFORE-DEPARTURE",
+            "checked": "21 August 2026"
+          },
+          "usefulStay": {
+            "id": "BEL-LAUNCH-USEFUL-STAY",
+            "checked": "21 August 2026"
+          },
+          "hostUnlock": {
+            "id": "BEL-LAUNCH-HOST-UNLOCK",
+            "checked": "21 August 2026"
+          },
+          "quickPacket": {
+            "id": "BEL-LAUNCH-QUICK-PACKET",
+            "checked": "21 August 2026"
+          }
+        },
+        "conferenceFit": {
+          "label": {
+            "id": "BEL-LANGUAGE-EVENT-LABEL",
+            "checked": "21 August 2026"
+          },
+          "detail": {
+            "id": "BEL-LANGUAGE-EVENT-DETAIL",
+            "checked": "21 August 2026"
+          },
+          "themes": {
+            "id": "BEL-LANGUAGE-EVENT-THEMES",
+            "checked": "21 August 2026"
+          }
+        },
+        "steps": {
+          "id": "BEL-ROUTE-BUILDER",
+          "checked": "21 August 2026"
+        },
+        "cautions": {
+          "id": "BEL-ROUTE-EDGES",
+          "checked": "21 August 2026"
+        },
+        "pathways": {
+          "tourism": {
+            "status": {
+              "id": "BEL-PATH-TOURISM-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "BEL-PATH-TOURISM-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "BEL-PATH-TOURISM-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "BEL-PATH-TOURISM-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "meetings": {
+            "status": {
+              "id": "BEL-PATH-MEETINGS-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "BEL-PATH-MEETINGS-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "BEL-PATH-MEETINGS-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "BEL-PATH-MEETINGS-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "conference": {
+            "status": {
+              "id": "BEL-PATH-CONFERENCE-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "BEL-PATH-CONFERENCE-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "BEL-PATH-CONFERENCE-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "BEL-PATH-CONFERENCE-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "unpaid-speaking": {
+            "status": {
+              "id": "BEL-PATH-UNPAID-SPEAKING-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "BEL-PATH-UNPAID-SPEAKING-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "BEL-PATH-UNPAID-SPEAKING-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "BEL-PATH-UNPAID-SPEAKING-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "paid-speaking": {
+            "status": {
+              "id": "BEL-PATH-PAID-SPEAKING-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "BEL-PATH-PAID-SPEAKING-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "BEL-PATH-PAID-SPEAKING-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "BEL-PATH-PAID-SPEAKING-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "book-launch": {
+            "status": {
+              "id": "BEL-PATH-BOOK-LAUNCH-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "BEL-PATH-BOOK-LAUNCH-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "BEL-PATH-BOOK-LAUNCH-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "BEL-PATH-BOOK-LAUNCH-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "ai-teaching": {
+            "status": {
+              "id": "BEL-PATH-AI-TEACHING-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "BEL-PATH-AI-TEACHING-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "BEL-PATH-AI-TEACHING-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "BEL-PATH-AI-TEACHING-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "remote-work": {
+            "status": {
+              "id": "BEL-PATH-REMOTE-WORK-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "BEL-PATH-REMOTE-WORK-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "BEL-PATH-REMOTE-WORK-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "BEL-PATH-REMOTE-WORK-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "entrepreneur": {
+            "status": {
+              "id": "BEL-PATH-ENTREPRENEUR-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "BEL-PATH-ENTREPRENEUR-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "BEL-PATH-ENTREPRENEUR-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "BEL-PATH-ENTREPRENEUR-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "trade": {
+            "status": {
+              "id": "BEL-PATH-TRADE-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "BEL-PATH-TRADE-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "BEL-PATH-TRADE-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "BEL-PATH-TRADE-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "artist": {
+            "status": {
+              "id": "BEL-PATH-ARTIST-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "BEL-PATH-ARTIST-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "BEL-PATH-ARTIST-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "BEL-PATH-ARTIST-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "mixed-mission": {
+            "status": {
+              "id": "BEL-PATH-MIXED-MISSION-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "BEL-PATH-MIXED-MISSION-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "BEL-PATH-MIXED-MISSION-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "BEL-PATH-MIXED-MISSION-NEXT",
+              "checked": "21 August 2026"
+            }
+          }
+        }
+      },
+      "pathways": {
+        "tourism": {
+          "status": "low",
+          "route": "Visa-free Schengen visitor entry",
+          "detail": "Australian ordinary passports are generally visa-exempt for short Schengen stays, subject to the 90/180 rule.",
+          "next": "Confirm the main-destination rule and current border documents."
+        },
+        "meetings": {
+          "status": "low",
+          "route": "Short-stay business visitor",
+          "detail": "Meetings, negotiations, fairs and congress attendance can fit a business visit when no Belgian employment or active local service is performed.",
+          "next": "Carry the invitation and state that the trip is attendance/negotiation unless a work route is activated."
+        },
+        "conference": {
+          "status": "low",
+          "route": "Conference attendance or exhibition visit",
+          "detail": "Being a delegate or exhibitor is different from delivering paid content, training or production work.",
+          "next": "Ask the organiser for a role letter and check the Belgian region where work occurs."
+        },
+        "unpaid-speaking": {
+          "status": "confirm",
+          "route": "Host and regional classification",
+          "detail": "A free talk can still be professional activity. Belgium's work and self-employed permissions turn on the actual role, contract and region, not just whether cash is handed over.",
+          "next": "Send the host exact duties, expenses, benefits and audience for a written classification."
+        },
+        "paid-speaking": {
+          "status": "conditional",
+          "route": "Single permit for employment or professional card for self-employment",
+          "detail": "A Belgian employer applies for a single permit; a freelancer or independent professional normally needs a professional card from the competent region.",
+          "next": "Choose employee versus independent status before the host books the tour."
+        },
+        "book-launch": {
+          "status": "conditional",
+          "route": "Business visit for rights; regional work permission for launch delivery",
+          "detail": "Publisher meetings may be business travel, while paid readings, workshops, signings, merchandise or local sales can need a permit and tax treatment.",
+          "next": "Split rights, appearance, retail and royalties in the invitation."
+        },
+        "ai-teaching": {
+          "status": "conditional",
+          "route": "Research/academic host, single permit or professional card",
+          "detail": "A university invitation can support an academic role, while commercial training remains work or self-employed activity.",
+          "next": "Have the institution identify the federal/regional approval and language of documents."
+        },
+        "remote-work": {
+          "status": "confirm",
+          "route": "No broad Belgian digital-nomad visa",
+          "detail": "Belgium has work and residence permits but no simple dedicated remote-worker route; foreign-work, tax and local-client questions remain.",
+          "next": "Confirm the planned stay and work footprint with the Belgian mission before using visitor entry as a base."
+        },
+        "entrepreneur": {
+          "status": "specialist",
+          "route": "Regional professional card and long-stay visa",
+          "detail": "A self-employed founder normally needs a professional card from Brussels, Flanders, Wallonia or the German-speaking Community, followed by the appropriate visa/residence step.",
+          "next": "Pick the region and build the economic-interest dossier."
+        },
+        "trade": {
+          "status": "conditional",
+          "route": "Short business visit; local fulfilment needs work/business permission",
+          "detail": "Trade meetings, sourcing and fairs can be visitor activity; local selling, installation or service delivery may trigger permits.",
+          "next": "Map the Belgian contracting entity and where the work is physically done."
+        },
+        "artist": {
+          "status": "conditional",
+          "route": "Promoter-led work or cultural permission",
+          "detail": "A performance, exhibition, filming or paid literary appearance should be checked with the promoter and regional authority.",
+          "next": "Name venue, producer, fee, crew and dates in the host file."
+        },
+        "mixed-mission": {
+          "status": "conditional",
+          "route": "Schengen entry plus regional activation",
+          "detail": "Belgium's fastest route is often simple visitor entry followed by a regional professional-card or single-permit decision when delivery is real.",
+          "next": "Do not let a general Brussels invitation hide the region and employment status."
+        }
+      }
+    },
+    {
+      "code": "CHE",
+      "id": "switzerland",
+      "name": "Switzerland",
+      "flag": "🇨🇭",
+      "region": "Western Europe",
+      "entrySnapshot": "Visa-free Schengen short stay for Australians; 90 days in any 180-day period.",
+      "ageNote": "Age 43 has no general short-stay restriction; cantonal work, self-employment and artist permissions are the main variables.",
+      "cardSummary": "A quick Alpine/Swiss entry with strong research, finance, technology and conference rooms, but work permissions are cantonal and precise.",
+      "summary": "Switzerland rewards a sharply written invitation. Australian visitors can normally enter visa-free for short Schengen stays, attend meetings and conferences, and explore partners. Delivering a paid talk, teaching, performance or local service is a separate authorisation question, usually handled with the Swiss employer and canton. There is no general digital-nomad shortcut.",
+      "launch": {
+        "fastestEntry": "Visa-free Schengen short stay, normally up to 90 days in any 180-day period",
+        "beforeDeparture": "Check SEM entry rules, Schengen day count, host canton and whether any days of work are planned.",
+        "usefulStay": "Visitor entry is useful for scouting and attendance; local work requires cantonal/federal approval.",
+        "hostUnlock": "A Swiss employer, university, conference or promoter must explain the role and seek any notification or permit.",
+        "quickPacket": [
+          "Australian passport and Schengen day-count",
+          "Swiss host/canton and venue",
+          "Invitation or contract with role and fee",
+          "Funds, insurance and onward plan"
+        ]
+      },
+      "conferenceFit": {
+        "label": "Strong · English in international rooms",
+        "detail": "Zurich, Geneva, Lausanne, Basel and Bern have English-friendly technology, finance, science, diplomacy, AI, health and research events alongside German, French and Italian local circuits.",
+        "themes": [
+          "AI",
+          "finance",
+          "research",
+          "diplomacy",
+          "health",
+          "technology",
+          "arts"
+        ]
+      },
+      "visitor": "Visa-free Schengen visitor entry",
+      "visitorDetail": "Australians are generally visa-exempt for short visits under Schengen rules.",
+      "visitorNext": "Use SEM and the Swiss mission to check the current border position.",
+      "business": "Short business visitor",
+      "businessDetail": "Meetings, negotiations and congress attendance can fit a short visit; Swiss work law is separate from admission.",
+      "businessNext": "Carry the invitation and keep activity to meetings unless the host confirms work formalities.",
+      "conference": "Conference delegate/exhibition visit",
+      "conferenceDetail": "Attendance and exhibition are not automatically permission to speak, train, install or perform.",
+      "conferenceNext": "Ask the organiser and canton to classify any programme role.",
+      "unpaidStatus": "confirm",
+      "unpaid": "Cantonal classification for invited speaking",
+      "unpaidDetail": "Swiss notification and permit rules can distinguish short assignments, foreign employers and local work. Unpaid does not settle the question.",
+      "unpaidNext": "Have the host check SEM/cantonal rules for the exact role and days.",
+      "work": "Cantonal notification or work permit",
+      "workDetail": "Paid speaking, consulting and teaching may need a notification procedure or permit, depending on duration, employer and nationality/sector.",
+      "workNext": "Let the Swiss engager lead the cantonal check before dates are public.",
+      "book": "Business visit for rights; cultural/work classification for launch",
+      "bookDetail": "A publisher meeting may be a business visit; readings, signings, workshops and local sales need the host to classify delivery and tax.",
+      "bookNext": "List royalties, fees, expenses, tickets and merchandise separately.",
+      "teaching": "University/research invitation or work authorisation",
+      "teachingDetail": "Academic exchange can use a host convention, but contracted training is local professional activity.",
+      "teachingNext": "Ask the university or company to identify the permit/notification path.",
+      "remoteStatus": "confirm",
+      "remote": "No broad Swiss digital-nomad visa",
+      "remoteDetail": "Switzerland has residence and work permits but no general remote-worker category. Tax residence and Swiss client activity remain distinct.",
+      "remoteNext": "Confirm canton, duration and employer/client location before relying on visitor entry.",
+      "founder": "Cantonal self-employed or company/investor residence",
+      "founderDetail": "A founder or independent professional needs cantonal economic-interest and residence approval; this is not an instant visitor conversion.",
+      "founderNext": "Choose the canton and prepare the business, funding and economic-interest case.",
+      "trade": "Short business visit; Swiss fulfilment needs work permission",
+      "tradeDetail": "Negotiation and sourcing can be visitor activity; installation, sales and delivery in Switzerland may not be.",
+      "tradeNext": "Map the Swiss customer, invoice and on-site work.",
+      "artist": "Event-specific cultural/work route",
+      "artistDetail": "Performing, filming, exhibiting or touring is fact-dependent and can involve employer/organiser and cantonal permissions.",
+      "artistNext": "Have the promoter specify venue, contract, fee, crew and dates.",
+      "mixed": "Schengen visit plus cantonal activation",
+      "mixedDetail": "Switzerland is an easy first arrival but not a blank cheque for local delivery.",
+      "mixedNext": "Send the schedule to the host canton as one precise activity brief.",
+      "steps": [
+        "Check SEM entry and Schengen days.",
+        "Identify canton and host type.",
+        "Separate delegate, speaker, teacher, seller and performer roles.",
+        "Let the Swiss host confirm notification or permit.",
+        "Keep remote work and Swiss work as separate tracks."
+      ],
+      "cautions": [
+        "Which canton and language region?",
+        "Foreign employer or Swiss engager?",
+        "Is any fee, prize or expense support paid?",
+        "Is the activity short enough for notification?",
+        "Will Swiss customers or venues be served?"
+      ],
+      "sources": [
+        {
+          "title": "Visa application procedure",
+          "authority": "State Secretariat for Migration",
+          "url": "https://www.sem.admin.ch/sem/en/home/themen/einreise/visumantragsverfahren.html",
+          "supports": "Swiss entry and visa framework",
+          "checked": "21 August 2026"
+        },
+        {
+          "title": "Working in Switzerland",
+          "authority": "State Secretariat for Migration",
+          "url": "https://www.sem.admin.ch/sem/en/home/themen/arbeit.html",
+          "supports": "work, notification and permit framework",
+          "checked": "21 August 2026"
+        },
+        {
+          "title": "Working in Switzerland",
+          "authority": "Swiss Confederation",
+          "url": "https://www.ch.ch/en/foreign-nationals-in-switzerland/working-in-switzerland/",
+          "supports": "plain-language work guidance",
+          "checked": "21 August 2026"
+        },
+        {
+          "title": "Swiss representation in Australia: entry",
+          "authority": "Federal Department of Foreign Affairs",
+          "url": "https://www.eda.admin.ch/countries/australia/en/home/visa/entry-ch.html",
+          "supports": "Australia-specific consular entry guidance",
+          "checked": "21 August 2026"
+        }
+      ],
+      "reviewed": "21 August 2026",
+      "claimChecks": {
+        "entrySnapshot": {
+          "id": "CHE-ENTRY-SNAPSHOT",
+          "checked": "21 August 2026"
+        },
+        "ageNote": {
+          "id": "CHE-AGE-NOTE",
+          "checked": "21 August 2026"
+        },
+        "cardSummary": {
+          "id": "CHE-CARD-SUMMARY",
+          "checked": "21 August 2026"
+        },
+        "summary": {
+          "id": "CHE-SUMMARY",
+          "checked": "21 August 2026"
+        },
+        "launch": {
+          "fastestEntry": {
+            "id": "CHE-LAUNCH-FASTEST-ENTRY",
+            "checked": "21 August 2026"
+          },
+          "beforeDeparture": {
+            "id": "CHE-LAUNCH-BEFORE-DEPARTURE",
+            "checked": "21 August 2026"
+          },
+          "usefulStay": {
+            "id": "CHE-LAUNCH-USEFUL-STAY",
+            "checked": "21 August 2026"
+          },
+          "hostUnlock": {
+            "id": "CHE-LAUNCH-HOST-UNLOCK",
+            "checked": "21 August 2026"
+          },
+          "quickPacket": {
+            "id": "CHE-LAUNCH-QUICK-PACKET",
+            "checked": "21 August 2026"
+          }
+        },
+        "conferenceFit": {
+          "label": {
+            "id": "CHE-LANGUAGE-EVENT-LABEL",
+            "checked": "21 August 2026"
+          },
+          "detail": {
+            "id": "CHE-LANGUAGE-EVENT-DETAIL",
+            "checked": "21 August 2026"
+          },
+          "themes": {
+            "id": "CHE-LANGUAGE-EVENT-THEMES",
+            "checked": "21 August 2026"
+          }
+        },
+        "steps": {
+          "id": "CHE-ROUTE-BUILDER",
+          "checked": "21 August 2026"
+        },
+        "cautions": {
+          "id": "CHE-ROUTE-EDGES",
+          "checked": "21 August 2026"
+        },
+        "pathways": {
+          "tourism": {
+            "status": {
+              "id": "CHE-PATH-TOURISM-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "CHE-PATH-TOURISM-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "CHE-PATH-TOURISM-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "CHE-PATH-TOURISM-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "meetings": {
+            "status": {
+              "id": "CHE-PATH-MEETINGS-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "CHE-PATH-MEETINGS-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "CHE-PATH-MEETINGS-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "CHE-PATH-MEETINGS-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "conference": {
+            "status": {
+              "id": "CHE-PATH-CONFERENCE-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "CHE-PATH-CONFERENCE-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "CHE-PATH-CONFERENCE-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "CHE-PATH-CONFERENCE-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "unpaid-speaking": {
+            "status": {
+              "id": "CHE-PATH-UNPAID-SPEAKING-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "CHE-PATH-UNPAID-SPEAKING-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "CHE-PATH-UNPAID-SPEAKING-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "CHE-PATH-UNPAID-SPEAKING-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "paid-speaking": {
+            "status": {
+              "id": "CHE-PATH-PAID-SPEAKING-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "CHE-PATH-PAID-SPEAKING-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "CHE-PATH-PAID-SPEAKING-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "CHE-PATH-PAID-SPEAKING-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "book-launch": {
+            "status": {
+              "id": "CHE-PATH-BOOK-LAUNCH-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "CHE-PATH-BOOK-LAUNCH-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "CHE-PATH-BOOK-LAUNCH-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "CHE-PATH-BOOK-LAUNCH-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "ai-teaching": {
+            "status": {
+              "id": "CHE-PATH-AI-TEACHING-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "CHE-PATH-AI-TEACHING-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "CHE-PATH-AI-TEACHING-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "CHE-PATH-AI-TEACHING-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "remote-work": {
+            "status": {
+              "id": "CHE-PATH-REMOTE-WORK-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "CHE-PATH-REMOTE-WORK-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "CHE-PATH-REMOTE-WORK-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "CHE-PATH-REMOTE-WORK-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "entrepreneur": {
+            "status": {
+              "id": "CHE-PATH-ENTREPRENEUR-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "CHE-PATH-ENTREPRENEUR-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "CHE-PATH-ENTREPRENEUR-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "CHE-PATH-ENTREPRENEUR-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "trade": {
+            "status": {
+              "id": "CHE-PATH-TRADE-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "CHE-PATH-TRADE-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "CHE-PATH-TRADE-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "CHE-PATH-TRADE-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "artist": {
+            "status": {
+              "id": "CHE-PATH-ARTIST-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "CHE-PATH-ARTIST-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "CHE-PATH-ARTIST-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "CHE-PATH-ARTIST-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "mixed-mission": {
+            "status": {
+              "id": "CHE-PATH-MIXED-MISSION-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "CHE-PATH-MIXED-MISSION-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "CHE-PATH-MIXED-MISSION-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "CHE-PATH-MIXED-MISSION-NEXT",
+              "checked": "21 August 2026"
+            }
+          }
+        }
+      },
+      "pathways": {
+        "tourism": {
+          "status": "low",
+          "route": "Visa-free Schengen visitor entry",
+          "detail": "Australians are generally visa-exempt for short visits under Schengen rules.",
+          "next": "Use SEM and the Swiss mission to check the current border position."
+        },
+        "meetings": {
+          "status": "low",
+          "route": "Short business visitor",
+          "detail": "Meetings, negotiations and congress attendance can fit a short visit; Swiss work law is separate from admission.",
+          "next": "Carry the invitation and keep activity to meetings unless the host confirms work formalities."
+        },
+        "conference": {
+          "status": "low",
+          "route": "Conference delegate/exhibition visit",
+          "detail": "Attendance and exhibition are not automatically permission to speak, train, install or perform.",
+          "next": "Ask the organiser and canton to classify any programme role."
+        },
+        "unpaid-speaking": {
+          "status": "confirm",
+          "route": "Cantonal classification for invited speaking",
+          "detail": "Swiss notification and permit rules can distinguish short assignments, foreign employers and local work. Unpaid does not settle the question.",
+          "next": "Have the host check SEM/cantonal rules for the exact role and days."
+        },
+        "paid-speaking": {
+          "status": "conditional",
+          "route": "Cantonal notification or work permit",
+          "detail": "Paid speaking, consulting and teaching may need a notification procedure or permit, depending on duration, employer and nationality/sector.",
+          "next": "Let the Swiss engager lead the cantonal check before dates are public."
+        },
+        "book-launch": {
+          "status": "conditional",
+          "route": "Business visit for rights; cultural/work classification for launch",
+          "detail": "A publisher meeting may be a business visit; readings, signings, workshops and local sales need the host to classify delivery and tax.",
+          "next": "List royalties, fees, expenses, tickets and merchandise separately."
+        },
+        "ai-teaching": {
+          "status": "conditional",
+          "route": "University/research invitation or work authorisation",
+          "detail": "Academic exchange can use a host convention, but contracted training is local professional activity.",
+          "next": "Ask the university or company to identify the permit/notification path."
+        },
+        "remote-work": {
+          "status": "confirm",
+          "route": "No broad Swiss digital-nomad visa",
+          "detail": "Switzerland has residence and work permits but no general remote-worker category. Tax residence and Swiss client activity remain distinct.",
+          "next": "Confirm canton, duration and employer/client location before relying on visitor entry."
+        },
+        "entrepreneur": {
+          "status": "specialist",
+          "route": "Cantonal self-employed or company/investor residence",
+          "detail": "A founder or independent professional needs cantonal economic-interest and residence approval; this is not an instant visitor conversion.",
+          "next": "Choose the canton and prepare the business, funding and economic-interest case."
+        },
+        "trade": {
+          "status": "conditional",
+          "route": "Short business visit; Swiss fulfilment needs work permission",
+          "detail": "Negotiation and sourcing can be visitor activity; installation, sales and delivery in Switzerland may not be.",
+          "next": "Map the Swiss customer, invoice and on-site work."
+        },
+        "artist": {
+          "status": "conditional",
+          "route": "Event-specific cultural/work route",
+          "detail": "Performing, filming, exhibiting or touring is fact-dependent and can involve employer/organiser and cantonal permissions.",
+          "next": "Have the promoter specify venue, contract, fee, crew and dates."
+        },
+        "mixed-mission": {
+          "status": "conditional",
+          "route": "Schengen visit plus cantonal activation",
+          "detail": "Switzerland is an easy first arrival but not a blank cheque for local delivery.",
+          "next": "Send the schedule to the host canton as one precise activity brief."
+        }
+      }
+    },
+    {
+      "code": "AUT",
+      "id": "austria",
+      "name": "Austria",
+      "flag": "🇦🇹",
+      "region": "Central Europe",
+      "entrySnapshot": "Visa-free Schengen short stay for Australians; 90 days in any 180-day period.",
+      "ageNote": "No general visitor age gate at 43; Red-White-Red, artist and startup routes assess qualifications, project and economic value.",
+      "cardSummary": "Easy Vienna and university entry with clear Red-White-Red, startup, self-employed key-worker and artist pathways for longer activation.",
+      "summary": "Austria is a strong cultural, academic and central-European meeting base. Short attendance is simple for Australians under the Schengen exemption, but a paid lecture, local training, performance or operating role must be matched to Austrian employment law. The Red-White-Red system, startup founder route and settlement permit for artists make longer projects possible when the evidence is real.",
+      "launch": {
+        "fastestEntry": "Visa-free Schengen short stay, normally up to 90 days in any 180-day period",
+        "beforeDeparture": "Check Austrian entry rules and the host's province, contract and planned activity.",
+        "usefulStay": "Short visitor entry works for scouting and attendance; residence/work routes take longer.",
+        "hostUnlock": "An Austrian employer, university, promoter or startup support body can lead the permit or residence process.",
+        "quickPacket": [
+          "Australian passport and Schengen day-count",
+          "Vienna/province host letter",
+          "Activity, fee and contract details",
+          "Insurance, accommodation and funds"
+        ]
+      },
+      "conferenceFit": {
+        "label": "Strong · German plus international",
+        "detail": "Vienna, Graz, Linz, Salzburg and Innsbruck offer recurring English-friendly AI, science, climate, diplomacy, music, culture and startup rooms alongside German-first professional life.",
+        "themes": [
+          "AI",
+          "science",
+          "diplomacy",
+          "music",
+          "culture",
+          "startups",
+          "climate"
+        ]
+      },
+      "visitor": "Visa-free Schengen visitor entry",
+      "visitorDetail": "Australians are generally visa-exempt for short Schengen visits.",
+      "visitorNext": "Check the Austrian mission and the full Schengen itinerary before departure.",
+      "business": "Short business visitor",
+      "businessDetail": "Meetings, negotiations and trade-fair attendance can fit a visitor trip when no Austrian work is performed.",
+      "businessNext": "Carry the invitation, schedule and business evidence.",
+      "conference": "Conference delegate or exhibition visit",
+      "conferenceDetail": "Attending is distinct from delivering a paid or hands-on programme.",
+      "conferenceNext": "Ask the host to classify any speaking, teaching or production role.",
+      "unpaidStatus": "confirm",
+      "unpaid": "Host classification; invited teaching/lecturing may have narrow rules",
+      "unpaidDetail": "Unpaid cultural or academic activity still needs an Austrian work-law check; the settlement permit for artists is a longer route, not a same-day exemption.",
+      "unpaidNext": "Have the institution or promoter obtain written classification.",
+      "work": "Austrian work authorisation, Red-White-Red or employer permit",
+      "workDetail": "Paid speaking, consulting and training can be employment or self-employment and must be matched to the work category.",
+      "workNext": "Let the Austrian engager choose the short assignment or residence route.",
+      "book": "Business and cultural route split",
+      "bookDetail": "Rights meetings can be business; public readings, paid talks, signings and local retail need a host-led work/cultural classification.",
+      "bookNext": "Separate literary appearance, publisher business, royalties and sales.",
+      "teaching": "University/research host or work permit",
+      "teachingDetail": "A university convention can support an academic visit; commercial AI training remains active work.",
+      "teachingNext": "Ask the institution to state the appointment, pay and duration.",
+      "remoteStatus": "confirm",
+      "remote": "No broad Austrian digital-nomad visa",
+      "remoteDetail": "Austria offers residence permits and Red-White-Red categories but no universal remote-worker visa; tax and residence remain distinct.",
+      "remoteNext": "Confirm the intended base and foreign-employer arrangement before relying on visitor entry.",
+      "founder": "Red-White-Red Card startup founder or self-employed key worker",
+      "founderDetail": "Austria lists startup founders and self-employed key workers; economic benefit, investment, jobs, know-how and qualifications matter.",
+      "founderNext": "Prepare the business plan and evidence against the relevant Red-White-Red category.",
+      "trade": "Short business visit; local operation requires Austrian status",
+      "tradeDetail": "Sourcing, meetings and fairs are visitor-friendly; local fulfilment, installation and sales may require work permission.",
+      "tradeNext": "Map the Austrian entity and physical delivery.",
+      "artist": "Settlement Permit – Artists or event-specific work route",
+      "artistDetail": "Austria publishes a settlement permit for artists covering self-employed or dependent artistic activity, with contract/evidence conditions.",
+      "artistNext": "Have the promoter or employer specify the artistic contract and duration.",
+      "mixed": "Schengen visit plus Austrian host activation",
+      "mixedDetail": "The entry key is simple, while the activation key may be a Red-White-Red, artist, university or work route.",
+      "mixedNext": "Give the host one activity-by-activity brief.",
+      "steps": [
+        "Check Schengen visitor eligibility.",
+        "Identify the province and host.",
+        "Separate attendance from delivery.",
+        "Choose work, artist, researcher, startup or key-worker route.",
+        "Check German/English translation and legalisation needs."
+      ],
+      "cautions": [
+        "Is this a conference visit or paid delivery?",
+        "Does the artist route fit the contract length?",
+        "Is the founder project economically significant?",
+        "Will local clients be served?",
+        "Which authority and province leads?"
+      ],
+      "sources": [
+        {
+          "title": "Entry and residence in Austria",
+          "authority": "Austrian Embassy Canberra",
+          "url": "https://www.bmeia.gv.at/en/austrian-embassy-canberra/travel-to-austria/entry-and-residence/",
+          "supports": "Australia-specific entry and residence guidance",
+          "checked": "21 August 2026"
+        },
+        {
+          "title": "Permanent immigration",
+          "authority": "Migration.gv.at",
+          "url": "https://www.migration.gv.at/en/types-of-immigration/permanent-immigration/",
+          "supports": "Red-White-Red, startup and key-worker routes",
+          "checked": "21 August 2026"
+        },
+        {
+          "title": "Other forms of settlement",
+          "authority": "Migration.gv.at",
+          "url": "https://www.migration.gv.at/en/types-of-immigration/permanent-immigration/other-forms-of-settlement/",
+          "supports": "artist settlement permit",
+          "checked": "21 August 2026"
+        },
+        {
+          "title": "Act Governing the Employment of Foreign Nationals",
+          "authority": "Migration.gv.at",
+          "url": "https://www.migration.gv.at/fileadmin/downloads/gesetzestexte/AuslBG_englisch_1_10_2017.pdf",
+          "supports": "employment and work-permission boundary",
+          "checked": "21 August 2026"
+        }
+      ],
+      "reviewed": "21 August 2026",
+      "claimChecks": {
+        "entrySnapshot": {
+          "id": "AUT-ENTRY-SNAPSHOT",
+          "checked": "21 August 2026"
+        },
+        "ageNote": {
+          "id": "AUT-AGE-NOTE",
+          "checked": "21 August 2026"
+        },
+        "cardSummary": {
+          "id": "AUT-CARD-SUMMARY",
+          "checked": "21 August 2026"
+        },
+        "summary": {
+          "id": "AUT-SUMMARY",
+          "checked": "21 August 2026"
+        },
+        "launch": {
+          "fastestEntry": {
+            "id": "AUT-LAUNCH-FASTEST-ENTRY",
+            "checked": "21 August 2026"
+          },
+          "beforeDeparture": {
+            "id": "AUT-LAUNCH-BEFORE-DEPARTURE",
+            "checked": "21 August 2026"
+          },
+          "usefulStay": {
+            "id": "AUT-LAUNCH-USEFUL-STAY",
+            "checked": "21 August 2026"
+          },
+          "hostUnlock": {
+            "id": "AUT-LAUNCH-HOST-UNLOCK",
+            "checked": "21 August 2026"
+          },
+          "quickPacket": {
+            "id": "AUT-LAUNCH-QUICK-PACKET",
+            "checked": "21 August 2026"
+          }
+        },
+        "conferenceFit": {
+          "label": {
+            "id": "AUT-LANGUAGE-EVENT-LABEL",
+            "checked": "21 August 2026"
+          },
+          "detail": {
+            "id": "AUT-LANGUAGE-EVENT-DETAIL",
+            "checked": "21 August 2026"
+          },
+          "themes": {
+            "id": "AUT-LANGUAGE-EVENT-THEMES",
+            "checked": "21 August 2026"
+          }
+        },
+        "steps": {
+          "id": "AUT-ROUTE-BUILDER",
+          "checked": "21 August 2026"
+        },
+        "cautions": {
+          "id": "AUT-ROUTE-EDGES",
+          "checked": "21 August 2026"
+        },
+        "pathways": {
+          "tourism": {
+            "status": {
+              "id": "AUT-PATH-TOURISM-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "AUT-PATH-TOURISM-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "AUT-PATH-TOURISM-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "AUT-PATH-TOURISM-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "meetings": {
+            "status": {
+              "id": "AUT-PATH-MEETINGS-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "AUT-PATH-MEETINGS-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "AUT-PATH-MEETINGS-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "AUT-PATH-MEETINGS-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "conference": {
+            "status": {
+              "id": "AUT-PATH-CONFERENCE-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "AUT-PATH-CONFERENCE-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "AUT-PATH-CONFERENCE-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "AUT-PATH-CONFERENCE-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "unpaid-speaking": {
+            "status": {
+              "id": "AUT-PATH-UNPAID-SPEAKING-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "AUT-PATH-UNPAID-SPEAKING-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "AUT-PATH-UNPAID-SPEAKING-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "AUT-PATH-UNPAID-SPEAKING-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "paid-speaking": {
+            "status": {
+              "id": "AUT-PATH-PAID-SPEAKING-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "AUT-PATH-PAID-SPEAKING-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "AUT-PATH-PAID-SPEAKING-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "AUT-PATH-PAID-SPEAKING-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "book-launch": {
+            "status": {
+              "id": "AUT-PATH-BOOK-LAUNCH-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "AUT-PATH-BOOK-LAUNCH-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "AUT-PATH-BOOK-LAUNCH-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "AUT-PATH-BOOK-LAUNCH-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "ai-teaching": {
+            "status": {
+              "id": "AUT-PATH-AI-TEACHING-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "AUT-PATH-AI-TEACHING-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "AUT-PATH-AI-TEACHING-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "AUT-PATH-AI-TEACHING-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "remote-work": {
+            "status": {
+              "id": "AUT-PATH-REMOTE-WORK-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "AUT-PATH-REMOTE-WORK-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "AUT-PATH-REMOTE-WORK-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "AUT-PATH-REMOTE-WORK-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "entrepreneur": {
+            "status": {
+              "id": "AUT-PATH-ENTREPRENEUR-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "AUT-PATH-ENTREPRENEUR-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "AUT-PATH-ENTREPRENEUR-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "AUT-PATH-ENTREPRENEUR-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "trade": {
+            "status": {
+              "id": "AUT-PATH-TRADE-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "AUT-PATH-TRADE-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "AUT-PATH-TRADE-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "AUT-PATH-TRADE-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "artist": {
+            "status": {
+              "id": "AUT-PATH-ARTIST-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "AUT-PATH-ARTIST-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "AUT-PATH-ARTIST-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "AUT-PATH-ARTIST-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "mixed-mission": {
+            "status": {
+              "id": "AUT-PATH-MIXED-MISSION-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "AUT-PATH-MIXED-MISSION-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "AUT-PATH-MIXED-MISSION-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "AUT-PATH-MIXED-MISSION-NEXT",
+              "checked": "21 August 2026"
+            }
+          }
+        }
+      },
+      "pathways": {
+        "tourism": {
+          "status": "low",
+          "route": "Visa-free Schengen visitor entry",
+          "detail": "Australians are generally visa-exempt for short Schengen visits.",
+          "next": "Check the Austrian mission and the full Schengen itinerary before departure."
+        },
+        "meetings": {
+          "status": "low",
+          "route": "Short business visitor",
+          "detail": "Meetings, negotiations and trade-fair attendance can fit a visitor trip when no Austrian work is performed.",
+          "next": "Carry the invitation, schedule and business evidence."
+        },
+        "conference": {
+          "status": "low",
+          "route": "Conference delegate or exhibition visit",
+          "detail": "Attending is distinct from delivering a paid or hands-on programme.",
+          "next": "Ask the host to classify any speaking, teaching or production role."
+        },
+        "unpaid-speaking": {
+          "status": "confirm",
+          "route": "Host classification; invited teaching/lecturing may have narrow rules",
+          "detail": "Unpaid cultural or academic activity still needs an Austrian work-law check; the settlement permit for artists is a longer route, not a same-day exemption.",
+          "next": "Have the institution or promoter obtain written classification."
+        },
+        "paid-speaking": {
+          "status": "conditional",
+          "route": "Austrian work authorisation, Red-White-Red or employer permit",
+          "detail": "Paid speaking, consulting and training can be employment or self-employment and must be matched to the work category.",
+          "next": "Let the Austrian engager choose the short assignment or residence route."
+        },
+        "book-launch": {
+          "status": "conditional",
+          "route": "Business and cultural route split",
+          "detail": "Rights meetings can be business; public readings, paid talks, signings and local retail need a host-led work/cultural classification.",
+          "next": "Separate literary appearance, publisher business, royalties and sales."
+        },
+        "ai-teaching": {
+          "status": "conditional",
+          "route": "University/research host or work permit",
+          "detail": "A university convention can support an academic visit; commercial AI training remains active work.",
+          "next": "Ask the institution to state the appointment, pay and duration."
+        },
+        "remote-work": {
+          "status": "confirm",
+          "route": "No broad Austrian digital-nomad visa",
+          "detail": "Austria offers residence permits and Red-White-Red categories but no universal remote-worker visa; tax and residence remain distinct.",
+          "next": "Confirm the intended base and foreign-employer arrangement before relying on visitor entry."
+        },
+        "entrepreneur": {
+          "status": "specialist",
+          "route": "Red-White-Red Card startup founder or self-employed key worker",
+          "detail": "Austria lists startup founders and self-employed key workers; economic benefit, investment, jobs, know-how and qualifications matter.",
+          "next": "Prepare the business plan and evidence against the relevant Red-White-Red category."
+        },
+        "trade": {
+          "status": "conditional",
+          "route": "Short business visit; local operation requires Austrian status",
+          "detail": "Sourcing, meetings and fairs are visitor-friendly; local fulfilment, installation and sales may require work permission.",
+          "next": "Map the Austrian entity and physical delivery."
+        },
+        "artist": {
+          "status": "conditional",
+          "route": "Settlement Permit – Artists or event-specific work route",
+          "detail": "Austria publishes a settlement permit for artists covering self-employed or dependent artistic activity, with contract/evidence conditions.",
+          "next": "Have the promoter or employer specify the artistic contract and duration."
+        },
+        "mixed-mission": {
+          "status": "conditional",
+          "route": "Schengen visit plus Austrian host activation",
+          "detail": "The entry key is simple, while the activation key may be a Red-White-Red, artist, university or work route.",
+          "next": "Give the host one activity-by-activity brief."
+        }
+      }
+    },
+    {
+      "code": "PRT",
+      "id": "portugal",
+      "name": "Portugal",
+      "flag": "🇵🇹",
+      "region": "Southern Europe",
+      "entrySnapshot": "Visa-free Schengen short stay for Australians; 90 days in any 180-day period.",
+      "ageNote": "Age 43 is not a general gate. D8 remote work, D2 independent work and founder/investment routes use income, project and residence evidence.",
+      "cardSummary": "A quick Schengen arrival with unusually usable D8 remote-worker and D2 independent/founder routes for longer stays.",
+      "summary": "Portugal combines a simple short visit with a mature residence toolkit. Australians can normally enter visa-free for short Schengen stays; an invited meeting, congress or cultural visit is easy to frame. For a longer base, AIMA publishes a remote-work residence route for work outside Portugal and independent-activity routes, while local speaking, teaching, sales and performance still need the correct activity permission and tax treatment.",
+      "launch": {
+        "fastestEntry": "Visa-free Schengen short stay, normally up to 90 days in any 180-day period",
+        "beforeDeparture": "Check the Portuguese mission/AIMA, Schengen day count and whether the trip is visitor, remote-worker or local work.",
+        "usefulStay": "Use the visitor route for short scouting; D8/D2 and other residence routes take a prepared dossier.",
+        "hostUnlock": "A Portuguese university, event, publisher, employer or incubator can provide the host evidence.",
+        "quickPacket": [
+          "Australian passport and Schengen day-count",
+          "Invitation or event registration",
+          "Foreign-work income evidence if D8 is considered",
+          "Accommodation, insurance and funds"
+        ]
+      },
+      "conferenceFit": {
+        "label": "Strong · Portuguese and English",
+        "detail": "Lisbon, Porto, Braga, Coimbra and Aveiro have active English-friendly AI, Web Summit, startup, research, climate, arts and remote-work communities alongside Portuguese-first local events.",
+        "themes": [
+          "AI",
+          "startups",
+          "research",
+          "climate",
+          "creative work",
+          "digital economy"
+        ]
+      },
+      "visitor": "Visa-free Schengen visitor entry",
+      "visitorDetail": "Australians are generally visa-exempt for short Schengen stays.",
+      "visitorNext": "Check the current Schengen and Portuguese border requirements.",
+      "business": "Short-stay business visitor",
+      "businessDetail": "Meetings, negotiations, fairs and conferences can fit a visitor trip where no Portuguese service delivery occurs.",
+      "businessNext": "Carry host letter, event ticket and business purpose.",
+      "conference": "Conference attendance/exhibition route",
+      "conferenceDetail": "Delegate entry is distinct from paid programme delivery, training or local event work.",
+      "conferenceNext": "Ask the organiser to label your role and payment.",
+      "unpaidStatus": "confirm",
+      "unpaid": "Host classification for invited cultural/academic activity",
+      "unpaidDetail": "A free talk may be cultural or professional activity depending on host, expenses and duties; visitor entry is not a universal speaker permit.",
+      "unpaidNext": "Have the host ask AIMA/consulate if the exact event is exempt or needs residence/work permission.",
+      "work": "Portuguese work/residence permit or independent activity route",
+      "workDetail": "Paid speaking, consulting and training can be employment or independent activity and should be documented before arrival.",
+      "workNext": "Separate one-off event delivery from a local contract or recurring activity.",
+      "book": "Publisher invitation plus cultural/professional classification",
+      "bookDetail": "Rights meetings may fit business travel; launches, readings, signings, workshops and local book sales can add work and tax obligations.",
+      "bookNext": "List fee, royalties, reimbursement and retail separately.",
+      "teaching": "Academic/research host or local work route",
+      "teachingDetail": "A university invitation and an independent commercial workshop are different activity shapes.",
+      "teachingNext": "Ask the institution or client to choose the correct visa/residence basis.",
+      "remoteStatus": "specialist",
+      "remote": "D8 remote-work residence route",
+      "remoteDetail": "AIMA publishes residence for remote professional activity performed for entities outside Portugal, subject to income, accommodation and other evidence.",
+      "remoteNext": "Check the current D8 checklist and keep Portuguese clients/local delivery separate.",
+      "founder": "D2 independent activity, startup or investment residence",
+      "founderDetail": "Portugal offers residence routes for independent activity, entrepreneurship and qualifying investment; AIMA evidence and current programme rules matter.",
+      "founderNext": "Choose D2/startup/investment and build the Portuguese project file.",
+      "trade": "Short business visit; Portuguese operation needs local status",
+      "tradeDetail": "Sourcing, negotiation and fairs can be visitor activity; local fulfilment or service delivery may not be.",
+      "tradeNext": "State where the contract, invoice and delivery occur.",
+      "artist": "Cultural/work or independent activity route",
+      "artistDetail": "Paid performance, literary appearances and production work need host contracts and the appropriate activity status.",
+      "artistNext": "Have the producer specify venue, fee, royalties and local labour.",
+      "mixed": "Schengen entry plus D8/D2 or host activation",
+      "mixedDetail": "Portugal can support a quick arrival and a longer base, but each paid/local activity remains separately classified.",
+      "mixedNext": "Build one schedule with foreign remote work, Portuguese work and cultural activity separated.",
+      "steps": [
+        "Check Schengen entry and day count.",
+        "Choose visitor, D8, D2 or host-led work route.",
+        "Gather AIMA/consular evidence.",
+        "Keep Portuguese clients and foreign remote work distinct.",
+        "Confirm tax, social-security and event obligations."
+      ],
+      "cautions": [
+        "Is the work for entities outside Portugal?",
+        "Will a Portuguese organiser pay or contract you?",
+        "Is the route a visitor, D8, D2 or local employment?",
+        "Are books or merchandise sold locally?",
+        "Which AIMA checklist is current?"
+      ],
+      "sources": [
+        {
+          "title": "National visas: general information",
+          "authority": "Portuguese Ministry of Foreign Affairs",
+          "url": "https://vistos.mne.gov.pt/en/national-visas/general-information/type-of-visa",
+          "supports": "national visa categories",
+          "checked": "21 August 2026"
+        },
+        {
+          "title": "Working in Portugal",
+          "authority": "AIMA",
+          "url": "https://aima.gov.pt/pt/trabalhar",
+          "supports": "employment, remote work and work-residence links",
+          "checked": "21 August 2026"
+        },
+        {
+          "title": "Remote professional activity residence",
+          "authority": "AIMA",
+          "url": "https://aima.gov.pt/pt/viver/autorizacao-de-residencia-para-o-exercicio-de-atividade-profissional-prestada-de-forma-remota-com-visto-de-residencia",
+          "supports": "D8 remote-worker route",
+          "checked": "21 August 2026"
+        },
+        {
+          "title": "Investment residence authorisation",
+          "authority": "AIMA",
+          "url": "https://aima.gov.pt/pt/viver/autorizacao-de-residencia-para-investimento-art-90-o-a",
+          "supports": "investment residence framework",
+          "checked": "21 August 2026"
+        }
+      ],
+      "reviewed": "21 August 2026",
+      "claimChecks": {
+        "entrySnapshot": {
+          "id": "PRT-ENTRY-SNAPSHOT",
+          "checked": "21 August 2026"
+        },
+        "ageNote": {
+          "id": "PRT-AGE-NOTE",
+          "checked": "21 August 2026"
+        },
+        "cardSummary": {
+          "id": "PRT-CARD-SUMMARY",
+          "checked": "21 August 2026"
+        },
+        "summary": {
+          "id": "PRT-SUMMARY",
+          "checked": "21 August 2026"
+        },
+        "launch": {
+          "fastestEntry": {
+            "id": "PRT-LAUNCH-FASTEST-ENTRY",
+            "checked": "21 August 2026"
+          },
+          "beforeDeparture": {
+            "id": "PRT-LAUNCH-BEFORE-DEPARTURE",
+            "checked": "21 August 2026"
+          },
+          "usefulStay": {
+            "id": "PRT-LAUNCH-USEFUL-STAY",
+            "checked": "21 August 2026"
+          },
+          "hostUnlock": {
+            "id": "PRT-LAUNCH-HOST-UNLOCK",
+            "checked": "21 August 2026"
+          },
+          "quickPacket": {
+            "id": "PRT-LAUNCH-QUICK-PACKET",
+            "checked": "21 August 2026"
+          }
+        },
+        "conferenceFit": {
+          "label": {
+            "id": "PRT-LANGUAGE-EVENT-LABEL",
+            "checked": "21 August 2026"
+          },
+          "detail": {
+            "id": "PRT-LANGUAGE-EVENT-DETAIL",
+            "checked": "21 August 2026"
+          },
+          "themes": {
+            "id": "PRT-LANGUAGE-EVENT-THEMES",
+            "checked": "21 August 2026"
+          }
+        },
+        "steps": {
+          "id": "PRT-ROUTE-BUILDER",
+          "checked": "21 August 2026"
+        },
+        "cautions": {
+          "id": "PRT-ROUTE-EDGES",
+          "checked": "21 August 2026"
+        },
+        "pathways": {
+          "tourism": {
+            "status": {
+              "id": "PRT-PATH-TOURISM-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "PRT-PATH-TOURISM-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "PRT-PATH-TOURISM-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "PRT-PATH-TOURISM-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "meetings": {
+            "status": {
+              "id": "PRT-PATH-MEETINGS-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "PRT-PATH-MEETINGS-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "PRT-PATH-MEETINGS-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "PRT-PATH-MEETINGS-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "conference": {
+            "status": {
+              "id": "PRT-PATH-CONFERENCE-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "PRT-PATH-CONFERENCE-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "PRT-PATH-CONFERENCE-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "PRT-PATH-CONFERENCE-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "unpaid-speaking": {
+            "status": {
+              "id": "PRT-PATH-UNPAID-SPEAKING-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "PRT-PATH-UNPAID-SPEAKING-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "PRT-PATH-UNPAID-SPEAKING-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "PRT-PATH-UNPAID-SPEAKING-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "paid-speaking": {
+            "status": {
+              "id": "PRT-PATH-PAID-SPEAKING-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "PRT-PATH-PAID-SPEAKING-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "PRT-PATH-PAID-SPEAKING-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "PRT-PATH-PAID-SPEAKING-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "book-launch": {
+            "status": {
+              "id": "PRT-PATH-BOOK-LAUNCH-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "PRT-PATH-BOOK-LAUNCH-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "PRT-PATH-BOOK-LAUNCH-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "PRT-PATH-BOOK-LAUNCH-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "ai-teaching": {
+            "status": {
+              "id": "PRT-PATH-AI-TEACHING-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "PRT-PATH-AI-TEACHING-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "PRT-PATH-AI-TEACHING-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "PRT-PATH-AI-TEACHING-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "remote-work": {
+            "status": {
+              "id": "PRT-PATH-REMOTE-WORK-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "PRT-PATH-REMOTE-WORK-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "PRT-PATH-REMOTE-WORK-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "PRT-PATH-REMOTE-WORK-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "entrepreneur": {
+            "status": {
+              "id": "PRT-PATH-ENTREPRENEUR-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "PRT-PATH-ENTREPRENEUR-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "PRT-PATH-ENTREPRENEUR-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "PRT-PATH-ENTREPRENEUR-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "trade": {
+            "status": {
+              "id": "PRT-PATH-TRADE-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "PRT-PATH-TRADE-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "PRT-PATH-TRADE-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "PRT-PATH-TRADE-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "artist": {
+            "status": {
+              "id": "PRT-PATH-ARTIST-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "PRT-PATH-ARTIST-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "PRT-PATH-ARTIST-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "PRT-PATH-ARTIST-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "mixed-mission": {
+            "status": {
+              "id": "PRT-PATH-MIXED-MISSION-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "PRT-PATH-MIXED-MISSION-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "PRT-PATH-MIXED-MISSION-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "PRT-PATH-MIXED-MISSION-NEXT",
+              "checked": "21 August 2026"
+            }
+          }
+        }
+      },
+      "pathways": {
+        "tourism": {
+          "status": "low",
+          "route": "Visa-free Schengen visitor entry",
+          "detail": "Australians are generally visa-exempt for short Schengen stays.",
+          "next": "Check the current Schengen and Portuguese border requirements."
+        },
+        "meetings": {
+          "status": "low",
+          "route": "Short-stay business visitor",
+          "detail": "Meetings, negotiations, fairs and conferences can fit a visitor trip where no Portuguese service delivery occurs.",
+          "next": "Carry host letter, event ticket and business purpose."
+        },
+        "conference": {
+          "status": "low",
+          "route": "Conference attendance/exhibition route",
+          "detail": "Delegate entry is distinct from paid programme delivery, training or local event work.",
+          "next": "Ask the organiser to label your role and payment."
+        },
+        "unpaid-speaking": {
+          "status": "confirm",
+          "route": "Host classification for invited cultural/academic activity",
+          "detail": "A free talk may be cultural or professional activity depending on host, expenses and duties; visitor entry is not a universal speaker permit.",
+          "next": "Have the host ask AIMA/consulate if the exact event is exempt or needs residence/work permission."
+        },
+        "paid-speaking": {
+          "status": "conditional",
+          "route": "Portuguese work/residence permit or independent activity route",
+          "detail": "Paid speaking, consulting and training can be employment or independent activity and should be documented before arrival.",
+          "next": "Separate one-off event delivery from a local contract or recurring activity."
+        },
+        "book-launch": {
+          "status": "conditional",
+          "route": "Publisher invitation plus cultural/professional classification",
+          "detail": "Rights meetings may fit business travel; launches, readings, signings, workshops and local book sales can add work and tax obligations.",
+          "next": "List fee, royalties, reimbursement and retail separately."
+        },
+        "ai-teaching": {
+          "status": "conditional",
+          "route": "Academic/research host or local work route",
+          "detail": "A university invitation and an independent commercial workshop are different activity shapes.",
+          "next": "Ask the institution or client to choose the correct visa/residence basis."
+        },
+        "remote-work": {
+          "status": "specialist",
+          "route": "D8 remote-work residence route",
+          "detail": "AIMA publishes residence for remote professional activity performed for entities outside Portugal, subject to income, accommodation and other evidence.",
+          "next": "Check the current D8 checklist and keep Portuguese clients/local delivery separate."
+        },
+        "entrepreneur": {
+          "status": "specialist",
+          "route": "D2 independent activity, startup or investment residence",
+          "detail": "Portugal offers residence routes for independent activity, entrepreneurship and qualifying investment; AIMA evidence and current programme rules matter.",
+          "next": "Choose D2/startup/investment and build the Portuguese project file."
+        },
+        "trade": {
+          "status": "conditional",
+          "route": "Short business visit; Portuguese operation needs local status",
+          "detail": "Sourcing, negotiation and fairs can be visitor activity; local fulfilment or service delivery may not be.",
+          "next": "State where the contract, invoice and delivery occur."
+        },
+        "artist": {
+          "status": "conditional",
+          "route": "Cultural/work or independent activity route",
+          "detail": "Paid performance, literary appearances and production work need host contracts and the appropriate activity status.",
+          "next": "Have the producer specify venue, fee, royalties and local labour."
+        },
+        "mixed-mission": {
+          "status": "conditional",
+          "route": "Schengen entry plus D8/D2 or host activation",
+          "detail": "Portugal can support a quick arrival and a longer base, but each paid/local activity remains separately classified.",
+          "next": "Build one schedule with foreign remote work, Portuguese work and cultural activity separated."
+        }
+      }
+    },
+    {
+      "code": "GRC",
+      "id": "greece",
+      "name": "Greece",
+      "flag": "🇬🇷",
+      "region": "Southern Europe",
+      "entrySnapshot": "Visa-free Schengen short stay for Australians; 90 days in any 180-day period.",
+      "ageNote": "Age 43 does not create a visitor barrier; digital-nomad, work, founder and artist routes depend on evidence and host status.",
+      "cardSummary": "A fast island-and-city entry with growing English-language tech, culture and research rooms and a published digital-nomad residence option.",
+      "summary": "Greece is useful when the invitation is cultural, academic, technology or simply a chance to explore. Australians normally have the Schengen short-stay front door. A paid talk, teaching session, performance or Greek client is a different activation, while the digital-nomad and investment/residence systems can support a longer base when their current conditions fit.",
+      "launch": {
+        "fastestEntry": "Visa-free Schengen short stay, normally up to 90 days in any 180-day period",
+        "beforeDeparture": "Check the Greek mission, Schengen day count, invitation and any local work days.",
+        "usefulStay": "Short stay is the fast key; residence and work routes need preparation.",
+        "hostUnlock": "A Greek university, employer, promoter or event organiser can clarify the activity and supporting documents.",
+        "quickPacket": [
+          "Australian passport and Schengen day-count",
+          "Greek host/invitation or event ticket",
+          "Role, payment and reimbursement statement",
+          "Insurance, accommodation and funds"
+        ]
+      },
+      "conferenceFit": {
+        "label": "Growing · Greek and English",
+        "detail": "Athens, Thessaloniki, Patras and island hubs have English-friendly startup, AI, shipping, climate, tourism, arts and university events, alongside Greek-first community rooms.",
+        "themes": [
+          "AI",
+          "startups",
+          "shipping",
+          "climate",
+          "tourism",
+          "arts",
+          "research"
+        ]
+      },
+      "visitor": "Visa-free Schengen visitor entry",
+      "visitorDetail": "Australians are generally visa-exempt for short Schengen visits.",
+      "visitorNext": "Check Greece's current visa and border page before travel.",
+      "business": "Short-stay business visitor",
+      "businessDetail": "Meetings, negotiations, fairs and business conferences can fit a visitor stay when no Greek work is performed.",
+      "businessNext": "Carry invitation and proof of business purpose.",
+      "conference": "Conference attendance route",
+      "conferenceDetail": "Attending a congress or seminar is not the same as being paid to deliver the programme.",
+      "conferenceNext": "Confirm speaker, trainer, panellist and exhibitor duties separately.",
+      "unpaidStatus": "confirm",
+      "unpaid": "Host/consular classification",
+      "unpaidDetail": "Free speaking or cultural exchange can still be work-like; the exact invitation, expense support and host institution matter.",
+      "unpaidNext": "Ask the Greek host to confirm the required category in writing.",
+      "work": "Greek work authorisation/residence or host contract",
+      "workDetail": "Paid speaking, consulting and training for a Greek entity need the matching work basis; visitor entry is not a general work permit.",
+      "workNext": "Have the host identify the permit and payroll/tax treatment.",
+      "book": "Business and cultural activity split",
+      "bookDetail": "Rights meetings can be business travel; launch talks, readings, signings, workshops and local retail need host-led classification.",
+      "bookNext": "Separate fee, royalties, expenses and sales.",
+      "teaching": "University/research or work route",
+      "teachingDetail": "Academic exchange and commercial AI workshops can fall into different Greek categories.",
+      "teachingNext": "Ask the institution/client to state appointment, pay and duration.",
+      "remoteStatus": "specialist",
+      "remote": "Greek digital-nomad residence route",
+      "remoteDetail": "Greece publishes a digital-nomad residence pathway for remote work for employers/clients outside Greece, subject to current income and documentation conditions.",
+      "remoteNext": "Check the current ministry checklist and avoid Greek client work under the remote route.",
+      "founder": "Investor, startup or other residence route",
+      "founderDetail": "Longer founder activity is a residence and company question, not a tourist extension; current investment and startup programmes must be checked.",
+      "founderNext": "Choose the project and confirm the current residence category with Migration/Enterprise Greece.",
+      "trade": "Short business visit; local Greek trading needs status",
+      "tradeDetail": "Negotiation, sourcing and fairs can be visitor activity; local sales, installation or service delivery may trigger permission.",
+      "tradeNext": "Map the Greek contracting party and on-site work.",
+      "artist": "Event-specific cultural/work permission",
+      "artistDetail": "Performance, filming, exhibition and literary work need promoter and authority classification.",
+      "artistNext": "State venue, producer, fee, royalties and dates.",
+      "mixed": "Schengen visit plus host or digital-nomad activation",
+      "mixedDetail": "Greece can be a sudden arrival or a longer foreign-remote base, but local delivery remains a separate key.",
+      "mixedNext": "Split the itinerary into visitor, foreign remote work and Greek activity.",
+      "steps": [
+        "Check Schengen eligibility and day count.",
+        "Get host/event documentation.",
+        "Separate attendance from delivery and payment.",
+        "Check digital-nomad or work residence if staying longer.",
+        "Confirm Greek tax, insurance and local-sales issues."
+      ],
+      "cautions": [
+        "Is the host Greek or foreign?",
+        "Will any Greek entity pay or contract?",
+        "Does the digital-nomad route exclude the proposed activity?",
+        "Are performance and book sales covered?",
+        "Which Greek authority confirms the category?"
+      ],
+      "sources": [
+        {
+          "title": "Visas: Greece in Australia",
+          "authority": "Hellenic Ministry of Foreign Affairs",
+          "url": "https://www.mfa.gr/australia/en/services/visas/",
+          "supports": "Australian visa and Schengen application guidance",
+          "checked": "21 August 2026"
+        },
+        {
+          "title": "Migration policy",
+          "authority": "Greek Ministry of Migration and Asylum",
+          "url": "https://migration.gov.gr/en/migration-policy/",
+          "supports": "residence and migration framework",
+          "checked": "21 August 2026"
+        },
+        {
+          "title": "Investment in Greece",
+          "authority": "Enterprise Greece",
+          "url": "https://enterprisegreece.gov.gr/en/invest-in-greece/",
+          "supports": "investment and business opportunity context",
+          "checked": "21 August 2026"
+        },
+        {
+          "title": "Greek tax authority",
+          "authority": "Independent Authority for Public Revenue",
+          "url": "https://www.aade.gr/",
+          "supports": "tax and local economic activity check",
+          "checked": "21 August 2026"
+        }
+      ],
+      "reviewed": "21 August 2026",
+      "claimChecks": {
+        "entrySnapshot": {
+          "id": "GRC-ENTRY-SNAPSHOT",
+          "checked": "21 August 2026"
+        },
+        "ageNote": {
+          "id": "GRC-AGE-NOTE",
+          "checked": "21 August 2026"
+        },
+        "cardSummary": {
+          "id": "GRC-CARD-SUMMARY",
+          "checked": "21 August 2026"
+        },
+        "summary": {
+          "id": "GRC-SUMMARY",
+          "checked": "21 August 2026"
+        },
+        "launch": {
+          "fastestEntry": {
+            "id": "GRC-LAUNCH-FASTEST-ENTRY",
+            "checked": "21 August 2026"
+          },
+          "beforeDeparture": {
+            "id": "GRC-LAUNCH-BEFORE-DEPARTURE",
+            "checked": "21 August 2026"
+          },
+          "usefulStay": {
+            "id": "GRC-LAUNCH-USEFUL-STAY",
+            "checked": "21 August 2026"
+          },
+          "hostUnlock": {
+            "id": "GRC-LAUNCH-HOST-UNLOCK",
+            "checked": "21 August 2026"
+          },
+          "quickPacket": {
+            "id": "GRC-LAUNCH-QUICK-PACKET",
+            "checked": "21 August 2026"
+          }
+        },
+        "conferenceFit": {
+          "label": {
+            "id": "GRC-LANGUAGE-EVENT-LABEL",
+            "checked": "21 August 2026"
+          },
+          "detail": {
+            "id": "GRC-LANGUAGE-EVENT-DETAIL",
+            "checked": "21 August 2026"
+          },
+          "themes": {
+            "id": "GRC-LANGUAGE-EVENT-THEMES",
+            "checked": "21 August 2026"
+          }
+        },
+        "steps": {
+          "id": "GRC-ROUTE-BUILDER",
+          "checked": "21 August 2026"
+        },
+        "cautions": {
+          "id": "GRC-ROUTE-EDGES",
+          "checked": "21 August 2026"
+        },
+        "pathways": {
+          "tourism": {
+            "status": {
+              "id": "GRC-PATH-TOURISM-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "GRC-PATH-TOURISM-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "GRC-PATH-TOURISM-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "GRC-PATH-TOURISM-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "meetings": {
+            "status": {
+              "id": "GRC-PATH-MEETINGS-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "GRC-PATH-MEETINGS-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "GRC-PATH-MEETINGS-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "GRC-PATH-MEETINGS-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "conference": {
+            "status": {
+              "id": "GRC-PATH-CONFERENCE-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "GRC-PATH-CONFERENCE-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "GRC-PATH-CONFERENCE-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "GRC-PATH-CONFERENCE-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "unpaid-speaking": {
+            "status": {
+              "id": "GRC-PATH-UNPAID-SPEAKING-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "GRC-PATH-UNPAID-SPEAKING-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "GRC-PATH-UNPAID-SPEAKING-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "GRC-PATH-UNPAID-SPEAKING-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "paid-speaking": {
+            "status": {
+              "id": "GRC-PATH-PAID-SPEAKING-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "GRC-PATH-PAID-SPEAKING-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "GRC-PATH-PAID-SPEAKING-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "GRC-PATH-PAID-SPEAKING-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "book-launch": {
+            "status": {
+              "id": "GRC-PATH-BOOK-LAUNCH-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "GRC-PATH-BOOK-LAUNCH-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "GRC-PATH-BOOK-LAUNCH-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "GRC-PATH-BOOK-LAUNCH-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "ai-teaching": {
+            "status": {
+              "id": "GRC-PATH-AI-TEACHING-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "GRC-PATH-AI-TEACHING-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "GRC-PATH-AI-TEACHING-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "GRC-PATH-AI-TEACHING-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "remote-work": {
+            "status": {
+              "id": "GRC-PATH-REMOTE-WORK-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "GRC-PATH-REMOTE-WORK-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "GRC-PATH-REMOTE-WORK-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "GRC-PATH-REMOTE-WORK-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "entrepreneur": {
+            "status": {
+              "id": "GRC-PATH-ENTREPRENEUR-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "GRC-PATH-ENTREPRENEUR-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "GRC-PATH-ENTREPRENEUR-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "GRC-PATH-ENTREPRENEUR-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "trade": {
+            "status": {
+              "id": "GRC-PATH-TRADE-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "GRC-PATH-TRADE-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "GRC-PATH-TRADE-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "GRC-PATH-TRADE-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "artist": {
+            "status": {
+              "id": "GRC-PATH-ARTIST-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "GRC-PATH-ARTIST-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "GRC-PATH-ARTIST-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "GRC-PATH-ARTIST-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "mixed-mission": {
+            "status": {
+              "id": "GRC-PATH-MIXED-MISSION-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "GRC-PATH-MIXED-MISSION-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "GRC-PATH-MIXED-MISSION-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "GRC-PATH-MIXED-MISSION-NEXT",
+              "checked": "21 August 2026"
+            }
+          }
+        }
+      },
+      "pathways": {
+        "tourism": {
+          "status": "low",
+          "route": "Visa-free Schengen visitor entry",
+          "detail": "Australians are generally visa-exempt for short Schengen visits.",
+          "next": "Check Greece's current visa and border page before travel."
+        },
+        "meetings": {
+          "status": "low",
+          "route": "Short-stay business visitor",
+          "detail": "Meetings, negotiations, fairs and business conferences can fit a visitor stay when no Greek work is performed.",
+          "next": "Carry invitation and proof of business purpose."
+        },
+        "conference": {
+          "status": "low",
+          "route": "Conference attendance route",
+          "detail": "Attending a congress or seminar is not the same as being paid to deliver the programme.",
+          "next": "Confirm speaker, trainer, panellist and exhibitor duties separately."
+        },
+        "unpaid-speaking": {
+          "status": "confirm",
+          "route": "Host/consular classification",
+          "detail": "Free speaking or cultural exchange can still be work-like; the exact invitation, expense support and host institution matter.",
+          "next": "Ask the Greek host to confirm the required category in writing."
+        },
+        "paid-speaking": {
+          "status": "conditional",
+          "route": "Greek work authorisation/residence or host contract",
+          "detail": "Paid speaking, consulting and training for a Greek entity need the matching work basis; visitor entry is not a general work permit.",
+          "next": "Have the host identify the permit and payroll/tax treatment."
+        },
+        "book-launch": {
+          "status": "conditional",
+          "route": "Business and cultural activity split",
+          "detail": "Rights meetings can be business travel; launch talks, readings, signings, workshops and local retail need host-led classification.",
+          "next": "Separate fee, royalties, expenses and sales."
+        },
+        "ai-teaching": {
+          "status": "conditional",
+          "route": "University/research or work route",
+          "detail": "Academic exchange and commercial AI workshops can fall into different Greek categories.",
+          "next": "Ask the institution/client to state appointment, pay and duration."
+        },
+        "remote-work": {
+          "status": "specialist",
+          "route": "Greek digital-nomad residence route",
+          "detail": "Greece publishes a digital-nomad residence pathway for remote work for employers/clients outside Greece, subject to current income and documentation conditions.",
+          "next": "Check the current ministry checklist and avoid Greek client work under the remote route."
+        },
+        "entrepreneur": {
+          "status": "specialist",
+          "route": "Investor, startup or other residence route",
+          "detail": "Longer founder activity is a residence and company question, not a tourist extension; current investment and startup programmes must be checked.",
+          "next": "Choose the project and confirm the current residence category with Migration/Enterprise Greece."
+        },
+        "trade": {
+          "status": "conditional",
+          "route": "Short business visit; local Greek trading needs status",
+          "detail": "Negotiation, sourcing and fairs can be visitor activity; local sales, installation or service delivery may trigger permission.",
+          "next": "Map the Greek contracting party and on-site work."
+        },
+        "artist": {
+          "status": "conditional",
+          "route": "Event-specific cultural/work permission",
+          "detail": "Performance, filming, exhibition and literary work need promoter and authority classification.",
+          "next": "State venue, producer, fee, royalties and dates."
+        },
+        "mixed-mission": {
+          "status": "conditional",
+          "route": "Schengen visit plus host or digital-nomad activation",
+          "detail": "Greece can be a sudden arrival or a longer foreign-remote base, but local delivery remains a separate key.",
+          "next": "Split the itinerary into visitor, foreign remote work and Greek activity."
+        }
+      }
+    },
+    {
+      "code": "MEX",
+      "id": "mexico",
+      "name": "Mexico",
+      "flag": "🇲🇽",
+      "region": "North America",
+      "entrySnapshot": "Australians are generally visa-exempt visitors; the immigration officer sets the authorised stay, commonly up to 180 days for tourism/business without local remuneration.",
+      "ageNote": "Age 43 creates no general visitor barrier; temporary residence, employment and artist routes depend on purpose and evidence.",
+      "cardSummary": "A broad visitor front door across a huge Spanish-speaking country, with practical temporary-residence and host-led employment routes.",
+      "summary": "Mexico is not one single travel experience: Mexico City, Guadalajara, Monterrey, Oaxaca, the border and the coasts have different language, host and activity ecosystems. Australians generally have a visitor front door for tourism and unpaid business activity, but local remuneration, employment and longer residence need the Mexican consulate/INM route. Spanish makes a local host especially valuable; English-language technology and creative rooms are concentrated but real.",
+      "launch": {
+        "fastestEntry": "Visa-exempt visitor entry for Australians, with stay length set at the border",
+        "beforeDeparture": "Check current SRE/INM entry guidance, passport validity, return/onward evidence and the stated purpose.",
+        "usefulStay": "Visitor permission can be generous but is not a work permit; temporary residence is the longer base.",
+        "hostUnlock": "A Mexican employer or institution can request a work-authorisation visa; a host invitation can support unpaid or academic activity.",
+        "quickPacket": [
+          "Australian passport and onward plan",
+          "Accommodation and financial evidence",
+          "Spanish/English host letter",
+          "Role, payment and local-client statement"
+        ]
+      },
+      "conferenceFit": {
+        "label": "Strong · Spanish with English clusters",
+        "detail": "Mexico City, Guadalajara, Monterrey, Mérida and creative hubs host recurring Spanish/English AI, technology, business, design, film, arts and university events.",
+        "themes": [
+          "AI",
+          "technology",
+          "startups",
+          "film",
+          "design",
+          "trade",
+          "culture"
+        ]
+      },
+      "visitor": "Visa-exempt visitor entry",
+      "visitorDetail": "Australians are listed among nationalities able to use Mexico's visitor entry, with the authorised stay determined by immigration at entry.",
+      "visitorNext": "Check SRE/INM and keep the purpose consistent with tourism, meetings or unpaid activity.",
+      "business": "Visitor for meetings and business exploration",
+      "businessDetail": "Meetings, market research and negotiations can fit visitor activity when there is no Mexican remuneration or employment.",
+      "businessNext": "Carry invitations and state who pays and where services occur.",
+      "conference": "Visitor for conference attendance",
+      "conferenceDetail": "Delegate attendance can be a visitor purpose; paid programme delivery is separate.",
+      "conferenceNext": "Ask the organiser to state attendee versus speaker/trainer/performer.",
+      "unpaidStatus": "confirm",
+      "unpaid": "Institutional invitation and INM classification",
+      "unpaidDetail": "Unpaid research, teaching or cultural participation can be supported by an institution, but the Mexican host should confirm whether a permit is required.",
+      "unpaidNext": "Get the Spanish invitation to explain role, dates and expenses.",
+      "work": "INM-authorised employment or visitor with paid-activity permission",
+      "workDetail": "A Mexican employer normally obtains INM authorisation before the consular visa process; local remuneration is not covered by ordinary visitor entry.",
+      "workNext": "Have the employer begin the INM offer-of-employment route before advertising the tour.",
+      "book": "Visitor for rights; host/work route for paid launch",
+      "bookDetail": "Publisher meetings can fit business; paid talks, readings, workshops, signings, merchandise and local sales need accurate Mexican classification.",
+      "bookNext": "Separate author appearance, rights and retail.",
+      "teaching": "Institution invitation or employment authorisation",
+      "teachingDetail": "University exchange and commercial training can use different routes; Spanish documentation may be required.",
+      "teachingNext": "Ask the institution to classify academic, unpaid and paid teaching.",
+      "remoteStatus": "specialist",
+      "remote": "Temporary resident by economic solvency or other residence basis; no simple dedicated Mexican digital-nomad visa",
+      "remoteDetail": "Mexico is commonly used as a remote base, but visitor entry, tax residence and local work are separate. Temporary residence is a consular/residence process, not a guaranteed nomad permit.",
+      "remoteNext": "Confirm duration, foreign income, Mexican clients and tax position before basing remotely.",
+      "founder": "Temporary/permanent residence with business or investment evidence",
+      "founderDetail": "Founder activity can use residence and company pathways, subject to consular and INM requirements; owning a company does not automatically authorise local work.",
+      "founderNext": "Choose the residence basis and operating role with a Mexican adviser.",
+      "trade": "Visitor business route; local sales/import/service needs Mexican status",
+      "tradeDetail": "Meetings, sourcing and negotiation can be visitor activity; Mexican fulfilment, sales or installation may require work and customs approvals.",
+      "tradeNext": "Map importer, invoice, tax and on-site roles.",
+      "artist": "Visitor only for non-remunerated activity or host-led work route",
+      "artistDetail": "Paid performance, filming, exhibition and cultural work should be checked with the promoter and INM; visitor status does not cover local remuneration.",
+      "artistNext": "Have the producer provide Spanish contracts, venue and payment details.",
+      "mixed": "Visitor first, INM/consular activation for local delivery",
+      "mixedDetail": "Mexico can absorb many purposes, but the local remuneration line must be explicit.",
+      "mixedNext": "Split tourism, meetings, foreign remote work and Mexican delivery before arrival.",
+      "steps": [
+        "Check current SRE/INM nationality and entry rules.",
+        "Carry a Spanish/English purpose letter.",
+        "Separate unpaid activity from local remuneration.",
+        "Have a Mexican employer request work authorisation where needed.",
+        "Check tax, customs and local-sales implications."
+      ],
+      "cautions": [
+        "What stay length did the officer authorise?",
+        "Who pays and where is the service delivered?",
+        "Is the invitation unpaid, reimbursed or remunerated?",
+        "Is temporary residence more accurate than repeated visitor entry?",
+        "Are Spanish translations and Mexican tax registration required?"
+      ],
+      "sources": [
+        {
+          "title": "Visas for foreigners",
+          "authority": "Secretariat of Foreign Affairs (SRE), Mexico",
+          "url": "https://www.gob.mx/sre/acciones-y-programas/visas-para-extranjeros",
+          "supports": "visa and visitor categories",
+          "checked": "21 August 2026"
+        },
+        {
+          "title": "Autonomous immigration filters and eligible nationalities",
+          "authority": "National Institute of Migration (INM), Mexico",
+          "url": "https://www.gob.mx/inm/es/articulos/filtros-migratorios-autonomos-del-inm-requisitos-y-nacionalidades-que-pueden-utilizarlos?idiom=es",
+          "supports": "Australian visitor entry signal",
+          "checked": "21 August 2026"
+        },
+        {
+          "title": "FAQ: visa by job offer",
+          "authority": "National Institute of Migration (INM), Mexico",
+          "url": "https://www.gob.mx/inm/documentos/preguntas-frecuentes-para-solicitar-visa-por-oferta-de-empleo",
+          "supports": "employer-led paid work route",
+          "checked": "21 August 2026"
+        },
+        {
+          "title": "Mexican Embassy in Australia: business visa requirements",
+          "authority": "Embassy of Mexico in Australia",
+          "url": "https://embamex.sre.gob.mx/australia/images/stories/businessvisarequirements",
+          "supports": "business documentation and consular evidence",
+          "checked": "21 August 2026"
+        }
+      ],
+      "reviewed": "21 August 2026",
+      "claimChecks": {
+        "entrySnapshot": {
+          "id": "MEX-ENTRY-SNAPSHOT",
+          "checked": "21 August 2026"
+        },
+        "ageNote": {
+          "id": "MEX-AGE-NOTE",
+          "checked": "21 August 2026"
+        },
+        "cardSummary": {
+          "id": "MEX-CARD-SUMMARY",
+          "checked": "21 August 2026"
+        },
+        "summary": {
+          "id": "MEX-SUMMARY",
+          "checked": "21 August 2026"
+        },
+        "launch": {
+          "fastestEntry": {
+            "id": "MEX-LAUNCH-FASTEST-ENTRY",
+            "checked": "21 August 2026"
+          },
+          "beforeDeparture": {
+            "id": "MEX-LAUNCH-BEFORE-DEPARTURE",
+            "checked": "21 August 2026"
+          },
+          "usefulStay": {
+            "id": "MEX-LAUNCH-USEFUL-STAY",
+            "checked": "21 August 2026"
+          },
+          "hostUnlock": {
+            "id": "MEX-LAUNCH-HOST-UNLOCK",
+            "checked": "21 August 2026"
+          },
+          "quickPacket": {
+            "id": "MEX-LAUNCH-QUICK-PACKET",
+            "checked": "21 August 2026"
+          }
+        },
+        "conferenceFit": {
+          "label": {
+            "id": "MEX-LANGUAGE-EVENT-LABEL",
+            "checked": "21 August 2026"
+          },
+          "detail": {
+            "id": "MEX-LANGUAGE-EVENT-DETAIL",
+            "checked": "21 August 2026"
+          },
+          "themes": {
+            "id": "MEX-LANGUAGE-EVENT-THEMES",
+            "checked": "21 August 2026"
+          }
+        },
+        "steps": {
+          "id": "MEX-ROUTE-BUILDER",
+          "checked": "21 August 2026"
+        },
+        "cautions": {
+          "id": "MEX-ROUTE-EDGES",
+          "checked": "21 August 2026"
+        },
+        "pathways": {
+          "tourism": {
+            "status": {
+              "id": "MEX-PATH-TOURISM-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "MEX-PATH-TOURISM-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "MEX-PATH-TOURISM-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "MEX-PATH-TOURISM-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "meetings": {
+            "status": {
+              "id": "MEX-PATH-MEETINGS-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "MEX-PATH-MEETINGS-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "MEX-PATH-MEETINGS-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "MEX-PATH-MEETINGS-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "conference": {
+            "status": {
+              "id": "MEX-PATH-CONFERENCE-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "MEX-PATH-CONFERENCE-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "MEX-PATH-CONFERENCE-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "MEX-PATH-CONFERENCE-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "unpaid-speaking": {
+            "status": {
+              "id": "MEX-PATH-UNPAID-SPEAKING-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "MEX-PATH-UNPAID-SPEAKING-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "MEX-PATH-UNPAID-SPEAKING-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "MEX-PATH-UNPAID-SPEAKING-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "paid-speaking": {
+            "status": {
+              "id": "MEX-PATH-PAID-SPEAKING-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "MEX-PATH-PAID-SPEAKING-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "MEX-PATH-PAID-SPEAKING-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "MEX-PATH-PAID-SPEAKING-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "book-launch": {
+            "status": {
+              "id": "MEX-PATH-BOOK-LAUNCH-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "MEX-PATH-BOOK-LAUNCH-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "MEX-PATH-BOOK-LAUNCH-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "MEX-PATH-BOOK-LAUNCH-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "ai-teaching": {
+            "status": {
+              "id": "MEX-PATH-AI-TEACHING-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "MEX-PATH-AI-TEACHING-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "MEX-PATH-AI-TEACHING-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "MEX-PATH-AI-TEACHING-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "remote-work": {
+            "status": {
+              "id": "MEX-PATH-REMOTE-WORK-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "MEX-PATH-REMOTE-WORK-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "MEX-PATH-REMOTE-WORK-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "MEX-PATH-REMOTE-WORK-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "entrepreneur": {
+            "status": {
+              "id": "MEX-PATH-ENTREPRENEUR-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "MEX-PATH-ENTREPRENEUR-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "MEX-PATH-ENTREPRENEUR-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "MEX-PATH-ENTREPRENEUR-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "trade": {
+            "status": {
+              "id": "MEX-PATH-TRADE-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "MEX-PATH-TRADE-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "MEX-PATH-TRADE-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "MEX-PATH-TRADE-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "artist": {
+            "status": {
+              "id": "MEX-PATH-ARTIST-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "MEX-PATH-ARTIST-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "MEX-PATH-ARTIST-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "MEX-PATH-ARTIST-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "mixed-mission": {
+            "status": {
+              "id": "MEX-PATH-MIXED-MISSION-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "MEX-PATH-MIXED-MISSION-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "MEX-PATH-MIXED-MISSION-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "MEX-PATH-MIXED-MISSION-NEXT",
+              "checked": "21 August 2026"
+            }
+          }
+        }
+      },
+      "pathways": {
+        "tourism": {
+          "status": "low",
+          "route": "Visa-exempt visitor entry",
+          "detail": "Australians are listed among nationalities able to use Mexico's visitor entry, with the authorised stay determined by immigration at entry.",
+          "next": "Check SRE/INM and keep the purpose consistent with tourism, meetings or unpaid activity."
+        },
+        "meetings": {
+          "status": "low",
+          "route": "Visitor for meetings and business exploration",
+          "detail": "Meetings, market research and negotiations can fit visitor activity when there is no Mexican remuneration or employment.",
+          "next": "Carry invitations and state who pays and where services occur."
+        },
+        "conference": {
+          "status": "low",
+          "route": "Visitor for conference attendance",
+          "detail": "Delegate attendance can be a visitor purpose; paid programme delivery is separate.",
+          "next": "Ask the organiser to state attendee versus speaker/trainer/performer."
+        },
+        "unpaid-speaking": {
+          "status": "confirm",
+          "route": "Institutional invitation and INM classification",
+          "detail": "Unpaid research, teaching or cultural participation can be supported by an institution, but the Mexican host should confirm whether a permit is required.",
+          "next": "Get the Spanish invitation to explain role, dates and expenses."
+        },
+        "paid-speaking": {
+          "status": "conditional",
+          "route": "INM-authorised employment or visitor with paid-activity permission",
+          "detail": "A Mexican employer normally obtains INM authorisation before the consular visa process; local remuneration is not covered by ordinary visitor entry.",
+          "next": "Have the employer begin the INM offer-of-employment route before advertising the tour."
+        },
+        "book-launch": {
+          "status": "conditional",
+          "route": "Visitor for rights; host/work route for paid launch",
+          "detail": "Publisher meetings can fit business; paid talks, readings, workshops, signings, merchandise and local sales need accurate Mexican classification.",
+          "next": "Separate author appearance, rights and retail."
+        },
+        "ai-teaching": {
+          "status": "conditional",
+          "route": "Institution invitation or employment authorisation",
+          "detail": "University exchange and commercial training can use different routes; Spanish documentation may be required.",
+          "next": "Ask the institution to classify academic, unpaid and paid teaching."
+        },
+        "remote-work": {
+          "status": "specialist",
+          "route": "Temporary resident by economic solvency or other residence basis; no simple dedicated Mexican digital-nomad visa",
+          "detail": "Mexico is commonly used as a remote base, but visitor entry, tax residence and local work are separate. Temporary residence is a consular/residence process, not a guaranteed nomad permit.",
+          "next": "Confirm duration, foreign income, Mexican clients and tax position before basing remotely."
+        },
+        "entrepreneur": {
+          "status": "specialist",
+          "route": "Temporary/permanent residence with business or investment evidence",
+          "detail": "Founder activity can use residence and company pathways, subject to consular and INM requirements; owning a company does not automatically authorise local work.",
+          "next": "Choose the residence basis and operating role with a Mexican adviser."
+        },
+        "trade": {
+          "status": "conditional",
+          "route": "Visitor business route; local sales/import/service needs Mexican status",
+          "detail": "Meetings, sourcing and negotiation can be visitor activity; Mexican fulfilment, sales or installation may require work and customs approvals.",
+          "next": "Map importer, invoice, tax and on-site roles."
+        },
+        "artist": {
+          "status": "conditional",
+          "route": "Visitor only for non-remunerated activity or host-led work route",
+          "detail": "Paid performance, filming, exhibition and cultural work should be checked with the promoter and INM; visitor status does not cover local remuneration.",
+          "next": "Have the producer provide Spanish contracts, venue and payment details."
+        },
+        "mixed-mission": {
+          "status": "conditional",
+          "route": "Visitor first, INM/consular activation for local delivery",
+          "detail": "Mexico can absorb many purposes, but the local remuneration line must be explicit.",
+          "next": "Split tourism, meetings, foreign remote work and Mexican delivery before arrival."
+        }
+      }
+    },
+    {
+      "code": "BRA",
+      "id": "brazil",
+      "name": "Brazil",
+      "flag": "🇧🇷",
+      "region": "South America",
+      "entrySnapshot": "Australians need the electronic VIVIS visitor visa for tourism/business; visitor stay is generally up to 90 days, subject to the visa and border decision.",
+      "ageNote": "Age 43 is not a general visitor gate; VITEM work, research, cultural, investment and digital-nomad routes are purpose-specific.",
+      "cardSummary": "A large Portuguese-speaking market with an explicit Australian eVisa front door and a published VITEM XIV digital-nomad route.",
+      "summary": "Brazil changed the quick-entry calculation for Australians: the official consular guidance says an electronic VIVIS is required for tourism and business. Visitor status can cover conferences, seminars, congresses, unpaid research and some artistic activity, but paid employment is prohibited. VITEM V, research/teaching, artistic and VITEM XIV digital-nomad routes create the activation keys for longer or remunerated work.",
+      "launch": {
+        "fastestEntry": "Electronic VIVIS visitor visa for Australian passports",
+        "beforeDeparture": "Apply through the official eVisa channel, check the consular jurisdiction and keep a printed copy with the itinerary.",
+        "usefulStay": "VIVIS is generally up to 90 days and may be extendable once; active paid work needs a VITEM or residence authorisation.",
+        "hostUnlock": "A Brazilian employer, institution, producer or immigration sponsor initiates the relevant temporary visa/residence process.",
+        "quickPacket": [
+          "Brazil eVisa and passport",
+          "Flight/financial evidence",
+          "Host letter or business letter",
+          "Portuguese/English role and payment statement"
+        ]
+      },
+      "conferenceFit": {
+        "label": "Strong · Portuguese with English hubs",
+        "detail": "São Paulo, Rio, Brasília, Belo Horizonte, Recife and Florianópolis have recurring Portuguese/English technology, AI, finance, research, climate, film and creative events.",
+        "themes": [
+          "AI",
+          "technology",
+          "finance",
+          "research",
+          "climate",
+          "film",
+          "music"
+        ]
+      },
+      "visitor": "VIVIS electronic visitor visa",
+      "visitorDetail": "The Foreign Ministry says Australian citizens require an electronic visitor visa for tourism and business, with visitor stays generally up to 90 days.",
+      "visitorNext": "Use the official eVisa/VFS route and check the exact visa validity and stay at issue.",
+      "business": "VIVIS business visit",
+      "businessDetail": "Meetings, negotiations, site visits and commercial events can fit VIVIS when no paid Brazilian work is performed.",
+      "businessNext": "Carry the Brazilian or foreign company letter and schedule.",
+      "conference": "VIVIS conference attendance",
+      "conferenceDetail": "Brazil's visitor guidance includes conferences, seminars and congresses, but visitor status prohibits remunerated employment.",
+      "conferenceNext": "Keep delegate status distinct from paid delivery.",
+      "unpaidStatus": "low",
+      "unpaid": "VIVIS for eligible non-remunerated cultural/academic activity",
+      "unpaidDetail": "Official guidance includes non-remunerated research, conferences, academic activity and some artistic/cultural purposes, with factual boundaries.",
+      "unpaidNext": "Have the host state that no Brazilian employment or fee is being provided.",
+      "work": "VITEM V work visa/residence authorisation",
+      "workDetail": "Employment, technical assistance and remunerated work require the work route, generally initiated by the Brazilian sponsor through the Ministry of Justice.",
+      "workNext": "Get the sponsor to start the MigranteWeb/authorisation process before travel.",
+      "book": "VIVIS for rights/attendance; cultural or work VITEM for paid launch",
+      "bookDetail": "A launch with no Brazilian remuneration may be visitor/cultural activity; paid speaking, local employment or retail needs the matching VITEM and tax/customs treatment.",
+      "bookNext": "Separate royalties, fee, expenses, books and local sales.",
+      "teaching": "Research/teaching VITEM or work route",
+      "teachingDetail": "Brazil lists temporary visas for research, teaching or extension; commercial training and local employment need the proper authorisation.",
+      "teachingNext": "Ask the university or company to lead the exact category.",
+      "remoteStatus": "specialist",
+      "remote": "VITEM XIV digital-nomad temporary visa/residence",
+      "remoteDetail": "Brazil's published digital-nomad route is for remote work for foreign employers/clients, with no Brazilian employment relationship and current income/funds evidence.",
+      "remoteNext": "Use it for foreign work only and check the current one-year/renewal conditions.",
+      "founder": "Investment or economically/culturally relevant activity residence",
+      "founderDetail": "Brazil publishes temporary visas/residence for investment and activities with economic, social, scientific, technological or cultural relevance.",
+      "founderNext": "Choose investment, startup/company and operating role with a Brazilian sponsor.",
+      "trade": "VIVIS business; local installation/service needs VITEM V",
+      "tradeDetail": "Business meetings and contracts can be visitor activity; technical assistance, installation, maintenance and local fulfilment require work permission.",
+      "tradeNext": "Ask whether any hands-on service is happening in Brazil.",
+      "artist": "VIVIS for eligible non-remunerated activity or cultural VITEM",
+      "artistDetail": "Brazil's visitor guidance includes artistic/sports/cultural activity but prohibits remunerated employment; paid performance has a temporary visa layer.",
+      "artistNext": "Have the producer specify fee, prize, expense support, contract and venue.",
+      "mixed": "eVisa front door plus VIVIS/VITEM split",
+      "mixedDetail": "Brazil can handle many purposes, but paid work and foreign remote work use different legal keys.",
+      "mixedNext": "Break the itinerary into visitor, local work, cultural work and foreign remote work.",
+      "steps": [
+        "Apply for the Brazilian eVisa early.",
+        "Carry business/conference or host evidence.",
+        "Keep visitor activity non-remunerated.",
+        "Let sponsors lead VITEM work/research/cultural applications.",
+        "Use VITEM XIV only for foreign remote work."
+      ],
+      "cautions": [
+        "Is the activity remunerated in Brazil?",
+        "Does technical assistance turn a visit into work?",
+        "Is the host a university, employer or producer?",
+        "Are books and merchandise imported or sold locally?",
+        "Does the VIVIS stay/extension still fit the itinerary?"
+      ],
+      "sources": [
+        {
+          "title": "Electronic visitor visa (e-Visa)",
+          "authority": "Brazilian Ministry of Foreign Affairs",
+          "url": "https://www.gov.br/mre/pt-br/consulado-sao-francisco/electronic-visitor-visa-e-visa",
+          "supports": "Australian eVisa requirement and VIVIS business/tourism",
+          "checked": "21 August 2026"
+        },
+        {
+          "title": "Visitor visa (VIVIS)",
+          "authority": "Brazilian Ministry of Foreign Affairs",
+          "url": "https://www.gov.br/mre/pt-br/consulado-zurique/deutsch/visa-english-1/vivis_en",
+          "supports": "90-day visitor purposes and paid-work prohibition",
+          "checked": "21 August 2026"
+        },
+        {
+          "title": "VITEM V: work",
+          "authority": "Brazilian Consulate-General in Sydney",
+          "url": "https://www.gov.br/mre/pt-br/consulado-sydney/servicos-consulares/visas/types-of-visas/vitem/vitem-v-work",
+          "supports": "sponsor-led work visa",
+          "checked": "21 August 2026"
+        },
+        {
+          "title": "VITEM XIV: digital nomad",
+          "authority": "Brazilian Ministry of Foreign Affairs",
+          "url": "https://www.gov.br/mre/pt-br/embaixada-windhoek/english/consular-services/visas-1/vitem-xiv-digital-nomad",
+          "supports": "foreign-employer remote-work route",
+          "checked": "21 August 2026"
+        },
+        {
+          "title": "Digital nomad information folder",
+          "authority": "Brazilian Ministry of Justice and Public Security",
+          "url": "https://portaldeimigracao.mj.gov.br/images/Informativos_Publica%C3%A7%C3%A3o/FOLDER_INGLES.pdf",
+          "supports": "income and residence evidence",
+          "checked": "21 August 2026"
+        }
+      ],
+      "reviewed": "21 August 2026",
+      "claimChecks": {
+        "entrySnapshot": {
+          "id": "BRA-ENTRY-SNAPSHOT",
+          "checked": "21 August 2026"
+        },
+        "ageNote": {
+          "id": "BRA-AGE-NOTE",
+          "checked": "21 August 2026"
+        },
+        "cardSummary": {
+          "id": "BRA-CARD-SUMMARY",
+          "checked": "21 August 2026"
+        },
+        "summary": {
+          "id": "BRA-SUMMARY",
+          "checked": "21 August 2026"
+        },
+        "launch": {
+          "fastestEntry": {
+            "id": "BRA-LAUNCH-FASTEST-ENTRY",
+            "checked": "21 August 2026"
+          },
+          "beforeDeparture": {
+            "id": "BRA-LAUNCH-BEFORE-DEPARTURE",
+            "checked": "21 August 2026"
+          },
+          "usefulStay": {
+            "id": "BRA-LAUNCH-USEFUL-STAY",
+            "checked": "21 August 2026"
+          },
+          "hostUnlock": {
+            "id": "BRA-LAUNCH-HOST-UNLOCK",
+            "checked": "21 August 2026"
+          },
+          "quickPacket": {
+            "id": "BRA-LAUNCH-QUICK-PACKET",
+            "checked": "21 August 2026"
+          }
+        },
+        "conferenceFit": {
+          "label": {
+            "id": "BRA-LANGUAGE-EVENT-LABEL",
+            "checked": "21 August 2026"
+          },
+          "detail": {
+            "id": "BRA-LANGUAGE-EVENT-DETAIL",
+            "checked": "21 August 2026"
+          },
+          "themes": {
+            "id": "BRA-LANGUAGE-EVENT-THEMES",
+            "checked": "21 August 2026"
+          }
+        },
+        "steps": {
+          "id": "BRA-ROUTE-BUILDER",
+          "checked": "21 August 2026"
+        },
+        "cautions": {
+          "id": "BRA-ROUTE-EDGES",
+          "checked": "21 August 2026"
+        },
+        "pathways": {
+          "tourism": {
+            "status": {
+              "id": "BRA-PATH-TOURISM-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "BRA-PATH-TOURISM-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "BRA-PATH-TOURISM-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "BRA-PATH-TOURISM-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "meetings": {
+            "status": {
+              "id": "BRA-PATH-MEETINGS-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "BRA-PATH-MEETINGS-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "BRA-PATH-MEETINGS-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "BRA-PATH-MEETINGS-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "conference": {
+            "status": {
+              "id": "BRA-PATH-CONFERENCE-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "BRA-PATH-CONFERENCE-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "BRA-PATH-CONFERENCE-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "BRA-PATH-CONFERENCE-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "unpaid-speaking": {
+            "status": {
+              "id": "BRA-PATH-UNPAID-SPEAKING-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "BRA-PATH-UNPAID-SPEAKING-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "BRA-PATH-UNPAID-SPEAKING-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "BRA-PATH-UNPAID-SPEAKING-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "paid-speaking": {
+            "status": {
+              "id": "BRA-PATH-PAID-SPEAKING-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "BRA-PATH-PAID-SPEAKING-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "BRA-PATH-PAID-SPEAKING-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "BRA-PATH-PAID-SPEAKING-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "book-launch": {
+            "status": {
+              "id": "BRA-PATH-BOOK-LAUNCH-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "BRA-PATH-BOOK-LAUNCH-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "BRA-PATH-BOOK-LAUNCH-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "BRA-PATH-BOOK-LAUNCH-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "ai-teaching": {
+            "status": {
+              "id": "BRA-PATH-AI-TEACHING-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "BRA-PATH-AI-TEACHING-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "BRA-PATH-AI-TEACHING-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "BRA-PATH-AI-TEACHING-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "remote-work": {
+            "status": {
+              "id": "BRA-PATH-REMOTE-WORK-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "BRA-PATH-REMOTE-WORK-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "BRA-PATH-REMOTE-WORK-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "BRA-PATH-REMOTE-WORK-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "entrepreneur": {
+            "status": {
+              "id": "BRA-PATH-ENTREPRENEUR-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "BRA-PATH-ENTREPRENEUR-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "BRA-PATH-ENTREPRENEUR-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "BRA-PATH-ENTREPRENEUR-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "trade": {
+            "status": {
+              "id": "BRA-PATH-TRADE-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "BRA-PATH-TRADE-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "BRA-PATH-TRADE-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "BRA-PATH-TRADE-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "artist": {
+            "status": {
+              "id": "BRA-PATH-ARTIST-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "BRA-PATH-ARTIST-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "BRA-PATH-ARTIST-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "BRA-PATH-ARTIST-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "mixed-mission": {
+            "status": {
+              "id": "BRA-PATH-MIXED-MISSION-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "BRA-PATH-MIXED-MISSION-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "BRA-PATH-MIXED-MISSION-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "BRA-PATH-MIXED-MISSION-NEXT",
+              "checked": "21 August 2026"
+            }
+          }
+        }
+      },
+      "pathways": {
+        "tourism": {
+          "status": "low",
+          "route": "VIVIS electronic visitor visa",
+          "detail": "The Foreign Ministry says Australian citizens require an electronic visitor visa for tourism and business, with visitor stays generally up to 90 days.",
+          "next": "Use the official eVisa/VFS route and check the exact visa validity and stay at issue."
+        },
+        "meetings": {
+          "status": "low",
+          "route": "VIVIS business visit",
+          "detail": "Meetings, negotiations, site visits and commercial events can fit VIVIS when no paid Brazilian work is performed.",
+          "next": "Carry the Brazilian or foreign company letter and schedule."
+        },
+        "conference": {
+          "status": "low",
+          "route": "VIVIS conference attendance",
+          "detail": "Brazil's visitor guidance includes conferences, seminars and congresses, but visitor status prohibits remunerated employment.",
+          "next": "Keep delegate status distinct from paid delivery."
+        },
+        "unpaid-speaking": {
+          "status": "low",
+          "route": "VIVIS for eligible non-remunerated cultural/academic activity",
+          "detail": "Official guidance includes non-remunerated research, conferences, academic activity and some artistic/cultural purposes, with factual boundaries.",
+          "next": "Have the host state that no Brazilian employment or fee is being provided."
+        },
+        "paid-speaking": {
+          "status": "conditional",
+          "route": "VITEM V work visa/residence authorisation",
+          "detail": "Employment, technical assistance and remunerated work require the work route, generally initiated by the Brazilian sponsor through the Ministry of Justice.",
+          "next": "Get the sponsor to start the MigranteWeb/authorisation process before travel."
+        },
+        "book-launch": {
+          "status": "conditional",
+          "route": "VIVIS for rights/attendance; cultural or work VITEM for paid launch",
+          "detail": "A launch with no Brazilian remuneration may be visitor/cultural activity; paid speaking, local employment or retail needs the matching VITEM and tax/customs treatment.",
+          "next": "Separate royalties, fee, expenses, books and local sales."
+        },
+        "ai-teaching": {
+          "status": "conditional",
+          "route": "Research/teaching VITEM or work route",
+          "detail": "Brazil lists temporary visas for research, teaching or extension; commercial training and local employment need the proper authorisation.",
+          "next": "Ask the university or company to lead the exact category."
+        },
+        "remote-work": {
+          "status": "specialist",
+          "route": "VITEM XIV digital-nomad temporary visa/residence",
+          "detail": "Brazil's published digital-nomad route is for remote work for foreign employers/clients, with no Brazilian employment relationship and current income/funds evidence.",
+          "next": "Use it for foreign work only and check the current one-year/renewal conditions."
+        },
+        "entrepreneur": {
+          "status": "specialist",
+          "route": "Investment or economically/culturally relevant activity residence",
+          "detail": "Brazil publishes temporary visas/residence for investment and activities with economic, social, scientific, technological or cultural relevance.",
+          "next": "Choose investment, startup/company and operating role with a Brazilian sponsor."
+        },
+        "trade": {
+          "status": "conditional",
+          "route": "VIVIS business; local installation/service needs VITEM V",
+          "detail": "Business meetings and contracts can be visitor activity; technical assistance, installation, maintenance and local fulfilment require work permission.",
+          "next": "Ask whether any hands-on service is happening in Brazil."
+        },
+        "artist": {
+          "status": "conditional",
+          "route": "VIVIS for eligible non-remunerated activity or cultural VITEM",
+          "detail": "Brazil's visitor guidance includes artistic/sports/cultural activity but prohibits remunerated employment; paid performance has a temporary visa layer.",
+          "next": "Have the producer specify fee, prize, expense support, contract and venue."
+        },
+        "mixed-mission": {
+          "status": "conditional",
+          "route": "eVisa front door plus VIVIS/VITEM split",
+          "detail": "Brazil can handle many purposes, but paid work and foreign remote work use different legal keys.",
+          "next": "Break the itinerary into visitor, local work, cultural work and foreign remote work."
+        }
+      }
+    },
+    {
+      "code": "ARG",
+      "id": "argentina",
+      "name": "Argentina",
+      "flag": "🇦🇷",
+      "region": "South America",
+      "entrySnapshot": "Australians are generally admitted visa-free for tourism and business subject to the current reciprocity/entry-fee position; ordinary tourist permission is up to 90 days and may be extended.",
+      "ageNote": "No general age gate at 43; temporary residence, digital-nomad, professional and artistic categories depend on purpose and documents.",
+      "cardSummary": "An accessible Spanish-speaking gateway with explicit electronic business, professional/artistic and digital-nomad categories in the immigration system.",
+      "summary": "Argentina is unusually useful for non-linear travel because its migration system names several purposes that other countries leave vague. Australians have a published tourism/business entry history and should check the current reciprocity fee before departure. The TIE 24H menu includes business, fairs, scientific/professional/technical/artistic paid or unpaid tasks and digital nomads; the host and category still need to match the actual activity.",
+      "launch": {
+        "fastestEntry": "Current visa-exempt tourism/business entry subject to reciprocity and border checks",
+        "beforeDeparture": "Check Migraciones and the Argentine consular/entry-fee position, then prepare a Spanish purpose letter.",
+        "usefulStay": "Tourist permission is generally up to 90 days and may be extended; TIE/residence categories can be more accurate for work.",
+        "hostUnlock": "An Argentine registered requester, university, producer or company can support the TIE/permission process.",
+        "quickPacket": [
+          "Australian passport and entry-fee check",
+          "Spanish/English host letter",
+          "Business/event or professional activity brief",
+          "Funds, accommodation and onward plan"
+        ]
+      },
+      "conferenceFit": {
+        "label": "Strong · Spanish with English hubs",
+        "detail": "Buenos Aires, Córdoba, Rosario, Mendoza and Bariloche have recurring Spanish/English technology, AI, research, agriculture, culture, film and startup events.",
+        "themes": [
+          "AI",
+          "technology",
+          "science",
+          "agriculture",
+          "film",
+          "culture",
+          "startups"
+        ]
+      },
+      "visitor": "Tourist/business entry or TIE 24H",
+      "visitorDetail": "Argentina's migration pages describe tourist stays up to three months and the TIE system lists business and other short categories; Australians should confirm current fee/waiver treatment.",
+      "visitorNext": "Check the current Migraciones entry regime and any reciprocity charge.",
+      "business": "TIE 24H business or short business entry",
+      "businessDetail": "Argentina has an explicit electronic business category for habitual business/representative activity supported by a registered Argentine requester.",
+      "businessNext": "Ask the host whether Re.N.U.R.E. registration and TIE 24H are needed.",
+      "conference": "Tourist/business entry for conference attendance",
+      "conferenceDetail": "Attendance can fit visitor/business purpose; professional delivery and paid tasks are separately named in TIE categories.",
+      "conferenceNext": "Label attendee, speaker, trainer and exhibitor roles.",
+      "unpaidStatus": "conditional",
+      "unpaid": "TIE 24H scientific/professional/technical/artistic category",
+      "unpaidDetail": "The electronic-entry menu expressly lists remunerated or non-remunerated scientific, professional, technical, religious or artistic tasks.",
+      "unpaidNext": "Use the exact host, dates and unpaid/expense arrangement in the application.",
+      "work": "TIE 24H or temporary residence for local professional work",
+      "workDetail": "Argentina's migration categories can cover paid professional/technical/artistic tasks, but a proper permission is not the same as tourist entry.",
+      "workNext": "Have the registered requester choose the short TIE or temporary-residence category.",
+      "book": "Business/cultural TIE split",
+      "bookDetail": "Rights meetings can be business; paid readings, workshops, signings, royalties and local sales should use the professional/artistic and tax framework.",
+      "bookNext": "Separate author activity from merchandise and retail.",
+      "teaching": "Scientific/professional TIE or academic host route",
+      "teachingDetail": "Short teaching can be tied to a university or professional invitation; recurring local employment needs residence/work status.",
+      "teachingNext": "Ask the institution to state whether the role is academic exchange, paid teaching or service delivery.",
+      "remoteStatus": "specialist",
+      "remote": "Digital-nomad category listed in TIE 24H system",
+      "remoteDetail": "Argentina's electronic-entry menu includes digital nomads; current duration, evidence and whether a visa is needed must be confirmed for the passport and stay.",
+      "remoteNext": "Check the current DNM digital-nomad instructions and keep Argentine clients separate.",
+      "founder": "Temporary residence/business and investment routes",
+      "founderDetail": "Founder and investor activity is a residence/company question; the visitor/business route only supports exploration and meetings.",
+      "founderNext": "Choose the Argentine entity, investment and operating role before setting up locally.",
+      "trade": "Business/TIE route; local import and fulfilment separate",
+      "tradeDetail": "Fairs, market studies and negotiations can use business categories; local selling, customs and service delivery add other permissions.",
+      "tradeNext": "Map importer, invoice, customs and on-site work.",
+      "artist": "TIE artistic category or cultural host route",
+      "artistDetail": "Argentina expressly lists artistic tasks, including non-remunerated work, in its electronic-entry menu; paid performance still needs exact classification.",
+      "artistNext": "Have the producer state fee, venue, dates and union/rights issues.",
+      "mixed": "Tourist/business entry plus TIE category",
+      "mixedDetail": "Argentina's strength is a menu that names several non-linear purposes, but each trip still needs one accurate principal category.",
+      "mixedNext": "Build the Spanish schedule and ask the host to choose the TIE/residence path.",
+      "steps": [
+        "Check tourist/business and reciprocity status.",
+        "Use Spanish/English purpose documentation.",
+        "Ask whether TIE 24H is required.",
+        "Separate foreign remote work from Argentine activity.",
+        "Confirm tax, copyright, customs and residence consequences."
+      ],
+      "cautions": [
+        "Is the current reciprocity fee charged?",
+        "Is the host registered as a requester?",
+        "Is the activity paid, unpaid or expense-only?",
+        "Which TIE category actually names it?",
+        "Will local sales, tax or employment follow?"
+      ],
+      "sources": [
+        {
+          "title": "Tourists",
+          "authority": "Argentine National Migration Directorate",
+          "url": "https://www.argentina.gob.ar/migraciones/turistas",
+          "supports": "tourist duration and extension",
+          "checked": "21 August 2026"
+        },
+        {
+          "title": "Electronic entry processing (TIE 24H)",
+          "authority": "Argentine National Migration Directorate",
+          "url": "https://www.argentina.gob.ar/migraciones/tramitacion-de-ingreso-electronica-tie-24h",
+          "supports": "business, professional/artistic and digital-nomad menu",
+          "checked": "21 August 2026"
+        },
+        {
+          "title": "Electronic entry processing: business",
+          "authority": "Argentine National Migration Directorate",
+          "url": "https://www.argentina.gob.ar/servicio/tramitacion-de-ingreso-electronica-negocios",
+          "supports": "registered requester and business category",
+          "checked": "21 August 2026"
+        },
+        {
+          "title": "Visiting Argentina",
+          "authority": "Argentina.gob.ar",
+          "url": "https://www.argentina.gob.ar/tema/extranjeros/turistas",
+          "supports": "Australian entry and reciprocity prompt",
+          "checked": "21 August 2026"
+        }
+      ],
+      "reviewed": "21 August 2026",
+      "claimChecks": {
+        "entrySnapshot": {
+          "id": "ARG-ENTRY-SNAPSHOT",
+          "checked": "21 August 2026"
+        },
+        "ageNote": {
+          "id": "ARG-AGE-NOTE",
+          "checked": "21 August 2026"
+        },
+        "cardSummary": {
+          "id": "ARG-CARD-SUMMARY",
+          "checked": "21 August 2026"
+        },
+        "summary": {
+          "id": "ARG-SUMMARY",
+          "checked": "21 August 2026"
+        },
+        "launch": {
+          "fastestEntry": {
+            "id": "ARG-LAUNCH-FASTEST-ENTRY",
+            "checked": "21 August 2026"
+          },
+          "beforeDeparture": {
+            "id": "ARG-LAUNCH-BEFORE-DEPARTURE",
+            "checked": "21 August 2026"
+          },
+          "usefulStay": {
+            "id": "ARG-LAUNCH-USEFUL-STAY",
+            "checked": "21 August 2026"
+          },
+          "hostUnlock": {
+            "id": "ARG-LAUNCH-HOST-UNLOCK",
+            "checked": "21 August 2026"
+          },
+          "quickPacket": {
+            "id": "ARG-LAUNCH-QUICK-PACKET",
+            "checked": "21 August 2026"
+          }
+        },
+        "conferenceFit": {
+          "label": {
+            "id": "ARG-LANGUAGE-EVENT-LABEL",
+            "checked": "21 August 2026"
+          },
+          "detail": {
+            "id": "ARG-LANGUAGE-EVENT-DETAIL",
+            "checked": "21 August 2026"
+          },
+          "themes": {
+            "id": "ARG-LANGUAGE-EVENT-THEMES",
+            "checked": "21 August 2026"
+          }
+        },
+        "steps": {
+          "id": "ARG-ROUTE-BUILDER",
+          "checked": "21 August 2026"
+        },
+        "cautions": {
+          "id": "ARG-ROUTE-EDGES",
+          "checked": "21 August 2026"
+        },
+        "pathways": {
+          "tourism": {
+            "status": {
+              "id": "ARG-PATH-TOURISM-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "ARG-PATH-TOURISM-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "ARG-PATH-TOURISM-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "ARG-PATH-TOURISM-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "meetings": {
+            "status": {
+              "id": "ARG-PATH-MEETINGS-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "ARG-PATH-MEETINGS-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "ARG-PATH-MEETINGS-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "ARG-PATH-MEETINGS-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "conference": {
+            "status": {
+              "id": "ARG-PATH-CONFERENCE-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "ARG-PATH-CONFERENCE-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "ARG-PATH-CONFERENCE-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "ARG-PATH-CONFERENCE-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "unpaid-speaking": {
+            "status": {
+              "id": "ARG-PATH-UNPAID-SPEAKING-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "ARG-PATH-UNPAID-SPEAKING-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "ARG-PATH-UNPAID-SPEAKING-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "ARG-PATH-UNPAID-SPEAKING-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "paid-speaking": {
+            "status": {
+              "id": "ARG-PATH-PAID-SPEAKING-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "ARG-PATH-PAID-SPEAKING-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "ARG-PATH-PAID-SPEAKING-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "ARG-PATH-PAID-SPEAKING-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "book-launch": {
+            "status": {
+              "id": "ARG-PATH-BOOK-LAUNCH-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "ARG-PATH-BOOK-LAUNCH-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "ARG-PATH-BOOK-LAUNCH-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "ARG-PATH-BOOK-LAUNCH-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "ai-teaching": {
+            "status": {
+              "id": "ARG-PATH-AI-TEACHING-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "ARG-PATH-AI-TEACHING-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "ARG-PATH-AI-TEACHING-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "ARG-PATH-AI-TEACHING-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "remote-work": {
+            "status": {
+              "id": "ARG-PATH-REMOTE-WORK-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "ARG-PATH-REMOTE-WORK-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "ARG-PATH-REMOTE-WORK-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "ARG-PATH-REMOTE-WORK-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "entrepreneur": {
+            "status": {
+              "id": "ARG-PATH-ENTREPRENEUR-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "ARG-PATH-ENTREPRENEUR-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "ARG-PATH-ENTREPRENEUR-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "ARG-PATH-ENTREPRENEUR-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "trade": {
+            "status": {
+              "id": "ARG-PATH-TRADE-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "ARG-PATH-TRADE-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "ARG-PATH-TRADE-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "ARG-PATH-TRADE-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "artist": {
+            "status": {
+              "id": "ARG-PATH-ARTIST-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "ARG-PATH-ARTIST-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "ARG-PATH-ARTIST-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "ARG-PATH-ARTIST-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "mixed-mission": {
+            "status": {
+              "id": "ARG-PATH-MIXED-MISSION-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "ARG-PATH-MIXED-MISSION-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "ARG-PATH-MIXED-MISSION-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "ARG-PATH-MIXED-MISSION-NEXT",
+              "checked": "21 August 2026"
+            }
+          }
+        }
+      },
+      "pathways": {
+        "tourism": {
+          "status": "low",
+          "route": "Tourist/business entry or TIE 24H",
+          "detail": "Argentina's migration pages describe tourist stays up to three months and the TIE system lists business and other short categories; Australians should confirm current fee/waiver treatment.",
+          "next": "Check the current Migraciones entry regime and any reciprocity charge."
+        },
+        "meetings": {
+          "status": "low",
+          "route": "TIE 24H business or short business entry",
+          "detail": "Argentina has an explicit electronic business category for habitual business/representative activity supported by a registered Argentine requester.",
+          "next": "Ask the host whether Re.N.U.R.E. registration and TIE 24H are needed."
+        },
+        "conference": {
+          "status": "low",
+          "route": "Tourist/business entry for conference attendance",
+          "detail": "Attendance can fit visitor/business purpose; professional delivery and paid tasks are separately named in TIE categories.",
+          "next": "Label attendee, speaker, trainer and exhibitor roles."
+        },
+        "unpaid-speaking": {
+          "status": "conditional",
+          "route": "TIE 24H scientific/professional/technical/artistic category",
+          "detail": "The electronic-entry menu expressly lists remunerated or non-remunerated scientific, professional, technical, religious or artistic tasks.",
+          "next": "Use the exact host, dates and unpaid/expense arrangement in the application."
+        },
+        "paid-speaking": {
+          "status": "conditional",
+          "route": "TIE 24H or temporary residence for local professional work",
+          "detail": "Argentina's migration categories can cover paid professional/technical/artistic tasks, but a proper permission is not the same as tourist entry.",
+          "next": "Have the registered requester choose the short TIE or temporary-residence category."
+        },
+        "book-launch": {
+          "status": "conditional",
+          "route": "Business/cultural TIE split",
+          "detail": "Rights meetings can be business; paid readings, workshops, signings, royalties and local sales should use the professional/artistic and tax framework.",
+          "next": "Separate author activity from merchandise and retail."
+        },
+        "ai-teaching": {
+          "status": "conditional",
+          "route": "Scientific/professional TIE or academic host route",
+          "detail": "Short teaching can be tied to a university or professional invitation; recurring local employment needs residence/work status.",
+          "next": "Ask the institution to state whether the role is academic exchange, paid teaching or service delivery."
+        },
+        "remote-work": {
+          "status": "specialist",
+          "route": "Digital-nomad category listed in TIE 24H system",
+          "detail": "Argentina's electronic-entry menu includes digital nomads; current duration, evidence and whether a visa is needed must be confirmed for the passport and stay.",
+          "next": "Check the current DNM digital-nomad instructions and keep Argentine clients separate."
+        },
+        "entrepreneur": {
+          "status": "specialist",
+          "route": "Temporary residence/business and investment routes",
+          "detail": "Founder and investor activity is a residence/company question; the visitor/business route only supports exploration and meetings.",
+          "next": "Choose the Argentine entity, investment and operating role before setting up locally."
+        },
+        "trade": {
+          "status": "conditional",
+          "route": "Business/TIE route; local import and fulfilment separate",
+          "detail": "Fairs, market studies and negotiations can use business categories; local selling, customs and service delivery add other permissions.",
+          "next": "Map importer, invoice, customs and on-site work."
+        },
+        "artist": {
+          "status": "conditional",
+          "route": "TIE artistic category or cultural host route",
+          "detail": "Argentina expressly lists artistic tasks, including non-remunerated work, in its electronic-entry menu; paid performance still needs exact classification.",
+          "next": "Have the producer state fee, venue, dates and union/rights issues."
+        },
+        "mixed-mission": {
+          "status": "conditional",
+          "route": "Tourist/business entry plus TIE category",
+          "detail": "Argentina's strength is a menu that names several non-linear purposes, but each trip still needs one accurate principal category.",
+          "next": "Build the Spanish schedule and ask the host to choose the TIE/residence path."
+        }
+      }
+    },
+    {
+      "code": "ZAF",
+      "id": "south-africa",
+      "name": "South Africa",
+      "flag": "🇿🇦",
+      "region": "Southern Africa",
+      "entrySnapshot": "Australians generally receive visa-free visitor entry for short tourism/business visits; confirm the current permitted stay and entry conditions.",
+      "ageNote": "Age 43 creates no general visitor barrier; remote-work, critical-skills, work and independent-permit routes are evidence-led.",
+      "cardSummary": "An English-friendly regional hub with strong university, civic, technology and creative circuits and a newly formalised remote-work visitor category.",
+      "summary": "South Africa is a useful English-speaking launch point for Southern Africa, but its visitor, work, remote-work and critical-skills routes must be kept distinct. Short tourism, meetings and conference attendance are the quick key. Paid local speaking, training, performance or employment needs the work/visitor-prescribed-activity framework; the Department of Home Affairs also publishes remote-work visitor requirements that do not permit South African employment.",
+      "launch": {
+        "fastestEntry": "Short visitor entry for Australians, subject to current Home Affairs conditions",
+        "beforeDeparture": "Check DHA nationality/stay guidance, passport validity, return ticket, yellow-fever and any prescribed-activity paperwork.",
+        "usefulStay": "Visitor entry is useful for scouting and attendance; local work and longer remote stays need a permit/category check.",
+        "hostUnlock": "A South African employer, university, promoter or client can support the correct visa or prescribed-activity application.",
+        "quickPacket": [
+          "Australian passport and onward ticket",
+          "Host/event letter",
+          "Role, fee and local-employment statement",
+          "Insurance, accommodation and health documents"
+        ]
+      },
+      "conferenceFit": {
+        "label": "Very strong · English-first regional hub",
+        "detail": "Johannesburg, Cape Town, Durban, Pretoria and Stellenbosch have recurring English-language AI, fintech, civic, university, climate, film, music and startup events, with multilingual community work beyond the conference circuit.",
+        "themes": [
+          "AI",
+          "fintech",
+          "civic technology",
+          "universities",
+          "climate",
+          "film",
+          "music"
+        ]
+      },
+      "visitor": "Visitor visa/visa exemption as currently published",
+      "visitorDetail": "Australian visitors should use the current DHA entry and stay instructions; the exact admission period is set under the immigration rules and border decision.",
+      "visitorNext": "Check DHA immediately before travel and carry evidence of purpose and departure.",
+      "business": "Visitor for meetings and business",
+      "businessDetail": "Meetings and conference/business attendance can fit a visitor purpose when no South African employment or remuneration is undertaken.",
+      "businessNext": "Keep negotiation separate from local delivery and employment.",
+      "conference": "Visitor for conference attendance",
+      "conferenceDetail": "A delegate or visitor is different from paid programme delivery, training or performance.",
+      "conferenceNext": "Ask the organiser whether a prescribed-activity or work route is needed.",
+      "unpaidStatus": "confirm",
+      "unpaid": "Prescribed-activity or host classification",
+      "unpaidDetail": "Unpaid speaking can still be work-like. South African immigration categories turn on the activity, host and duration rather than the fee alone.",
+      "unpaidNext": "Have the host check DHA's prescribed-activity visitor/work requirements.",
+      "work": "General work, critical-skills or prescribed-activity visa",
+      "workDetail": "Paid speaking, consulting, teaching and employment need a South African work authorisation or an applicable prescribed-activity exemption/category.",
+      "workNext": "Ask the engager to identify the exact DHA visa and supporting employer documents.",
+      "book": "Visitor for rights; work/cultural route for paid launch",
+      "bookDetail": "Publisher meetings may be business travel; paid launch delivery, workshops, local retail and performance need the activity route.",
+      "bookNext": "Separate author fee, royalties, expenses and sales.",
+      "teaching": "Academic host or work visa",
+      "teachingDetail": "University exchange and paid professional training need different host evidence and possibly work permission.",
+      "teachingNext": "Have the university/company state the appointment, payment and duration.",
+      "remoteStatus": "specialist",
+      "remote": "Remote-work visitor visa/prescribed activity route",
+      "remoteDetail": "DHA publishes requirements for a remote-work visitor visa and states that its holder is not entitled to take employment in South Africa.",
+      "remoteNext": "Check income, tax-registration and stay conditions and keep South African clients/employment outside the route.",
+      "founder": "Business/investor or critical-skills residence/work route",
+      "founderDetail": "Founder operation and investment are not covered by ordinary visitor entry; business and critical-skills categories require a prepared case.",
+      "founderNext": "Choose investor, business, critical-skills or employer route with DHA/DTIC guidance.",
+      "trade": "Visitor business route; local fulfilment needs work/customs status",
+      "tradeDetail": "Meetings, sourcing and trade fairs can be visitor activity; installation, sales and service delivery may require permission.",
+      "tradeNext": "Map South African importer, customer and on-site work.",
+      "artist": "Cultural/event work or prescribed-activity route",
+      "artistDetail": "Paid performance, filming, exhibition and music work should be checked with the promoter and DHA.",
+      "artistNext": "Have the producer state venue, contract, fee, crew and dates.",
+      "mixed": "Visitor front door plus DHA activation",
+      "mixedDetail": "South Africa can support English-first conferences and a remote base, but local delivery remains a separate immigration key.",
+      "mixedNext": "Break the itinerary into visitor, remote, paid local and cultural activity.",
+      "steps": [
+        "Check DHA visitor and remote-work notices.",
+        "Carry host and onward evidence.",
+        "Separate conference attendance from delivery.",
+        "Use work/critical-skills/prescribed-activity routes for local work.",
+        "Check tax, health and regional travel conditions."
+      ],
+      "cautions": [
+        "What stay period is actually granted?",
+        "Is South African employment or a local client involved?",
+        "Does remote-work registration/tax apply?",
+        "Is the event paid, unpaid or expense-only?",
+        "Will the tour cross neighbouring countries?"
+      ],
+      "sources": [
+        {
+          "title": "Types of visas",
+          "authority": "South African Department of Home Affairs",
+          "url": "https://www.dha.gov.za/index.php/types-of-visas",
+          "supports": "visitor and work visa framework",
+          "checked": "21 August 2026"
+        },
+        {
+          "title": "Remote-work visitor visa requirements",
+          "authority": "South African Department of Home Affairs",
+          "url": "https://www.dha.gov.za/images/notices/8october24/Remote_Work_Visa_-_requirements_-_9_Oct_2024.pdf",
+          "supports": "remote-work conditions and no local employment",
+          "checked": "21 August 2026"
+        },
+        {
+          "title": "Work visas",
+          "authority": "South African Department of Home Affairs",
+          "url": "https://www.dha.gov.za/index.php/immigration-services/work-visas",
+          "supports": "work authorisation categories",
+          "checked": "21 August 2026"
+        },
+        {
+          "title": "Critical skills and immigration review",
+          "authority": "South African Department of Home Affairs",
+          "url": "https://www.dha.gov.za/images/PDFs/Report-of-the-Work-Visa-Review-2023.pdf",
+          "supports": "critical-skills and work-policy context",
+          "checked": "21 August 2026"
+        }
+      ],
+      "reviewed": "21 August 2026",
+      "claimChecks": {
+        "entrySnapshot": {
+          "id": "ZAF-ENTRY-SNAPSHOT",
+          "checked": "21 August 2026"
+        },
+        "ageNote": {
+          "id": "ZAF-AGE-NOTE",
+          "checked": "21 August 2026"
+        },
+        "cardSummary": {
+          "id": "ZAF-CARD-SUMMARY",
+          "checked": "21 August 2026"
+        },
+        "summary": {
+          "id": "ZAF-SUMMARY",
+          "checked": "21 August 2026"
+        },
+        "launch": {
+          "fastestEntry": {
+            "id": "ZAF-LAUNCH-FASTEST-ENTRY",
+            "checked": "21 August 2026"
+          },
+          "beforeDeparture": {
+            "id": "ZAF-LAUNCH-BEFORE-DEPARTURE",
+            "checked": "21 August 2026"
+          },
+          "usefulStay": {
+            "id": "ZAF-LAUNCH-USEFUL-STAY",
+            "checked": "21 August 2026"
+          },
+          "hostUnlock": {
+            "id": "ZAF-LAUNCH-HOST-UNLOCK",
+            "checked": "21 August 2026"
+          },
+          "quickPacket": {
+            "id": "ZAF-LAUNCH-QUICK-PACKET",
+            "checked": "21 August 2026"
+          }
+        },
+        "conferenceFit": {
+          "label": {
+            "id": "ZAF-LANGUAGE-EVENT-LABEL",
+            "checked": "21 August 2026"
+          },
+          "detail": {
+            "id": "ZAF-LANGUAGE-EVENT-DETAIL",
+            "checked": "21 August 2026"
+          },
+          "themes": {
+            "id": "ZAF-LANGUAGE-EVENT-THEMES",
+            "checked": "21 August 2026"
+          }
+        },
+        "steps": {
+          "id": "ZAF-ROUTE-BUILDER",
+          "checked": "21 August 2026"
+        },
+        "cautions": {
+          "id": "ZAF-ROUTE-EDGES",
+          "checked": "21 August 2026"
+        },
+        "pathways": {
+          "tourism": {
+            "status": {
+              "id": "ZAF-PATH-TOURISM-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "ZAF-PATH-TOURISM-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "ZAF-PATH-TOURISM-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "ZAF-PATH-TOURISM-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "meetings": {
+            "status": {
+              "id": "ZAF-PATH-MEETINGS-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "ZAF-PATH-MEETINGS-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "ZAF-PATH-MEETINGS-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "ZAF-PATH-MEETINGS-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "conference": {
+            "status": {
+              "id": "ZAF-PATH-CONFERENCE-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "ZAF-PATH-CONFERENCE-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "ZAF-PATH-CONFERENCE-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "ZAF-PATH-CONFERENCE-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "unpaid-speaking": {
+            "status": {
+              "id": "ZAF-PATH-UNPAID-SPEAKING-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "ZAF-PATH-UNPAID-SPEAKING-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "ZAF-PATH-UNPAID-SPEAKING-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "ZAF-PATH-UNPAID-SPEAKING-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "paid-speaking": {
+            "status": {
+              "id": "ZAF-PATH-PAID-SPEAKING-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "ZAF-PATH-PAID-SPEAKING-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "ZAF-PATH-PAID-SPEAKING-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "ZAF-PATH-PAID-SPEAKING-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "book-launch": {
+            "status": {
+              "id": "ZAF-PATH-BOOK-LAUNCH-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "ZAF-PATH-BOOK-LAUNCH-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "ZAF-PATH-BOOK-LAUNCH-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "ZAF-PATH-BOOK-LAUNCH-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "ai-teaching": {
+            "status": {
+              "id": "ZAF-PATH-AI-TEACHING-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "ZAF-PATH-AI-TEACHING-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "ZAF-PATH-AI-TEACHING-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "ZAF-PATH-AI-TEACHING-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "remote-work": {
+            "status": {
+              "id": "ZAF-PATH-REMOTE-WORK-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "ZAF-PATH-REMOTE-WORK-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "ZAF-PATH-REMOTE-WORK-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "ZAF-PATH-REMOTE-WORK-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "entrepreneur": {
+            "status": {
+              "id": "ZAF-PATH-ENTREPRENEUR-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "ZAF-PATH-ENTREPRENEUR-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "ZAF-PATH-ENTREPRENEUR-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "ZAF-PATH-ENTREPRENEUR-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "trade": {
+            "status": {
+              "id": "ZAF-PATH-TRADE-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "ZAF-PATH-TRADE-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "ZAF-PATH-TRADE-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "ZAF-PATH-TRADE-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "artist": {
+            "status": {
+              "id": "ZAF-PATH-ARTIST-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "ZAF-PATH-ARTIST-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "ZAF-PATH-ARTIST-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "ZAF-PATH-ARTIST-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "mixed-mission": {
+            "status": {
+              "id": "ZAF-PATH-MIXED-MISSION-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "ZAF-PATH-MIXED-MISSION-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "ZAF-PATH-MIXED-MISSION-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "ZAF-PATH-MIXED-MISSION-NEXT",
+              "checked": "21 August 2026"
+            }
+          }
+        }
+      },
+      "pathways": {
+        "tourism": {
+          "status": "low",
+          "route": "Visitor visa/visa exemption as currently published",
+          "detail": "Australian visitors should use the current DHA entry and stay instructions; the exact admission period is set under the immigration rules and border decision.",
+          "next": "Check DHA immediately before travel and carry evidence of purpose and departure."
+        },
+        "meetings": {
+          "status": "low",
+          "route": "Visitor for meetings and business",
+          "detail": "Meetings and conference/business attendance can fit a visitor purpose when no South African employment or remuneration is undertaken.",
+          "next": "Keep negotiation separate from local delivery and employment."
+        },
+        "conference": {
+          "status": "low",
+          "route": "Visitor for conference attendance",
+          "detail": "A delegate or visitor is different from paid programme delivery, training or performance.",
+          "next": "Ask the organiser whether a prescribed-activity or work route is needed."
+        },
+        "unpaid-speaking": {
+          "status": "confirm",
+          "route": "Prescribed-activity or host classification",
+          "detail": "Unpaid speaking can still be work-like. South African immigration categories turn on the activity, host and duration rather than the fee alone.",
+          "next": "Have the host check DHA's prescribed-activity visitor/work requirements."
+        },
+        "paid-speaking": {
+          "status": "conditional",
+          "route": "General work, critical-skills or prescribed-activity visa",
+          "detail": "Paid speaking, consulting, teaching and employment need a South African work authorisation or an applicable prescribed-activity exemption/category.",
+          "next": "Ask the engager to identify the exact DHA visa and supporting employer documents."
+        },
+        "book-launch": {
+          "status": "conditional",
+          "route": "Visitor for rights; work/cultural route for paid launch",
+          "detail": "Publisher meetings may be business travel; paid launch delivery, workshops, local retail and performance need the activity route.",
+          "next": "Separate author fee, royalties, expenses and sales."
+        },
+        "ai-teaching": {
+          "status": "conditional",
+          "route": "Academic host or work visa",
+          "detail": "University exchange and paid professional training need different host evidence and possibly work permission.",
+          "next": "Have the university/company state the appointment, payment and duration."
+        },
+        "remote-work": {
+          "status": "specialist",
+          "route": "Remote-work visitor visa/prescribed activity route",
+          "detail": "DHA publishes requirements for a remote-work visitor visa and states that its holder is not entitled to take employment in South Africa.",
+          "next": "Check income, tax-registration and stay conditions and keep South African clients/employment outside the route."
+        },
+        "entrepreneur": {
+          "status": "specialist",
+          "route": "Business/investor or critical-skills residence/work route",
+          "detail": "Founder operation and investment are not covered by ordinary visitor entry; business and critical-skills categories require a prepared case.",
+          "next": "Choose investor, business, critical-skills or employer route with DHA/DTIC guidance."
+        },
+        "trade": {
+          "status": "conditional",
+          "route": "Visitor business route; local fulfilment needs work/customs status",
+          "detail": "Meetings, sourcing and trade fairs can be visitor activity; installation, sales and service delivery may require permission.",
+          "next": "Map South African importer, customer and on-site work."
+        },
+        "artist": {
+          "status": "conditional",
+          "route": "Cultural/event work or prescribed-activity route",
+          "detail": "Paid performance, filming, exhibition and music work should be checked with the promoter and DHA.",
+          "next": "Have the producer state venue, contract, fee, crew and dates."
+        },
+        "mixed-mission": {
+          "status": "conditional",
+          "route": "Visitor front door plus DHA activation",
+          "detail": "South Africa can support English-first conferences and a remote base, but local delivery remains a separate immigration key.",
+          "next": "Break the itinerary into visitor, remote, paid local and cultural activity."
+        }
+      }
+    },
+    {
+      "code": "TUR",
+      "id": "turkiye",
+      "name": "Türkiye",
+      "flag": "🇹🇷",
+      "region": "West Asia / Europe",
+      "entrySnapshot": "Australian ordinary passports are visa-exempt for touristic visits and transit up to 90 days in any 180-day period; business/work purpose must be checked separately.",
+      "ageNote": "Age 43 has no general visitor restriction; work, residence, entrepreneur and artist permissions depend on Turkish host and activity.",
+      "cardSummary": "A huge bridge country with visa-free tourism/transit, strong Istanbul conference and creative scenes, and clear host-led work/residence activation.",
+      "summary": "Türkiye belongs on the board even when the first purpose is not a conference. Australians have a published visa exemption for touristic visits and transit, while business meetings, speaking, teaching, performance and local service delivery need the Turkish mission/host to classify the activity. Istanbul, Ankara, Izmir and regional cities offer Turkish/English/Arabic/Russian intersections; a local host turns a vague invitation into a workable route.",
+      "launch": {
+        "fastestEntry": "Visa-free touristic/transit entry up to 90 days in any 180-day period",
+        "beforeDeparture": "Check the Turkish MFA exemption, passport validity, e-visa site and whether the trip is tourism or business/work.",
+        "usefulStay": "Tourist/transit entry is the quick key; local work or a longer base uses work/residence permits.",
+        "hostUnlock": "A Turkish employer, university, promoter or company can support work permission and residence applications.",
+        "quickPacket": [
+          "Australian passport and onward plan",
+          "Turkish/English host letter",
+          "Role, venue, fee and payment explanation",
+          "Accommodation, funds and insurance"
+        ]
+      },
+      "conferenceFit": {
+        "label": "Strong · Turkish with international English rooms",
+        "detail": "Istanbul, Ankara, Izmir, Antalya and university hubs host recurring Turkish/English AI, technology, defence, trade, design, film, music and startup events.",
+        "themes": [
+          "AI",
+          "technology",
+          "trade",
+          "design",
+          "film",
+          "music",
+          "startups"
+        ]
+      },
+      "visitor": "Visa-free touristic/transit entry",
+      "visitorDetail": "The Turkish MFA lists Australian ordinary passports as visa-exempt for touristic visits and transit up to 90 days in any 180-day period.",
+      "visitorNext": "Do not assume the tourism exemption covers local work or paid speaking.",
+      "business": "Business purpose to be confirmed with the Turkish mission",
+      "businessDetail": "The published Australian exemption is worded for touristic visits and transit; meetings, negotiations and trade activities need a purpose-specific check.",
+      "businessNext": "Ask the host/mission whether the planned meetings fit visa-free entry or require a visa.",
+      "conference": "Conference attendance classification",
+      "conferenceDetail": "An attendee may be a visitor; exhibitor, speaker, trainer or contractor may need a separate route.",
+      "conferenceNext": "Get an invitation that names the exact programme role.",
+      "unpaidStatus": "confirm",
+      "unpaid": "Host/consular classification",
+      "unpaidDetail": "Unpaid lectures, panels and cultural exchange are not automatically covered by tourism entry; duties and host matter.",
+      "unpaidNext": "Send the full invitation and no-fee/expense arrangement to the Turkish mission.",
+      "work": "Turkish work permit and work visa",
+      "workDetail": "Paid speaking, consulting, teaching and employment generally need a work permit coordinated with a Turkish employer or host.",
+      "workNext": "Have the employer/promoter begin the work-permit process before travel.",
+      "book": "Visitor for rights; work/cultural route for launch delivery",
+      "bookDetail": "Rights meetings may be business-related, while paid readings, signings, workshops, local sales and merchandise need accurate Turkish treatment.",
+      "bookNext": "Separate author appearance, rights, royalties and retail.",
+      "teaching": "University/research invitation or work permit",
+      "teachingDetail": "Academic exchange and commercial AI teaching have different host and work requirements.",
+      "teachingNext": "Ask the institution to state appointment, pay and duration.",
+      "remoteStatus": "confirm",
+      "remote": "No broad dedicated Turkish digital-nomad visa located",
+      "remoteDetail": "Türkiye provides residence permits but no simple all-purpose remote-worker route in the official sources used here; foreign work, tax and local clients need confirmation.",
+      "remoteNext": "Confirm the residence basis and avoid local Turkish work on visitor entry.",
+      "founder": "Company/investment residence plus work permit",
+      "founderDetail": "Forming or investing in a Turkish company does not by itself authorise personal work; operating status and permits are separate.",
+      "founderNext": "Choose investor, company and work roles with Invest in Türkiye and the migration authority.",
+      "trade": "Purpose-specific business/visa check",
+      "tradeDetail": "Trade fairs, negotiations and sourcing may fit a business route, but the touristic exemption wording should not be stretched to active trade delivery.",
+      "tradeNext": "Ask the Turkish host to confirm business entry and customs/sales obligations.",
+      "artist": "Cultural work permit or host-led event route",
+      "artistDetail": "Performance, filming, exhibition and music work need promoter and work-permit classification.",
+      "artistNext": "State venue, producer, fee, royalties, crew and dates.",
+      "mixed": "Touristic entry plus purpose-specific activation",
+      "mixedDetail": "Türkiye is a fast exploratory arrival, while speaking, teaching, trade and performance are host-led activation questions.",
+      "mixedNext": "Split tourism, meetings, remote work and local delivery before booking.",
+      "steps": [
+        "Check the MFA exemption wording.",
+        "Ask the host about business/work entry.",
+        "Prepare Turkish/English invitation and payment details.",
+        "Use work/residence permits for active local delivery.",
+        "Check tax, customs and regional travel conditions."
+      ],
+      "cautions": [
+        "Is the purpose genuinely touristic/transit?",
+        "Are meetings or trade covered by the exemption?",
+        "Who pays the speaker or performer?",
+        "Will a Turkish employer/client be involved?",
+        "Does the route need Turkish translations or apostilles?"
+      ],
+      "sources": [
+        {
+          "title": "Visa information for foreigners",
+          "authority": "Republic of Türkiye Ministry of Foreign Affairs",
+          "url": "https://www.mfa.gov.tr/visa-information-for-foreigners.en.mfa",
+          "supports": "Australian tourism/transit exemption",
+          "checked": "21 August 2026"
+        },
+        {
+          "title": "e-Visa portal",
+          "authority": "Republic of Türkiye",
+          "url": "https://www.evisa.gov.tr/en/",
+          "supports": "official visa application gateway",
+          "checked": "21 August 2026"
+        },
+        {
+          "title": "Directorate General of International Labour Force",
+          "authority": "Turkish Ministry of Labour and Social Security",
+          "url": "https://www.csgb.gov.tr/uigm/en/",
+          "supports": "work permit framework",
+          "checked": "21 August 2026"
+        },
+        {
+          "title": "Residence permit types",
+          "authority": "Presidency of Migration Management",
+          "url": "https://en.goc.gov.tr/residence-permit-types",
+          "supports": "residence categories",
+          "checked": "21 August 2026"
+        }
+      ],
+      "reviewed": "21 August 2026",
+      "claimChecks": {
+        "entrySnapshot": {
+          "id": "TUR-ENTRY-SNAPSHOT",
+          "checked": "21 August 2026"
+        },
+        "ageNote": {
+          "id": "TUR-AGE-NOTE",
+          "checked": "21 August 2026"
+        },
+        "cardSummary": {
+          "id": "TUR-CARD-SUMMARY",
+          "checked": "21 August 2026"
+        },
+        "summary": {
+          "id": "TUR-SUMMARY",
+          "checked": "21 August 2026"
+        },
+        "launch": {
+          "fastestEntry": {
+            "id": "TUR-LAUNCH-FASTEST-ENTRY",
+            "checked": "21 August 2026"
+          },
+          "beforeDeparture": {
+            "id": "TUR-LAUNCH-BEFORE-DEPARTURE",
+            "checked": "21 August 2026"
+          },
+          "usefulStay": {
+            "id": "TUR-LAUNCH-USEFUL-STAY",
+            "checked": "21 August 2026"
+          },
+          "hostUnlock": {
+            "id": "TUR-LAUNCH-HOST-UNLOCK",
+            "checked": "21 August 2026"
+          },
+          "quickPacket": {
+            "id": "TUR-LAUNCH-QUICK-PACKET",
+            "checked": "21 August 2026"
+          }
+        },
+        "conferenceFit": {
+          "label": {
+            "id": "TUR-LANGUAGE-EVENT-LABEL",
+            "checked": "21 August 2026"
+          },
+          "detail": {
+            "id": "TUR-LANGUAGE-EVENT-DETAIL",
+            "checked": "21 August 2026"
+          },
+          "themes": {
+            "id": "TUR-LANGUAGE-EVENT-THEMES",
+            "checked": "21 August 2026"
+          }
+        },
+        "steps": {
+          "id": "TUR-ROUTE-BUILDER",
+          "checked": "21 August 2026"
+        },
+        "cautions": {
+          "id": "TUR-ROUTE-EDGES",
+          "checked": "21 August 2026"
+        },
+        "pathways": {
+          "tourism": {
+            "status": {
+              "id": "TUR-PATH-TOURISM-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "TUR-PATH-TOURISM-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "TUR-PATH-TOURISM-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "TUR-PATH-TOURISM-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "meetings": {
+            "status": {
+              "id": "TUR-PATH-MEETINGS-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "TUR-PATH-MEETINGS-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "TUR-PATH-MEETINGS-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "TUR-PATH-MEETINGS-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "conference": {
+            "status": {
+              "id": "TUR-PATH-CONFERENCE-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "TUR-PATH-CONFERENCE-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "TUR-PATH-CONFERENCE-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "TUR-PATH-CONFERENCE-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "unpaid-speaking": {
+            "status": {
+              "id": "TUR-PATH-UNPAID-SPEAKING-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "TUR-PATH-UNPAID-SPEAKING-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "TUR-PATH-UNPAID-SPEAKING-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "TUR-PATH-UNPAID-SPEAKING-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "paid-speaking": {
+            "status": {
+              "id": "TUR-PATH-PAID-SPEAKING-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "TUR-PATH-PAID-SPEAKING-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "TUR-PATH-PAID-SPEAKING-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "TUR-PATH-PAID-SPEAKING-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "book-launch": {
+            "status": {
+              "id": "TUR-PATH-BOOK-LAUNCH-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "TUR-PATH-BOOK-LAUNCH-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "TUR-PATH-BOOK-LAUNCH-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "TUR-PATH-BOOK-LAUNCH-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "ai-teaching": {
+            "status": {
+              "id": "TUR-PATH-AI-TEACHING-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "TUR-PATH-AI-TEACHING-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "TUR-PATH-AI-TEACHING-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "TUR-PATH-AI-TEACHING-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "remote-work": {
+            "status": {
+              "id": "TUR-PATH-REMOTE-WORK-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "TUR-PATH-REMOTE-WORK-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "TUR-PATH-REMOTE-WORK-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "TUR-PATH-REMOTE-WORK-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "entrepreneur": {
+            "status": {
+              "id": "TUR-PATH-ENTREPRENEUR-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "TUR-PATH-ENTREPRENEUR-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "TUR-PATH-ENTREPRENEUR-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "TUR-PATH-ENTREPRENEUR-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "trade": {
+            "status": {
+              "id": "TUR-PATH-TRADE-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "TUR-PATH-TRADE-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "TUR-PATH-TRADE-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "TUR-PATH-TRADE-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "artist": {
+            "status": {
+              "id": "TUR-PATH-ARTIST-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "TUR-PATH-ARTIST-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "TUR-PATH-ARTIST-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "TUR-PATH-ARTIST-NEXT",
+              "checked": "21 August 2026"
+            }
+          },
+          "mixed-mission": {
+            "status": {
+              "id": "TUR-PATH-MIXED-MISSION-STATUS",
+              "checked": "21 August 2026"
+            },
+            "route": {
+              "id": "TUR-PATH-MIXED-MISSION-ROUTE",
+              "checked": "21 August 2026"
+            },
+            "detail": {
+              "id": "TUR-PATH-MIXED-MISSION-DETAIL",
+              "checked": "21 August 2026"
+            },
+            "next": {
+              "id": "TUR-PATH-MIXED-MISSION-NEXT",
+              "checked": "21 August 2026"
+            }
+          }
+        }
+      },
+      "pathways": {
+        "tourism": {
+          "status": "low",
+          "route": "Visa-free touristic/transit entry",
+          "detail": "The Turkish MFA lists Australian ordinary passports as visa-exempt for touristic visits and transit up to 90 days in any 180-day period.",
+          "next": "Do not assume the tourism exemption covers local work or paid speaking."
+        },
+        "meetings": {
+          "status": "low",
+          "route": "Business purpose to be confirmed with the Turkish mission",
+          "detail": "The published Australian exemption is worded for touristic visits and transit; meetings, negotiations and trade activities need a purpose-specific check.",
+          "next": "Ask the host/mission whether the planned meetings fit visa-free entry or require a visa."
+        },
+        "conference": {
+          "status": "low",
+          "route": "Conference attendance classification",
+          "detail": "An attendee may be a visitor; exhibitor, speaker, trainer or contractor may need a separate route.",
+          "next": "Get an invitation that names the exact programme role."
+        },
+        "unpaid-speaking": {
+          "status": "confirm",
+          "route": "Host/consular classification",
+          "detail": "Unpaid lectures, panels and cultural exchange are not automatically covered by tourism entry; duties and host matter.",
+          "next": "Send the full invitation and no-fee/expense arrangement to the Turkish mission."
+        },
+        "paid-speaking": {
+          "status": "conditional",
+          "route": "Turkish work permit and work visa",
+          "detail": "Paid speaking, consulting, teaching and employment generally need a work permit coordinated with a Turkish employer or host.",
+          "next": "Have the employer/promoter begin the work-permit process before travel."
+        },
+        "book-launch": {
+          "status": "conditional",
+          "route": "Visitor for rights; work/cultural route for launch delivery",
+          "detail": "Rights meetings may be business-related, while paid readings, signings, workshops, local sales and merchandise need accurate Turkish treatment.",
+          "next": "Separate author appearance, rights, royalties and retail."
+        },
+        "ai-teaching": {
+          "status": "conditional",
+          "route": "University/research invitation or work permit",
+          "detail": "Academic exchange and commercial AI teaching have different host and work requirements.",
+          "next": "Ask the institution to state appointment, pay and duration."
+        },
+        "remote-work": {
+          "status": "confirm",
+          "route": "No broad dedicated Turkish digital-nomad visa located",
+          "detail": "Türkiye provides residence permits but no simple all-purpose remote-worker route in the official sources used here; foreign work, tax and local clients need confirmation.",
+          "next": "Confirm the residence basis and avoid local Turkish work on visitor entry."
+        },
+        "entrepreneur": {
+          "status": "specialist",
+          "route": "Company/investment residence plus work permit",
+          "detail": "Forming or investing in a Turkish company does not by itself authorise personal work; operating status and permits are separate.",
+          "next": "Choose investor, company and work roles with Invest in Türkiye and the migration authority."
+        },
+        "trade": {
+          "status": "conditional",
+          "route": "Purpose-specific business/visa check",
+          "detail": "Trade fairs, negotiations and sourcing may fit a business route, but the touristic exemption wording should not be stretched to active trade delivery.",
+          "next": "Ask the Turkish host to confirm business entry and customs/sales obligations."
+        },
+        "artist": {
+          "status": "conditional",
+          "route": "Cultural work permit or host-led event route",
+          "detail": "Performance, filming, exhibition and music work need promoter and work-permit classification.",
+          "next": "State venue, producer, fee, royalties, crew and dates."
+        },
+        "mixed-mission": {
+          "status": "conditional",
+          "route": "Touristic entry plus purpose-specific activation",
+          "detail": "Türkiye is a fast exploratory arrival, while speaking, teaching, trade and performance are host-led activation questions.",
+          "next": "Split tourism, meetings, remote work and local delivery before booking."
+        }
+      }
     }
   ]
 };

@@ -338,6 +338,7 @@ tbody tr:last-child td { border-bottom: 0; }
 .page-hero.hero-world { background-image: linear-gradient(90deg, rgba(3,35,34,0.94), rgba(3,35,34,0.28)), url("images/hero-world-joy.webp"); }
 .page-hero.hero-ready { background-image: linear-gradient(90deg, rgba(3,35,34,0.95), rgba(3,35,34,0.2)), url("images/hero-ready-anywhere.webp"); background-position: center; }
 .page-hero.hero-exchange { background-image: linear-gradient(90deg, rgba(3,35,34,0.94), rgba(3,35,34,0.25)), url("images/hero-cultural-exchange.webp"); }
+.page-hero.hero-guides { background-image: linear-gradient(90deg, rgba(3,35,34,0.95), rgba(3,35,34,0.2)), url("images/hero-guides-world.png"); background-position: center; }
 .page-hero .eyebrow { color: #ffd77e; }
 .page-hero .hero-copy { width: min(calc(100% - 2rem), var(--max)); }
 .page-hero h1 { max-width: 900px; font-size: clamp(2.6rem, 6vw, 5rem); }
