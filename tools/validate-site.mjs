@@ -68,27 +68,53 @@ if (!Array.isArray(world) || world.length !== 201) fail(`assets/world-baseline.j
 
 const requiredCountries = [
   "thailand", "vietnam", "china", "philippines", "india", "new-zealand",
-  "singapore", "united-states", "canada", "united-kingdom", "ireland"
+  "singapore", "united-states", "canada", "united-kingdom", "ireland",
+  "germany", "italy", "spain", "uruguay", "japan", "south-korea",
+  "malaysia", "indonesia", "united-arab-emirates", "saudi-arabia",
+  "qatar", "kenya", "palau"
 ];
+const currentBatchCountries = new Set([
+  "germany", "italy", "spain", "uruguay", "japan", "south-korea",
+  "malaysia", "indonesia", "united-arab-emirates", "saudi-arabia",
+  "qatar", "kenya", "palau"
+]);
+if (atlas.countries.length !== requiredCountries.length) fail(`assets/data.js: expected ${requiredCountries.length} deep countries, found ${atlas.countries.length}`);
+const countryIds = atlas.countries.map((country) => country.id);
+if (new Set(countryIds).size !== countryIds.length) fail("assets/data.js: duplicate country id");
 for (const id of requiredCountries) {
   if (!atlas.countries.find((item) => item.id === id)) fail(`assets/data.js: missing ${id}`);
 }
 for (const country of atlas.countries) {
   const id = country.id;
   if (!id) { fail("assets/data.js: country id missing"); continue; }
+  if (!country.name || !country.flag || !country.region) fail(`${id}: incomplete country identity`);
   if (!validCheckedDate(country.reviewed)) fail(`${id}: invalid country review date`);
+  if (currentBatchCountries.has(id) && country.reviewed !== "21 August 2026") fail(`${id}: current batch must be reviewed 21 August 2026`);
   for (const key of ["entrySnapshot", "ageNote", "cardSummary", "summary", "steps", "cautions"]) {
     validateClaim(country.claimChecks?.[key], `${id}.${key}`);
   }
+  for (const key of ["entrySnapshot", "ageNote", "cardSummary", "summary"]) {
+    if (!country[key] || typeof country[key] !== "string") fail(`${id}: missing ${key}`);
+  }
+  if (!Array.isArray(country.steps) || !country.steps.length) fail(`${id}: missing route-builder steps`);
+  if (!Array.isArray(country.cautions) || !country.cautions.length) fail(`${id}: missing route-edge cautions`);
   for (const key of ["fastestEntry", "beforeDeparture", "usefulStay", "hostUnlock", "quickPacket"]) {
     validateClaim(country.claimChecks?.launch?.[key], `${id}.launch.${key}`);
   }
+  for (const key of ["fastestEntry", "beforeDeparture", "usefulStay", "hostUnlock"]) {
+    if (!country.launch?.[key] || typeof country.launch[key] !== "string") fail(`${id}: missing launch.${key}`);
+  }
+  if (!Array.isArray(country.launch?.quickPacket) || !country.launch.quickPacket.length) fail(`${id}: missing launch.quickPacket`);
   for (const key of ["label", "detail", "themes"]) {
     validateClaim(country.claimChecks?.conferenceFit?.[key], `${id}.conferenceFit.${key}`);
   }
+  if (!country.conferenceFit?.label || !country.conferenceFit?.detail || !Array.isArray(country.conferenceFit?.themes) || !country.conferenceFit.themes.length) fail(`${id}: incomplete language/event signal`);
   for (const activity of atlas.activities) {
     if (!country.pathways[activity.id]) fail(`${id}: missing pathway ${activity.id}`);
     if (!allowedPathwayStatuses.has(country.pathways[activity.id]?.status)) fail(`${id}: invalid pathway status for ${activity.id}`);
+    for (const key of ["route", "detail", "next"]) {
+      if (!country.pathways[activity.id]?.[key] || typeof country.pathways[activity.id][key] !== "string") fail(`${id}: missing ${activity.id}.${key}`);
+    }
     for (const key of ["status", "route", "detail", "next"]) {
       validateClaim(country.claimChecks?.pathways?.[activity.id]?.[key], `${id}.pathways.${activity.id}.${key}`);
     }
@@ -96,7 +122,8 @@ for (const country of atlas.countries) {
   if (!country.sources?.length) fail(`${id}: no sources`);
   for (const source of country.sources || []) {
     if (!/^https:\/\//.test(source.url)) fail(`${id}: non-HTTPS source ${source.url}`);
-    if (!source.supports || !validCheckedDate(source.checked)) fail(`${id}: incomplete source metadata for ${source.title}`);
+    if (!source.title || !source.authority || !source.supports || !validCheckedDate(source.checked)) fail(`${id}: incomplete source metadata for ${source.title || "untitled source"}`);
+    if (currentBatchCountries.has(id) && source.checked !== "21 August 2026") fail(`${id}: current-batch source is not checked 21 August 2026 for ${source.title || "untitled source"}`);
   }
   for (const opportunity of country.opportunities || []) {
     validateClaim(opportunity, `${id}.opportunities.${opportunity.id || "missing-id"}`);

@@ -2,7 +2,7 @@
 
 A source-led guide for Australian passport holders comparing permission pathways for tourism, business meetings, speaking, book launches, teaching, remote work, entrepreneurship, trade and creative work.
 
-The atlas now has deep activity reviews for Thailand, Vietnam, China, the Philippines, India, New Zealand, Singapore, the United States, Canada, the United Kingdom and Ireland. It also imports the earlier all-country business-entry table as a visibly dated world baseline, so no destination disappears while its deeper activity review is queued. It builds on [Australian World Travel](https://auraofintelligence.github.io/Australian-world-travel/) by asking a more useful question:
+The atlas now has 24 dated country guides and 288 activity pathways, while retaining a 201-place world baseline so no destination disappears before its deeper activity review. The 21 August 2026 batch added Germany, Italy, Spain, Uruguay, Japan, South Korea, Malaysia, Indonesia, the United Arab Emirates, Saudi Arabia, Qatar, Kenya and Palau. It builds on [Australian World Travel](https://auraofintelligence.github.io/Australian-world-travel/) by asking a more useful question:
 
 > Can I legally do the activity I am travelling to do?
 
@@ -32,6 +32,13 @@ Only checklist status is stored in the visitor's browser. The public repo does n
 - [Australian World Travel](https://auraofintelligence.github.io/Australian-world-travel/) — earlier entry, mission and logistics tools.
 - [Strange But True Travel Oracle](https://auraofintelligence.github.io/strange-but-true-travel-oracle/) — non-linear serendipity and navigation.
 - [Global Founder Atlas](https://auraofintelligence.github.io/global-founder-atlas/) — founder, funding, research and relocation opportunities.
+
+## Event discovery feeds
+
+- [GAJRA Earth · Ahead](https://auraofintelligence.github.io/gajra-earth-claude-build/ahead.html) — AI governance, public consultation, data-centre and international-policy rooms.
+- [Desire Atlas · Gatherings](https://auraofintelligence.github.io/strange-but-true-desire-atlas/gatherings.html) — romance, romantasy, speculative-fiction, book-fair and rights-event leads for the fictional catalogue.
+
+These are optional lead generators, not immigration authorities, and nothing is imported automatically. Events may remain a removable secondary layer. English access is recorded only as a batching clue; every country and every relevant purpose remain in scope.
 
 ## Local preview
 

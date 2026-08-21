@@ -25,7 +25,7 @@
   if (meta) {
     meta.innerHTML = `
       <div class="meta-item" ${claimAttributes(country, "entrySnapshot")}><span>Australian entry snapshot</span>${escapeHtml(country.entrySnapshot)}${claimMeta(country, "entrySnapshot", "Entry")}</div>
-      <div class="meta-item" ${claimAttributes(country, "conferenceFit.label")}><span>English conference fit</span>${escapeHtml(country.conferenceFit.label)}${claimMeta(country, "conferenceFit.label", "Conference fit")}</div>
+      <div class="meta-item" ${claimAttributes(country, "conferenceFit.label")}><span>Language and event signal</span>${escapeHtml(country.conferenceFit.label)}${claimMeta(country, "conferenceFit.label", "Language/event signal")}</div>
       <div class="meta-item" ${claimAttributes(country, "ageNote")}><span>Age 43</span>${escapeHtml(country.ageNote)}${claimMeta(country, "ageNote", "Age check")}</div>
       <div class="meta-item"><span>Evidence reviewed</span>${escapeHtml(country.reviewed)}</div>`;
   }
@@ -34,10 +34,10 @@
   if (opportunity) {
     opportunity.innerHTML = `
       <p class="eyebrow">Opportunity layer</p>
-      <h2>English-language conference fit: ${escapeHtml(country.conferenceFit.label)}</h2>
-      <p ${claimAttributes(country, "conferenceFit.detail")}>${escapeHtml(country.conferenceFit.detail)}${claimMeta(country, "conferenceFit.detail", "Opportunity")}</p>
+      <h2>Language and event signal: ${escapeHtml(country.conferenceFit.label)}</h2>
+      <p ${claimAttributes(country, "conferenceFit.detail")}>${escapeHtml(country.conferenceFit.detail)}${claimMeta(country, "conferenceFit.detail", "Signal detail")}</p>
       <p ${claimAttributes(country, "conferenceFit.themes")}><strong>Useful themes:</strong> ${escapeHtml(country.conferenceFit.themes.join(", "))}.${claimMeta(country, "conferenceFit.themes", "Themes")}</p>
-      <p class="notice notice-info"><strong>Separate question:</strong> A conference being conducted in English does not decide what visa or work permission a speaker needs.</p>`;
+      <p class="notice notice-info"><strong>Batching clue only:</strong> This signal can help choose what to research next. It does not rank countries, exclude local-language rooms or decide the purpose of a trip.</p>`;
   }
 
   const opportunitySection = document.querySelector("[data-country-opportunities-section]");

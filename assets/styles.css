@@ -254,6 +254,9 @@ p { margin-top: 0; }
 .country-card:hover::after { border-color: #bdcfca; }
 
 .tag-row { display: flex; flex-wrap: wrap; gap: 0.4rem; margin: 0.85rem 0; }
+.event-signal { display: grid; gap: 0.12rem; min-width: 0; margin: 0.85rem 0; padding: 0.55rem 0.65rem; color: var(--teal-deep); background: var(--teal-soft); border-radius: 10px; font-size: 0.82rem; line-height: 1.35; }
+.event-signal strong { font-size: 0.72rem; letter-spacing: 0.05em; text-transform: uppercase; }
+.event-signal span { overflow-wrap: anywhere; }
 .tag, .chip, .signal {
   display: inline-flex;
   align-items: center;
@@ -472,8 +475,8 @@ tbody tr:last-child td { border-bottom: 0; }
 
 @media (max-width: 760px) {
   .hero-grid, .country-hero-grid, .two-column, .footer-grid { grid-template-columns: 1fr; }
-  .country-grid, .card-grid, .activity-list, .prep-grid, .link-grid { grid-template-columns: 1fr; }
-  .country-card { min-height: auto; }
+  .country-grid, .card-grid, .activity-list, .prep-grid, .link-grid { grid-template-columns: minmax(0, 1fr); }
+  .country-card { min-width: 0; min-height: auto; }
   .gate-card { transform: none; }
   .sticky-aside { position: static; }
   .section-heading { align-items: start; flex-direction: column; }
@@ -502,6 +505,7 @@ tbody tr:last-child td { border-bottom: 0; }
 @media (max-width: 540px) {
   .filter-panel { grid-template-columns: 1fr; }
   .brand span:last-child { max-width: 175px; line-height: 1.08; }
+  .chip { max-width: 100%; white-space: normal; }
   h1 { overflow-wrap: normal; word-break: normal; }
   .nav-shell { gap: 0.7rem; }
   .brand-mark { width: 38px; height: 38px; }

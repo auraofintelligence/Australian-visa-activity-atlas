@@ -65,10 +65,11 @@
         <article class="country-card" ${claimAttributes(country, "cardSummary")}>
           <p class="eyebrow">${escapeHtml(country.region)}</p>
           <h3>${escapeHtml(country.name)}</h3>
-          <div class="tag-row">
-            <span class="chip" ${claimAttributes(country, "conferenceFit.label")}>English events · ${escapeHtml(country.conferenceFit.label)}</span>
+          <div class="event-signal" ${claimAttributes(country, "conferenceFit.label")}>
+            <strong>Language and events</strong>
+            <span>${escapeHtml(country.conferenceFit.label)}</span>
           </div>
-          ${claimMeta(country, "conferenceFit.label", "English-event signal")}
+          ${claimMeta(country, "conferenceFit.label", "Language/event signal")}
           <p class="entry-line" ${claimAttributes(country, "entrySnapshot")}><strong>Entry snapshot</strong>${escapeHtml(country.entrySnapshot)}${claimMeta(country, "entrySnapshot", "Entry")}</p>
           <p>${escapeHtml(country.cardSummary)}${claimMeta(country, "cardSummary", "Summary")}</p>
           <a class="button button-small" href="countries/${encodeURIComponent(country.id)}.html">Explore ${escapeHtml(country.name)}</a>
@@ -170,7 +171,7 @@
         return `
           <tr ${claimAttributes(item.country, `pathways.${item.activity.id}.route`)}>
             <th scope="row" class="country-cell" data-label="Country"><strong>${escapeHtml(item.country.name)}</strong><a href="countries/${encodeURIComponent(item.country.id)}.html">Country guide</a></th>
-            <td data-label="Activity"><strong>${escapeHtml(item.activity.icon)} ${escapeHtml(item.activity.name)}</strong><span class="source-meta">English conference fit: ${escapeHtml(item.country.conferenceFit.label)}</span>${claimMeta(item.country, "conferenceFit.label", "Conference fit")}</td>
+            <td data-label="Activity"><strong>${escapeHtml(item.activity.icon)} ${escapeHtml(item.activity.name)}</strong><span class="source-meta">Language/event signal: ${escapeHtml(item.country.conferenceFit.label)}</span>${claimMeta(item.country, "conferenceFit.label", "Language/event signal")}</td>
             <td data-label="Signal">${signal(item.route.status)}${claimMeta(item.country, `pathways.${item.activity.id}.status`, "Signal")}</td>
             <td data-label="Route and boundary" class="table-note"><strong ${claimAttributes(item.country, `pathways.${item.activity.id}.route`)}>${escapeHtml(item.route.route)}</strong>${claimMeta(item.country, `pathways.${item.activity.id}.route`, "Route")}<span ${claimAttributes(item.country, `pathways.${item.activity.id}.detail`)}>${escapeHtml(item.route.detail)}</span>${claimMeta(item.country, `pathways.${item.activity.id}.detail`, "Boundary")}</td>
             <td data-label="Next check" class="table-note" ${claimAttributes(item.country, `pathways.${item.activity.id}.next`)}>${escapeHtml(item.route.next)}${claimMeta(item.country, `pathways.${item.activity.id}.next`, "Next check")}</td>
