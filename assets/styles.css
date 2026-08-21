@@ -93,16 +93,12 @@ button, input, select { font: inherit; }
 }
 
 .brand-mark {
-  display: grid;
-  width: 42px;
-  height: 42px;
-  place-items: center;
-  color: var(--teal-deep);
-  background: var(--gold-soft);
-  border: 1px solid #efcc73;
+  display: block;
+  width: 50px;
+  height: 50px;
+  flex: 0 0 auto;
   border-radius: 14px;
-  font-size: 1.25rem;
-  transform: rotate(-3deg);
+  object-fit: cover;
 }
 
 .nav-links { display: flex; align-items: center; gap: 0.25rem; }
