@@ -53,6 +53,33 @@ Open `index.html` in a browser. For the most accurate local preview, serve the f
 - Proposed pathways, official facts and unresolved questions remain visibly separate.
 - This is a research and planning aid, not legal advice or a visa approval service.
 
+<!-- github-organisation:start -->
+
+## Project links and history
+
+- First substantive build: 21 August 2026.
+- GitHub repository: [Australian-visa-activity-atlas](https://github.com/auraofintelligence/Australian-visa-activity-atlas).
+- Public site: [visit the public site](https://auraofintelligence.github.io/Australian-visa-activity-atlas/).
+
+## Related public projects
+
+Each link below reflects an evidenced family, lineage or direct connection. This project has 7 relevant public connections.
+
+### Australian travel, opportunity and story atlases
+
+- [australian-sire-story-forge](https://github.com/auraofintelligence/australian-sire-story-forge) - [public page](https://auraofintelligence.github.io/australian-sire-story-forge/) - explicit cross-reference, shared tooling suite.
+- [Australian-world-travel](https://github.com/auraofintelligence/Australian-world-travel) - [public page](https://auraofintelligence.github.io/Australian-world-travel/) - explicit cross-reference, shared tooling suite.
+- [event-search-QLD](https://github.com/auraofintelligence/event-search-QLD) - [public page](https://auraofintelligence.github.io/event-search-QLD/) - shared tooling suite.
+- [global-founder-atlas](https://github.com/auraofintelligence/global-founder-atlas) - [public page](https://auraofintelligence.github.io/global-founder-atlas/) - explicit cross-reference, shared tooling suite.
+- [strange-but-true-desire-atlas](https://github.com/auraofintelligence/strange-but-true-desire-atlas) - [public page](https://auraofintelligence.github.io/strange-but-true-desire-atlas/) - explicit cross-reference, shared tooling suite.
+- [strange-but-true-travel-oracle](https://github.com/auraofintelligence/strange-but-true-travel-oracle) - [public page](https://auraofintelligence.github.io/strange-but-true-travel-oracle/) - explicit cross-reference, shared tooling suite.
+
+### Direct and other supported connections
+
+- [gajra-earth-claude-build](https://github.com/auraofintelligence/gajra-earth-claude-build) - [public page](https://auraofintelligence.github.io/gajra-earth-claude-build/) - explicit cross-reference.
+
+<!-- github-organisation:end -->
+
 ## Updating one claim or all claims
 
 Deep-country dates are created by `buildClaimChecks` in `assets/data.js`. Change the country date to refresh every claim, or add an override keyed by the stable suffix to refresh one field. For example:
